@@ -1,0 +1,300 @@
+[06:45:34] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06:45:34] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[06:45:35] [Worker-Main-1/INFO]: Loaded 7 recipes
+[06:45:36] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[06:45:36] [Server thread/INFO]: Loading properties
+[06:45:36] [Server thread/INFO]: This server is running Paper version git-Paper-140 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 81a7559)
+[06:45:36] [Server thread/INFO]: Debug logging is disabled
+[06:45:36] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[06:45:36] [Server thread/INFO]: Using 4 threads for Netty based IO
+[06:45:36] [Server thread/INFO]: Default game type: SURVIVAL
+[06:45:36] [Server thread/INFO]: Generating keypair
+[06:45:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:45:36] [Server thread/INFO]: Using epoll channel type
+[06:45:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[06:45:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:45:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:45:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:45:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:45:36] [Server thread/INFO]: Preparing level "world"
+[06:45:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:45:39] [Server thread/INFO]: Time elapsed: 2012 ms
+[06:45:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[06:45:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:45:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:45:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:45:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:45:40] [Server thread/INFO]: Time elapsed: 1605 ms
+[06:45:40] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[06:45:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:45:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:45:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:45:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:45:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:45:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:45:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:45:44] [Server thread/INFO]: Time elapsed: 3425 ms
+[06:45:44] [Server thread/INFO]: Running delayed init tasks
+[06:45:44] [Server thread/INFO]: Done (7.917s)! For help, type "help"
+[06:45:44] [Server thread/INFO]: Timings Reset
+[06:46:35] [User Authenticator #1/INFO]: UUID of player chokoVanill is 5ad9dce8-a748-3e85-81c2-314c7efae9d0
+[06:46:35] [Server thread/INFO]: chokoVanill joined the game
+[06:46:35] [Server thread/INFO]: chokoVanill[/106.69.44.229:59499] logged in with entity id 128 at ([world]-152.5, 72.0, 202.5)
+[06:47:06] [Server thread/INFO]: chokoVanill lost connection: Disconnected
+[06:47:06] [Server thread/INFO]: chokoVanill left the game
+[06:47:54] [User Authenticator #2/INFO]: UUID of player chokoVanill is 5ad9dce8-a748-3e85-81c2-314c7efae9d0
+[06:47:54] [Server thread/INFO]: chokoVanill joined the game
+[06:47:54] [Server thread/INFO]: chokoVanill[/106.69.44.229:59289] logged in with entity id 295 at ([world]-157.14961143294772, 72.0, 198.71681185360896)
+[06:49:28] [Server thread/INFO]: chokoVanill lost connection: Disconnected
+[06:49:28] [Server thread/INFO]: chokoVanill left the game
+[06:52:50] [User Authenticator #3/INFO]: UUID of player chokoVanill is 5ad9dce8-a748-3e85-81c2-314c7efae9d0
+[06:52:50] [Server thread/INFO]: chokoVanill joined the game
+[06:52:50] [Server thread/INFO]: chokoVanill[/106.69.44.229:50814] logged in with entity id 831 at ([world]-152.4019243932741, 66.0, 367.8089274257524)
+[06:53:56] [Server thread/INFO]: chokoVanill lost connection: Disconnected
+[06:53:56] [Server thread/INFO]: chokoVanill left the game
+[07:02:56] [User Authenticator #4/INFO]: UUID of player chokoVanill is 5ad9dce8-a748-3e85-81c2-314c7efae9d0
+[07:02:56] [Server thread/INFO]: chokoVanill joined the game
+[07:02:56] [Server thread/INFO]: chokoVanill[/106.69.44.229:64265] logged in with entity id 1223 at ([world]-181.12423309993352, 64.0, 449.95687870698305)
+[07:03:22] [Server thread/INFO]: chokoVanill was shot by Skeleton
+[07:03:26] [Server thread/INFO]: chokoVanill lost connection: Disconnected
+[07:03:26] [Server thread/INFO]: chokoVanill left the game
+[07:03:39] [User Authenticator #4/INFO]: UUID of player chokoVanill is 5ad9dce8-a748-3e85-81c2-314c7efae9d0
+[07:03:39] [Server thread/INFO]: chokoVanill joined the game
+[07:03:39] [Server thread/INFO]: chokoVanill[/106.69.44.229:49302] logged in with entity id 1431 at ([world]-181.12423309993352, 64.0, 449.95687870698305)
+[07:06:30] [Server thread/INFO]: chokoVanill issued server command: /help
+[07:06:53] [Server thread/INFO]: chokoVanill lost connection: Disconnected
+[07:06:53] [Server thread/INFO]: chokoVanill left the game
+[07:16:13] [User Authenticator #5/INFO]: UUID of player chokoVanill is 5ad9dce8-a748-3e85-81c2-314c7efae9d0
+[07:16:13] [Server thread/INFO]: chokoVanill joined the game
+[07:16:13] [Server thread/INFO]: chokoVanill[/106.69.44.229:63242] logged in with entity id 3054 at ([world]221.85122956255069, 69.0, 479.1630394410336)
+[07:16:24] [Server thread/INFO]: chokoVanill lost connection: Disconnected
+[07:16:24] [Server thread/INFO]: chokoVanill left the game
+[07:51:54] [Server thread/INFO]: Made chocoVanill a server operator
+[07:55:48] [User Authenticator #6/INFO]: UUID of player chokoVanill is 5ad9dce8-a748-3e85-81c2-314c7efae9d0
+[07:55:49] [Server thread/INFO]: chokoVanill joined the game
+[07:55:49] [Server thread/INFO]: chokoVanill[/106.69.44.229:58631] logged in with entity id 3437 at ([world]218.03556242391417, 69.0, 476.38654824812266)
+[07:56:29] [Server thread/INFO]: chokoVanill issued server command: /gamemode creativer
+[07:56:32] [Server thread/INFO]: chokoVanill issued server command: /gamemode creative
+[07:57:04] [Server thread/INFO]: Made chokoVanill a server operator
+[07:57:09] [Server thread/INFO]: chokoVanill issued server command: /gamemode creative
+[07:57:09] [Server thread/INFO]: [chokoVanill: Set own game mode to Creative Mode]
+[07:57:25] [Server thread/INFO]: chokoVanill issued server command: /spawnpoint
+[07:57:25] [Server thread/INFO]: [chokoVanill: Set spawn point to 186, 72, 443 [0.0] in minecraft:overworld for chokoVanill]
+[07:57:32] [Server thread/INFO]: chokoVanill issued server command: /spawnpoint @a
+[07:57:32] [Server thread/INFO]: [chokoVanill: Set spawn point to 186, 72, 437 [0.0] in minecraft:overworld for chokoVanill]
+[07:57:43] [Server thread/INFO]: chokoVanill issued server command: /spawnpoint
+[07:57:43] [Server thread/INFO]: [chokoVanill: Set spawn point to 186, 72, 437 [0.0] in minecraft:overworld for chokoVanill]
+[07:57:48] [Server thread/INFO]: chokoVanill issued server command: /spawn
+[07:57:50] [Server thread/INFO]: chokoVanill issued server command: /help
+[07:57:59] [Server thread/INFO]: chokoVanill issued server command: /kill
+[07:57:59] [Server thread/INFO]: chokoVanill fell out of the world
+[07:57:59] [Server thread/INFO]: [chokoVanill: Killed chokoVanill]
+[08:03:27] [Server thread/INFO]: chokoVanill has made the advancement [Acquire Hardware]
+[08:04:15] [Server thread/INFO]: chokoVanill lost connection: Disconnected
+[08:04:15] [Server thread/INFO]: chokoVanill left the game
+[08:04:43] [Server thread/INFO]: Incomplete (expected 3 coordinates)
+[08:04:43] [Server thread/INFO]: ...npoint @a 186,72,437<--[HERE]
+[08:04:50] [Server thread/INFO]: No player was found
+[10:09:41] [User Authenticator #7/INFO]: UUID of player Cupang5 is dcc6c733-a869-3191-a05e-329053a20d04
+[10:09:41] [Server thread/INFO]: Cupang5 joined the game
+[10:09:41] [Server thread/INFO]: Cupang5[/139.192.238.117:52372] logged in with entity id 4705 at ([world]-142.5, 70.0, 199.5)
+[10:11:52] [User Authenticator #8/INFO]: UUID of player Blue2NetWork is 06083e15-e4d5-3373-8aa2-4d3c2c74f935
+[10:11:52] [Server thread/INFO]: Blue2NetWork joined the game
+[10:11:52] [Server thread/INFO]: Blue2NetWork[/139.255.161.241:64030] logged in with entity id 5296 at ([world]-135.5, 68.0, 204.5)
+[10:13:13] [Server thread/INFO]: Blue2NetWork has made the advancement [Stone Age]
+[10:13:26] [Server thread/INFO]: Blue2NetWork has made the advancement [Getting an Upgrade]
+[10:15:45] [Server thread/INFO]: Blue2NetWork has made the advancement [Sweet Dreams]
+[10:15:46] [Server thread/INFO]: Cupang5 has made the advancement [Sweet Dreams]
+[10:16:21] [Server thread/INFO]: Cupang5 has made the advancement [Stone Age]
+[10:17:22] [Server thread/INFO]: Cupang5 has made the advancement [Getting an Upgrade]
+[10:18:49] [Server thread/INFO]: Blue2NetWork has made the advancement [Acquire Hardware]
+[10:19:28] [User Authenticator #9/INFO]: UUID of player Asep Penyu is 0d48e23b-9eec-3525-a284-6808ea3d3da3
+[10:19:28] [Server thread/INFO]: Asep Penyu joined the game
+[10:19:28] [Server thread/INFO]: Asep Penyu[/182.30.34.51:62212] logged in with entity id 6996 at ([world]-135.5, 68.0, 200.5)
+[10:21:45] [Server thread/INFO]: Asep Penyu has made the advancement [Stone Age]
+[10:27:11] [Async Chat Thread - #0/INFO]: <Blue2NetWork> tidur
+[10:27:20] [Server thread/INFO]: Asep Penyu has made the advancement [Sweet Dreams]
+[10:27:26] [Server thread/INFO]: Cupang5 lost connection: Disconnected
+[10:27:26] [Server thread/INFO]: Cupang5 left the game
+[10:27:46] [User Authenticator #10/INFO]: UUID of player Cupang5 is dcc6c733-a869-3191-a05e-329053a20d04
+[10:27:46] [Server thread/INFO]: Cupang5 joined the game
+[10:27:46] [Server thread/INFO]: Cupang5[/139.192.238.117:63902] logged in with entity id 12113 at ([world]-640.0782741446696, 74.0, 504.1106586806473)
+[10:28:06] [Server thread/INFO]: Cupang5 has made the advancement [Monster Hunter]
+[10:28:49] [Server thread/INFO]: Asep Penyu has made the advancement [Acquire Hardware]
+[10:35:49] [Async Chat Thread - #1/INFO]: <Blue2NetWork> to
+[10:35:54] [Async Chat Thread - #1/INFO]: <Blue2NetWork> ortu gw mau minjem laptop
+[10:35:55] [Async Chat Thread - #1/INFO]: <Blue2NetWork> wkwkw
+[10:35:56] [Async Chat Thread - #1/INFO]: <Blue2NetWork> afk
+[10:35:59] [Async Chat Thread - #1/INFO]: <Asep Penyu> wkwkwkwkw
+[10:37:04] [Server thread/INFO]: Asep Penyu has made the advancement [Getting an Upgrade]
+[10:39:29] [Server thread/INFO]: Cupang5 fell from a high place
+[10:39:44] [Async Chat Thread - #2/INFO]: <Cupang5> mmk
+[10:40:26] [Async Chat Thread - #2/INFO]: <Asep Penyu> wkwk
+[10:45:25] [User Authenticator #11/INFO]: UUID of player chokoVanill is 5ad9dce8-a748-3e85-81c2-314c7efae9d0
+[10:45:26] [Server thread/INFO]: chokoVanill joined the game
+[10:45:26] [Server thread/INFO]: chokoVanill[/106.69.44.229:63248] logged in with entity id 20883 at ([world]161.2429293784064, 70.0, 416.6612719821296)
+[10:46:10] [Server thread/INFO]: chokoVanill issued server command: /tp
+[10:46:13] [Server thread/INFO]: chokoVanill issued server command: /tp Cupang5
+[10:46:13] [Server thread/INFO]: [chokoVanill: Teleported chokoVanill to Cupang5]
+[10:46:40] [Server thread/INFO]: chokoVanill issued server command: /gamemode survival
+[10:46:40] [Server thread/INFO]: [chokoVanill: Set own game mode to Survival Mode]
+[10:47:38] [Server thread/INFO]: Asep Penyu has made the advancement [Monster Hunter]
+[10:52:11] [Server thread/INFO]: chokoVanill has made the advancement [Stone Age]
+[10:52:58] [Server thread/INFO]: chokoVanill has made the advancement [Getting an Upgrade]
+[10:53:09] [Server thread/INFO]: Cupang5 has made the advancement [Acquire Hardware]
+[10:53:22] [Server thread/INFO]: Cupang5 has made the advancement [Isn't It Iron Pick]
+[10:56:55] [Server thread/INFO]: Blue2NetWork has made the advancement [Isn't It Iron Pick]
+[10:57:29] [Async Chat Thread - #3/INFO]: <Blue2NetWork> wey
+[10:57:32] [Async Chat Thread - #3/INFO]: <Blue2NetWork> udah malem belum
+[10:57:33] [Async Chat Thread - #3/INFO]: <Blue2NetWork> ?
+[10:57:39] [Server thread/INFO]: chokoVanill issued server command: /time set day
+[10:57:39] [Server thread/INFO]: [chokoVanill: Set the time to 1000]
+[10:57:43] [Async Chat Thread - #3/INFO]: <chokoVanill> dah pagi lagi
+[10:57:44] [Async Chat Thread - #3/INFO]: <chokoVanill> owakwoakaw
+[10:57:46] [Async Chat Thread - #3/INFO]: <Blue2NetWork> wkwkw
+[10:57:56] [Server thread/INFO]: chokoVanill issued server command: /gamemode creative
+[10:57:56] [Server thread/INFO]: [chokoVanill: Set own game mode to Creative Mode]
+[10:59:29] [Server thread/INFO]: Blue2NetWork has made the advancement [Suit Up]
+[11:01:04] [Server thread/INFO]: Blue2NetWork has made the advancement [Hot Stuff]
+[11:01:48] [Server thread/INFO]: Blue2NetWork has made the advancement [We Need to Go Deeper]
+[11:02:00] [Async Chat Thread - #4/INFO]: <Cupang5> gg dh nether
+[11:02:03] [Async Chat Thread - #4/INFO]: <Blue2NetWork> wkwkwk
+[11:02:07] [Async Chat Thread - #4/INFO]: <Blue2NetWork> gw baru balik lagi
+[11:03:08] [Server thread/INFO]: Asep Penyu has made the advancement [Isn't It Iron Pick]
+[11:04:26] [Async Chat Thread - #5/INFO]: <Blue2NetWork> wey
+[11:04:29] [Async Chat Thread - #5/INFO]: <Blue2NetWork> ini rumah siapa
+[11:04:29] [Async Chat Thread - #5/INFO]: <Asep Penyu> ini rumah siapa
+[11:04:30] [Async Chat Thread - #5/INFO]: <Blue2NetWork> wkwkw
+[11:04:34] [Async Chat Thread - #5/INFO]: <Cupang5> yang mana
+[11:04:35] [Async Chat Thread - #5/INFO]: <chokoVanill> yang mana
+[11:04:40] [Async Chat Thread - #5/INFO]: <Blue2NetWork> wkwkw
+[11:04:41] [Async Chat Thread - #5/INFO]: <Asep Penyu> kayu
+[11:04:47] [Async Chat Thread - #5/INFO]: <Blue2NetWork> Deket ternyata
+[11:04:49] [Async Chat Thread - #5/INFO]: <Blue2NetWork> kocak
+[11:04:53] [Async Chat Thread - #5/INFO]: <Blue2NetWork> sama nether portal
+[11:04:54] [Async Chat Thread - #5/INFO]: <Cupang5> bngst yang kayu banyak to
+[11:05:03] [Async Chat Thread - #5/INFO]: <Asep Penyu> tentangga
+[11:06:50] [Server thread/INFO]: Asep Penyu has made the advancement [Suit Up]
+[11:08:12] [User Authenticator #12/INFO]: UUID of player JuniorGamingPro is 2e363873-f661-36c5-8ce3-1cbe56ac9f47
+[11:08:12] [Server thread/INFO]: JuniorGamingPro joined the game
+[11:08:12] [Server thread/INFO]: JuniorGamingPro[/182.253.250.172:3037] logged in with entity id 30061 at ([world]-135.5, 69.0, 217.5)
+[11:08:54] [Async Chat Thread - #6/INFO]: <Cupang5> -745 887
+[11:09:07] [Server thread/INFO]: Asep Penyu has made the advancement [We Need to Go Deeper]
+[11:09:54] [Server thread/INFO]: JuniorGamingPro was slain by Spider
+[11:10:09] [Server thread/INFO]: chokoVanill issued server command: /tp JuniorGamingPro chokoVanill
+[11:10:09] [Server thread/INFO]: [chokoVanill: Teleported JuniorGamingPro to chokoVanill]
+[11:10:53] [Server thread/INFO]: Villager EntityVillager['Villager'/19641, uuid='d1ae9a13-2ed1-4b33-8f4e-b81d43f0d9eb', l='ServerLevel[world]', x=-704.70, y=63.00, z=816.30, cpos=[-45, 51], tl=52613, v=true, rR=null] died, message: 'Villager was slain by Zombie'
+[11:10:59] [Server thread/INFO]: chokoVanill has made the advancement [Sweet Dreams]
+[11:12:05] [Server thread/INFO]: chokoVanill issued server command: /gamemode survival
+[11:12:05] [Server thread/INFO]: [chokoVanill: Set own game mode to Survival Mode]
+[11:13:49] [Server thread/INFO]: Cupang5 has made the advancement [Suit Up]
+[11:13:57] [Server thread/INFO]: JuniorGamingPro has made the advancement [Monster Hunter]
+[11:14:37] [Server thread/INFO]: chokoVanill has made the advancement [Monster Hunter]
+[11:15:28] [Server thread/INFO]: Blue2NetWork was slain by Hoglin
+[11:15:30] [Server thread/INFO]: chokoVanill issued server command: /give chokoVanill torch 64
+[11:15:30] [Server thread/INFO]: [chokoVanill: Gave 64 [Torch] to chokoVanill]
+[11:15:38] [Async Chat Thread - #7/INFO]: <chokoVanill> rip
+[11:15:40] [Async Chat Thread - #7/INFO]: <Cupang5> f
+[11:15:44] [Async Chat Thread - #7/INFO]: <JuniorGamingPro> F
+[11:15:48] [Async Chat Thread - #7/INFO]: <Blue2NetWork> i hate nether
+[11:15:49] [Async Chat Thread - #7/INFO]: <Blue2NetWork> :(
+[11:16:05] [Server thread/INFO]: chokoVanill issued server command: /scoreboard objectives add Death deathCount
+[11:16:05] [Server thread/INFO]: [chokoVanill: Created new objective [Death]]
+[11:16:08] [Server thread/INFO]: JuniorGamingPro has made the advancement [Stone Age]
+[11:16:19] [Server thread/INFO]: chokoVanill issued server command: /scoreboard objectives setdisplay list Death
+[11:16:19] [Server thread/INFO]: [chokoVanill: Set display slot list to show objective Death]
+[11:16:33] [Server thread/INFO]: JuniorGamingPro has made the advancement [Getting an Upgrade]
+[11:16:59] [Server thread/INFO]: Asep Penyu has made the advancement [Hot Stuff]
+[11:20:52] [Server thread/INFO]: chokoVanill issued server command: /give chokoVanill minecraft:cooked_beef 64
+[11:20:52] [Server thread/INFO]: [chokoVanill: Gave 64 [Steak] to chokoVanill]
+[11:21:09] [Server thread/INFO]: chokoVanill issued server command: /give chokoVanill minecraft:iron_ingot 64
+[11:21:09] [Server thread/INFO]: [chokoVanill: Gave 64 [Iron Ingot] to chokoVanill]
+[11:21:28] [Server thread/INFO]: chokoVanill has made the advancement [Isn't It Iron Pick]
+[11:21:40] [Server thread/INFO]: chokoVanill has made the advancement [Suit Up]
+[11:26:58] [Async Chat Thread - #8/INFO]: <Blue2NetWork> betapa males nya gw buat berenang nyebrang danau
+[11:27:33] [Server thread/INFO]: chokoVanill issued server command: /time set day
+[11:27:33] [Server thread/INFO]: [chokoVanill: Set the time to 1000]
+[11:28:53] [Async Chat Thread - #9/INFO]: <Cupang5> pis
+[11:28:57] [Async Chat Thread - #9/INFO]: <Blue2NetWork> ya
+[11:28:58] [Async Chat Thread - #9/INFO]: <Cupang5> adeh
+[11:29:04] [Async Chat Thread - #9/INFO]: <Blue2NetWork> gw mager berenang
+[11:29:08] [Async Chat Thread - #9/INFO]: <Blue2NetWork> xd
+[11:29:22] [Async Chat Thread - #9/INFO]: <Blue2NetWork> this is pretty good bridge tho
+[11:29:33] [Async Chat Thread - #9/INFO]: <Cupang5> tinggal rapihin dikit
+[11:29:37] [Async Chat Thread - #9/INFO]: <Cupang5> tar gua rapihin dh
+[11:34:06] [Server thread/INFO]: JuniorGamingPro has made the advancement [Acquire Hardware]
+[11:34:56] [Server thread/INFO]: JuniorGamingPro has made the advancement [A Seedy Place]
+[11:35:17] [Server thread/INFO]: chokoVanill has made the advancement [A Seedy Place]
+[11:35:31] [Async Chat Thread - #10/INFO]: <Blue2NetWork> bang
+[11:35:35] [Async Chat Thread - #10/INFO]: <Blue2NetWork> ada yang punya sadle gk
+[11:35:38] [Async Chat Thread - #10/INFO]: <chokoVanill> ga
+[11:35:52] [Async Chat Thread - #10/INFO]: <Blue2NetWork> sadle yang di dessert temple di ambil
+[11:35:53] [Async Chat Thread - #10/INFO]: <Blue2NetWork> wkwkww
+[11:36:19] [Async Chat Thread - #10/INFO]: <Blue2NetWork> cup tau gk sadle dimana
+[11:36:24] [Async Chat Thread - #10/INFO]: <Cupang5> engga wkwk
+[11:36:30] [Async Chat Thread - #10/INFO]: <Cupang5> gua blom explore templenya
+[11:36:38] [Server thread/INFO]: JuniorGamingPro has made the advancement [Isn't It Iron Pick]
+[11:36:42] [Server thread/INFO]: JuniorGamingPro has made the advancement [Suit Up]
+[11:37:12] [Server thread/INFO]: Blue2NetWork lost connection: Disconnected
+[11:37:12] [Server thread/INFO]: Blue2NetWork left the game
+[11:37:16] [Server thread/INFO]: JuniorGamingPro has made the advancement [Sweet Dreams]
+[11:37:23] [Server thread/INFO]: chokoVanill issued server command: /time set day
+[11:37:23] [Server thread/INFO]: [chokoVanill: Set the time to 1000]
+[11:37:35] [Server thread/INFO]: Cupang5 lost connection: Disconnected
+[11:37:35] [Server thread/INFO]: Cupang5 left the game
+[11:37:51] [Server thread/INFO]: chokoVanill lost connection: Disconnected
+[11:37:51] [Server thread/INFO]: chokoVanill left the game
+[11:39:43] [Async Chat Thread - #11/INFO]: <Asep Penyu> solat dulu bre
+[11:39:44] [Server thread/INFO]: Asep Penyu lost connection: Disconnected
+[11:39:44] [Server thread/INFO]: Asep Penyu left the game
+[11:46:51] [Server thread/INFO]: JuniorGamingPro has made the advancement [Not Today, Thank You]
+[11:47:13] [User Authenticator #13/INFO]: UUID of player Grazegreeze is 17980f8c-b3ec-321f-b287-9024fb529029
+[11:47:13] [Server thread/INFO]: Grazegreeze joined the game
+[11:47:13] [Server thread/INFO]: Grazegreeze[/120.188.1.127:12911] logged in with entity id 43787 at ([world]-138.5, 68.0, 205.5)
+[11:47:25] [Async Chat Thread - #12/INFO]: <Grazegreeze> kontol
+[11:47:40] [Async Chat Thread - #12/INFO]: <JuniorGamingPro> assalamualaikum sahaba
+[11:47:46] [Async Chat Thread - #12/INFO]: <Grazegreeze> jemput saya tolong
+[11:47:49] [Async Chat Thread - #12/INFO]: <JuniorGamingPro> ingin di rukyah?
+[11:47:56] [Async Chat Thread - #12/INFO]: <JuniorGamingPro> jauh cuk
+[11:47:59] [Async Chat Thread - #12/INFO]: <Grazegreeze> koor
+[11:48:00] [Async Chat Thread - #12/INFO]: <JuniorGamingPro> gua aja di tp
+[11:48:10] [Async Chat Thread - #12/INFO]: <Grazegreeze> koor cukup bruh
+[11:48:13] [Async Chat Thread - #12/INFO]: <JuniorGamingPro> -745 887
+[11:48:20] [Async Chat Thread - #12/INFO]: <Grazegreeze> ini peacefull ya?
+[11:48:30] [Async Chat Thread - #12/INFO]: <JuniorGamingPro> easy
+[11:48:44] [User Authenticator #14/INFO]: UUID of player Blue2NetWork is 06083e15-e4d5-3373-8aa2-4d3c2c74f935
+[11:48:45] [Server thread/INFO]: Blue2NetWork joined the game
+[11:48:45] [Server thread/INFO]: Blue2NetWork[/139.255.161.241:58665] logged in with entity id 44228 at ([world]-995.4533513784678, 71.5625, 858.5996058417677)
+[11:49:03] [Async Chat Thread - #12/INFO]: <Blue2NetWork> tidur dong
+[11:49:05] [Async Chat Thread - #12/INFO]: <Blue2NetWork> p
+[11:49:05] [Async Chat Thread - #12/INFO]: <Blue2NetWork> p
+[11:49:05] [Async Chat Thread - #12/INFO]: <Blue2NetWork> p
+[11:49:05] [Async Chat Thread - #12/INFO]: <Blue2NetWork> p
+[11:49:08] [Server thread/INFO]: JuniorGamingPro lost connection: Disconnected
+[11:49:08] [Server thread/INFO]: JuniorGamingPro left the game
+[11:49:16] [Server thread/INFO]: Grazegreeze lost connection: Disconnected
+[11:49:16] [Server thread/INFO]: Grazegreeze left the game
+[11:49:25] [User Authenticator #14/INFO]: UUID of player Grazegreeze is 17980f8c-b3ec-321f-b287-9024fb529029
+[11:49:25] [Server thread/INFO]: Grazegreeze joined the game
+[11:49:25] [Server thread/INFO]: Grazegreeze[/120.188.1.127:12913] logged in with entity id 44835 at ([world]-297.08371363558473, 65.0, 209.0654934895457)
+[11:49:34] [Server thread/INFO]: Villager EntityVillager['Leatherworker'/44053, uuid='8378521b-7b7a-4700-8c1f-5bc5db8fccb1', l='ServerLevel[world]', x=-334.46, y=72.00, z=197.30, cpos=[-21, 12], tl=15235, v=true, rR=null] died, message: 'Leatherworker was slain by Zombie'
+[11:49:39] [User Authenticator #14/INFO]: UUID of player Asep Penyu is 0d48e23b-9eec-3525-a284-6808ea3d3da3
+[11:49:39] [Server thread/INFO]: Asep Penyu joined the game
+[11:49:39] [Server thread/INFO]: Asep Penyu[/182.30.34.51:60821] logged in with entity id 45027 at ([world]-826.6554502139074, 65.0, 929.2224627188034)
+[11:50:37] [User Authenticator #14/INFO]: UUID of player JuniorGamingPro is 2e363873-f661-36c5-8ce3-1cbe56ac9f47
+[11:50:37] [Server thread/INFO]: JuniorGamingPro joined the game
+[11:50:37] [Server thread/INFO]: JuniorGamingPro[/182.253.250.172:2968] logged in with entity id 45572 at ([world]-213.56988846512175, 51.15312379606114, 960.3000000119209)
+[11:51:13] [Server thread/INFO]: Blue2NetWork has made the advancement [Monster Hunter]
+[11:51:14] [Server thread/WARN]: Boat (vehicle of Grazegreeze) moved wrongly! 1.1414924807872922
+[11:51:14] [Server thread/WARN]: Boat (vehicle of Grazegreeze) moved wrongly! 0.7704770707541115
+[11:51:14] [Server thread/WARN]: Boat (vehicle of Grazegreeze) moved wrongly! 0.39931337927333743
+[11:52:59] [Server thread/INFO]: Grazegreeze lost connection: Timed out
+[11:52:59] [Server thread/INFO]: Grazegreeze left the game
+[11:53:15] [User Authenticator #15/INFO]: UUID of player Grazegreeze is 17980f8c-b3ec-321f-b287-9024fb529029
+[11:53:15] [Server thread/INFO]: Grazegreeze joined the game
+[11:53:15] [Server thread/INFO]: Grazegreeze[/120.188.1.127:12916] logged in with entity id 47834 at ([world]-663.850296643945, 64.0, 759.9130061984457)
+[11:54:53] [Async Chat Thread - #13/INFO]: <Grazegreeze> bro
+[11:54:56] [Async Chat Thread - #13/INFO]: <Grazegreeze> bagi makanan
+[11:54:59] [Async Chat Thread - #13/INFO]: <Grazegreeze> makan gaming
+[11:55:57] [Server thread/INFO]: Grazegreeze issued server command: /kill
+[11:57:02] [Server thread/INFO]: Grazegreeze was slain by Spider

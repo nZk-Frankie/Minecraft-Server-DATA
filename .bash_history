@@ -123,3 +123,10 @@ cd SinglePlayerSleep/
 ls
 vim config.yml 
 screen -r
+ls
+git add --all
+git commit -m "updated"
+git push origin master
+screen -r
+ls
+screen -r

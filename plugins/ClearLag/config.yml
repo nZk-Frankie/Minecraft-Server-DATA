@@ -357,7 +357,7 @@ auto-removal:
   enabled: true
   broadcast-message: '&6[ClearLag] &aRemoved +RemoveAmount Entities!'
   broadcast-removal: true
-  autoremoval-interval: 500
+  autoremoval-interval: 600
   world-filter:
   # - this_world <-This world will be ignored during removal!
   boat: false
@@ -394,14 +394,14 @@ command-remove:
   world-filter:
   # - this_world <-This world will be ignored during removal!
   broadcast-removal: false
-  boat: true
+  boat: false
   falling-block: true
   experience-orb: true
   painting: false
   projectile: true
   item: true
   itemframe: false
-  minecart: true
+  minecart: false
   primed-tnt: true
   item-filter:
   # - Stone <-This item-id will be ignored during removal!

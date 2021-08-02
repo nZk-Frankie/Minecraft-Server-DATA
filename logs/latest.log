@@ -1,404 +1,205 @@
-[01:39:19] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:39:19] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[01:39:20] [Worker-Main-2/INFO]: Loaded 7 recipes
-[01:39:21] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[01:39:21] [Server thread/INFO]: Loading properties
-[01:39:21] [Server thread/INFO]: This server is running Paper version git-Paper-140 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 81a7559)
-[01:39:21] [Server thread/INFO]: Debug logging is disabled
-[01:39:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:39:21] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:39:21] [Server thread/INFO]: Default game type: SURVIVAL
-[01:39:21] [Server thread/INFO]: Generating keypair
-[01:39:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:39:21] [Server thread/INFO]: Using epoll channel type
-[01:39:21] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
-[01:39:21] [Server thread/INFO]: [DeadChest] Loading DeadChest v4.6.0
-[01:39:21] [Server thread/INFO]: [DeadChest] Worldguard support disabled by user
-[01:39:21] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
-[01:39:21] [Server thread/INFO]: [Essentials] Loading Essentials v2.18.2.0
-[01:39:21] [Server thread/INFO]: [EconomyShopGUI] Loading EconomyShopGUI v3.4.2
-[01:39:21] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.46
-[01:39:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:39:21] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[01:39:21] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.18.2.0 which is not a depend, softdepend or loadbefore of this plugin.
-[01:39:21] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[01:39:21] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[01:39:21] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[01:39:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:39:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:39:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:39:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:39:21] [Server thread/INFO]: Preparing level "world"
-[01:39:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:39:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:39:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:39:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:39:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:39:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:39:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:39:24] [Server thread/INFO]: Time elapsed: 2800 ms
-[01:39:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:39:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:39:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:39:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:39:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:39:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:39:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:39:27] [Server thread/INFO]: Time elapsed: 2641 ms
-[01:39:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:39:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:39:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:39:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:39:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:39:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:39:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:39:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:39:31] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:39:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:39:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:39:32] [Server thread/INFO]: Time elapsed: 4690 ms
-[01:39:32] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
-[01:39:32] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
-[01:39:32] [Server thread/INFO]: [ClearLag] Loading modules...
-[01:39:32] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (net.minecraft.server.v1_17_R1.MinecraftServer)
-[01:39:32] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
-[01:39:32] [Server thread/INFO]: [ClearLag] Modules have been loaded!
-[01:39:32] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
-[01:39:32] [Thread-13/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.17]...
-[01:39:32] [Server thread/INFO]: [DeadChest] Enabling DeadChest v4.6.0
-[01:39:32] [Server thread/INFO]: [Essentials] Enabling Essentials v2.18.2.0
-[01:39:32] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
-[01:39:32] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[01:39:32] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[01:39:32] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
-[01:39:32] [Server thread/INFO]: [Essentials] Starting usermap repair
-[01:39:32] [Server thread/WARN]: [Essentials] Missing userdata folder, aborting
-[01:39:32] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
-[01:39:33] [Server thread/INFO]: [Essentials] Loaded 25599 items from items.json.
-[01:39:33] [Server thread/INFO]: [Essentials] Using locale en_US
-[01:39:33] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[01:39:33] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[01:39:33] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[01:39:33] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[01:39:33] [Server thread/INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v3.4.2
-[01:39:33] [Server thread/INFO]: [EconomyShopGUI] Shops.yml has been found!
-[01:39:33] [Server thread/INFO]: [EconomyShopGUI] Sections.yml has been found!
-[01:39:33] [Server thread/INFO]: [EconomyShopGUI] Using lang-en.yml as language file.
-[01:39:33] [Server thread/INFO]: [EconomyShopGUI] Using minecraft version 1.17.1...
-[01:39:33] [Server thread/INFO]: [EconomyShopGUI] Using plugin default spawners...
-[01:39:33] [Server thread/INFO]: [EconomyShopGUI] Debug mode is enabled.
-[01:39:33] [Server thread/INFO]: [EconomyShopGUI] Updating Shop settings...
-[01:39:33] [Server thread/INFO]: [EconomyShopGUI] Loading all items...
-[01:39:33] [Server thread/INFO]: [EconomyShopGUI] Done!
-[01:39:33] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.46
-[01:39:33] [Server thread/INFO]: **************************************
-[01:39:33] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 Loading...
-[01:39:33] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 plugins/SinglePlayerSleep/config.yml
-[01:39:33] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 config.yml has been updated
-[01:39:33] [Server thread/INFO]: Checking for updates...
-[01:39:34] [Thread-13/INFO]: [ClearLag] No updates found!
-[01:39:34] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 plugins/SinglePlayerSleep/permissions.yml
-[01:39:34] [Server thread/INFO]: **************************************
-[01:39:34] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 is ENABLED
-[01:39:34] [Server thread/INFO]: **************************************
-[01:39:34] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 This server is running Paper version git-Paper-140 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT)
-[01:39:34] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 vardebug=false debug=false in plugins/SinglePlayerSleep/config.yml
-[01:39:34] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 jarfilename=/home/opc/plugins/SinglePlayerSleep-1.13_2.13.46.jar
-[01:39:34] [Server thread/INFO]: Running delayed init tasks
-[01:39:34] [Server thread/INFO]: Done (13.528s)! For help, type "help"
-[01:39:34] [Server thread/INFO]: Timings Reset
-[01:39:34] [Craft Scheduler Thread - 3/INFO]: [Vault] Checking for Updates ... 
-[01:39:34] [Craft Scheduler Thread - 3/INFO]: [Vault] No new version available
-[01:41:20] [User Authenticator #1/INFO]: UUID of player chokoVanill is 5ad9dce8-a748-3e85-81c2-314c7efae9d0
-[01:41:21] [Server thread/INFO]: chokoVanill joined the game
-[01:41:21] [Server thread/INFO]: chokoVanill[/106.69.44.229:60547] logged in with entity id 156 at ([world]-799.1355262193317, 66.0, 839.3000000119209)
-[01:41:21] [Server thread/WARN]: [Essentials] File motd.txt does not exist. Creating one for you.
-[01:41:21] [pool-8-thread-1/INFO]: [Essentials] Creating empty config: /home/opc/plugins/Essentials/userdata/5ad9dce8-a748-3e85-81c2-314c7efae9d0.yml
-[01:41:39] [Server thread/INFO]: chokoVanill issued server command: /list
-[01:41:44] [Server thread/INFO]: chokoVanill issued server command: /plugins
-[01:41:50] [Server thread/INFO]: chokoVanill issued server command: /shop
-[01:47:13] [Server thread/INFO]: chokoVanill issued server command: /difficulty
-[01:47:18] [Server thread/INFO]: chokoVanill issued server command: /difficulty hard
-[01:47:18] [Server thread/INFO]: [chokoVanill: The difficulty has been set to Hard]
-[01:47:24] [Server thread/INFO]: chokoVanill issued server command: /difficulty
-[01:47:56] [Server thread/INFO]: chokoVanill was slain by Enderman
-[01:50:46] [Server thread/INFO]: chokoVanill issued server command: /shop
-[01:50:52] [Server thread/INFO]: chokoVanill issued server command: /shop
-[01:51:12] [Server thread/INFO]: [EconomyShopGUI] chokoVanill sold 1 x Iron Ingot for $5.25 with the sell screen.
-[01:51:13] [Server thread/INFO]: [EconomyShopGUI] chokoVanill sold 1 x Iron Ingot for $5.25 with the sell screen.
-[01:51:13] [Server thread/INFO]: [EconomyShopGUI] chokoVanill sold 1 x Iron Ingot for $5.25 with the sell screen.
-[01:51:14] [Server thread/INFO]: [EconomyShopGUI] chokoVanill sold 1 x Iron Ingot for $5.25 with the sell screen.
-[01:51:14] [Server thread/INFO]: [EconomyShopGUI] chokoVanill sold 1 x Iron Ingot for $5.25 with the sell screen.
-[01:51:14] [Server thread/INFO]: [EconomyShopGUI] chokoVanill sold 1 x Iron Ingot for $5.25 with the sell screen.
-[01:51:14] [Server thread/INFO]: [EconomyShopGUI] chokoVanill sold 1 x Iron Ingot for $5.25 with the sell screen.
-[01:51:21] [Server thread/INFO]: [EconomyShopGUI] chokoVanill sold 3 x Iron Ingot for $15.75 with the sell screen.
-[01:51:22] [Server thread/INFO]: [EconomyShopGUI] chokoVanill sold 3 x Iron Ingot for $15.75 with the sell screen.
-[01:51:23] [Server thread/INFO]: [EconomyShopGUI] chokoVanill sold 3 x Iron Ingot for $15.75 with the sell screen.
-[01:51:42] [Server thread/INFO]: [EconomyShopGUI] chokoVanill sold 1 x Iron Ingot for $5.25 with the sell all screen.
-[01:51:47] [Server thread/INFO]: chokoVanill issued server command: /bal
-[01:52:19] [Server thread/INFO]: chokoVanill issued server command: /spawner
-[01:52:28] [Server thread/INFO]: chokoVanill lost connection: Disconnected
-[01:52:28] [Server thread/INFO]: chokoVanill left the game
-[02:56:19] [Server thread/INFO]: CONSOLE issued server command: /list 
-[02:56:19] [Server thread/INFO]: There are 0 out of maximum 20 players online.
-[02:56:21] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[02:56:23] [Server thread/INFO]: CONSOLE issued server command: /help 
-[02:56:23] [Server thread/INFO]: To view help from the console, type '?'.
-[02:56:26] [Server thread/INFO]: --------- Help: Index ---------------------------
-[02:56:26] [Server thread/INFO]: Use /help [n] to get page n of help.
-[02:56:26] [Server thread/INFO]: Aliases: Lists command aliases
-[02:56:26] [Server thread/INFO]: Bukkit: All commands for Bukkit
-[02:56:26] [Server thread/INFO]: ClearLag: All commands for ClearLag
-[02:56:26] [Server thread/INFO]: DeadChest: All commands for DeadChest
-[02:56:26] [Server thread/INFO]: EconomyShopGUI: All commands for EconomyShopGUI
-[02:56:26] [Server thread/INFO]: Essentials: All commands for Essentials
-[02:56:26] [Server thread/INFO]: Minecraft: All commands for Minecraft
-[02:56:26] [Server thread/INFO]: SinglePlayerSleep: All commands for SinglePlayerSleep
-[02:56:26] [Server thread/INFO]: Vault: All commands for Vault
-[02:56:26] [Server thread/INFO]: /advancement: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /afk: Marks you as away-from-keyboard.
-[02:56:26] [Server thread/INFO]: /antioch: A little surprise for operators.
-[02:56:26] [Server thread/INFO]: /anvil: Opens up an anvil.
-[02:56:26] [Server thread/INFO]: /attribute: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /back: Teleports you to your location prior to tp/spawn/warp.
-[02:56:26] [Server thread/INFO]: /backup: Runs the backup if configured.
-[02:56:26] [Server thread/INFO]: /balance: States the current balance of a player.
-[02:56:26] [Server thread/INFO]: /balancetop: Gets the top balance values.
-[02:56:26] [Server thread/INFO]: /ban: Bans a player.
-[02:56:26] [Server thread/INFO]: /ban-ip: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /banip: Bans an IP address.
-[02:56:26] [Server thread/INFO]: /banlist: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /beezooka: Throw an exploding bee at your opponent.
-[02:56:26] [Server thread/INFO]: /bigtree: Spawn a big tree where you are looking.
-[02:56:26] [Server thread/INFO]: /book: Allows reopening and editing of sealed books.
-[02:56:26] [Server thread/INFO]: /bossbar: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /break: Breaks the block you are looking at.
-[02:56:26] [Server thread/INFO]: /broadcast: Broadcasts a message to the entire server.
-[02:56:26] [Server thread/INFO]: /broadcastworld: Broadcasts a message to a world.
-[02:56:26] [Server thread/INFO]: /bukkit:help: Shows the help menu
-[02:56:26] [Server thread/INFO]: /burn: Set a player on fire.
-[02:56:26] [Server thread/INFO]: /cartographytable: Opens up a cartography table.
-[02:56:26] [Server thread/INFO]: /clearinventory: Clear all items in your inventory.
-[02:56:26] [Server thread/INFO]: /clearinventoryconfirmtoggle: Toggles whether you are prompted to confirm inventory clears.
-[02:56:26] [Server thread/INFO]: /clearrain: Clears rain, when it is not night and there is a rain storm.
-[02:56:26] [Server thread/INFO]: /clone: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /compass: Describes your current bearing.
-[02:56:26] [Server thread/INFO]: /condense: Condenses items into a more compact blocks.
-[02:56:26] [Server thread/INFO]: /createkit: Create a kit in game!
-[02:56:26] [Server thread/INFO]: /customtext: Allows you to create custom text commands.
-[02:56:26] [Server thread/INFO]: /data: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /datapack: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /dayskip: Notifies players that player wishes to dayskip.
-[02:56:26] [Server thread/INFO]: /dc: List of commands
-[02:56:26] [Server thread/INFO]: /debug: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /defaultgamemode: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /delhome: Removes a home.
-[02:56:26] [Server thread/INFO]: /deljail: Removes a jail.
-[02:56:26] [Server thread/INFO]: /delkit: Deletes the specified kit.
-[02:56:26] [Server thread/INFO]: /delwarp: Deletes the specified warp.
-[02:56:26] [Server thread/INFO]: /deop: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /depth: States current depth, relative to sea level.
-[02:56:26] [Server thread/INFO]: /difficulty: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /disposal: Opens a portable disposal menu.
-[02:56:26] [Server thread/INFO]: /eco: Manages the server economy.
-[02:56:26] [Server thread/INFO]: /editshop: Add/remove items from the shop with a command ingame.
-[02:56:26] [Server thread/INFO]: /editsign: Edits a sign in the world.
-[02:56:26] [Server thread/INFO]: /effect: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /enchant: Enchants the item the user is holding.
-[02:56:26] [Server thread/INFO]: /enderchest: Lets you see inside an enderchest.
-[02:56:26] [Server thread/INFO]: /essentials: Reloads essentials.
-[02:56:26] [Server thread/INFO]: /execute: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /exp: Give, set, reset, or look at a players experience.
-[02:56:26] [Server thread/INFO]: /experience: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /ext: Extinguish players.
-[02:56:26] [Server thread/INFO]: /feed: Satisfy the hunger.
-[02:56:26] [Server thread/INFO]: /fill: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /fireball: Throw a fireball or other assorted projectiles.
-[02:56:26] [Server thread/INFO]: /firework: Allows you to modify a stack of fireworks.
-[02:56:26] [Server thread/INFO]: /fly: Take off, and soar!
-[02:56:26] [Server thread/INFO]: /forceload: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /function: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /gamemode: Change player gamemode.
-[02:56:26] [Server thread/INFO]: /gamerule: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /gc: Reports memory, uptime and tick info.
-[02:56:26] [Server thread/INFO]: /getpos: Get your current coordinates or those of a player.
-[02:56:26] [Server thread/INFO]: /give: Give a player an item.
-[02:56:26] [Server thread/INFO]: /god: Enables your godly powers.
-[02:56:26] [Server thread/INFO]: /grindstone: Opens up a grindstone.
-[02:56:26] [Server thread/INFO]: /hat: Get some cool new headgear.
-[02:56:26] [Server thread/INFO]: /heal: Heals you or the given player.
-[02:56:26] [Server thread/INFO]: /help: Views a list of available commands.
-[02:56:26] [Server thread/INFO]: /helpop: Message online admins.
-[02:56:26] [Server thread/INFO]: /home: Teleport to your home.
-[02:56:26] [Server thread/INFO]: /ignore: Ignore or unignore other players.
-[02:56:26] [Server thread/INFO]: /info: Shows information set by the server owner.
-[02:56:26] [Server thread/INFO]: /invsee: See the inventory of other players.
-[02:56:26] [Server thread/INFO]: /item: Spawn an item.
-[02:56:26] [Server thread/INFO]: /itemdb: Searches for an item.
-[02:56:26] [Server thread/INFO]: /itemlore: Edit the lore of an item.
-[02:56:26] [Server thread/INFO]: /itemname: Names an item.
-[02:56:26] [Server thread/INFO]: /jails: List all jails.
-[02:56:26] [Server thread/INFO]: /jump: Jumps to the nearest block in the line of sight.
-[02:56:26] [Server thread/INFO]: /kick: Kicks a specified player with a reason.
-[02:56:26] [Server thread/INFO]: /kickall: Kicks all players off the server except the issuer.
-[02:56:26] [Server thread/INFO]: /kill: Kills specified player.
-[02:56:26] [Server thread/INFO]: /kit: Obtains the specified kit or views all available kits.
-[02:56:26] [Server thread/INFO]: /kittycannon: Throw an exploding kitten at your opponent.
-[02:56:26] [Server thread/INFO]: /lagg: Clearlag base command!
-[02:56:26] [Server thread/INFO]: /lightning: The power of Thor. Strike at cursor or player.
-[02:56:26] [Server thread/INFO]: /list: List all online players.
-[02:56:26] [Server thread/INFO]: /locate: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /locatebiome: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /loom: Opens up a loom.
-[02:56:26] [Server thread/INFO]: /loot: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /mail: Manages inter-player, intra-server mail.
-[02:56:26] [Server thread/INFO]: /me: Describes an action in the context of the player.
-[02:56:26] [Server thread/INFO]: /minecraft:ban: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /minecraft:clear: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /minecraft:enchant: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /minecraft:gamemode: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /minecraft:give: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /minecraft:help: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /minecraft:item: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /minecraft:kick: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /minecraft:kill: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /minecraft:list: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /minecraft:me: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /minecraft:msg: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /minecraft:pardon: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /minecraft:recipe: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /minecraft:reload: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /minecraft:teleport: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /minecraft:tell: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /minecraft:time: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /minecraft:tp: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /minecraft:w: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /minecraft:weather: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /minecraft:xp: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /more: Fills the item stack in hand to specified amount, or to maximum size if none is specified.
-[02:56:26] [Server thread/INFO]: /motd: Views the Message Of The Day.
-[02:56:26] [Server thread/INFO]: /msg: Sends a private message to the specified player.
-[02:56:26] [Server thread/INFO]: /msgtoggle: Blocks receiving all private messages.
-[02:56:26] [Server thread/INFO]: /mspt: View server tick times
-[02:56:26] [Server thread/INFO]: /mute: Mutes or unmutes a player.
-[02:56:26] [Server thread/INFO]: /near: Lists the players near by or around a player.
-[02:56:26] [Server thread/INFO]: /nick: Change your nickname or that of another player.
-[02:56:26] [Server thread/INFO]: /nuke: May death rain upon them.
-[02:56:26] [Server thread/INFO]: /op: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /paper: Paper related commands
-[02:56:26] [Server thread/INFO]: /pardon-ip: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /particle: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /pay: Pays another player from your balance.
-[02:56:26] [Server thread/INFO]: /payconfirmtoggle: Toggles whether you are prompted to confirm payments.
-[02:56:26] [Server thread/INFO]: /paytoggle: Toggles whether you are accepting payments.
-[02:56:26] [Server thread/INFO]: /perf: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /ping: Pong!
-[02:56:26] [Server thread/INFO]: /playsound: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
-[02:56:26] [Server thread/INFO]: /potion: Adds custom potion effects to a potion.
-[02:56:26] [Server thread/INFO]: /powertool: Assigns a command to the item in hand.
-[02:56:26] [Server thread/INFO]: /powertooltoggle: Enables or disables all current powertools.
-[02:56:26] [Server thread/INFO]: /ptime: Adjust player's client time. Add @ prefix to fix.
-[02:56:26] [Server thread/INFO]: /pweather: Adjust a player's weather
-[02:56:26] [Server thread/INFO]: /r: Quickly reply to the last player to message you.
-[02:56:26] [Server thread/INFO]: /realname: Displays the username of a user based on nick.
-[02:56:26] [Server thread/INFO]: /recipe: Displays how to craft items.
-[02:56:26] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
-[02:56:26] [Server thread/INFO]: /remove: Removes entities in your world.
-[02:56:26] [Server thread/INFO]: /repair: Repairs the durability of one or all items.
-[02:56:26] [Server thread/INFO]: /rest: Rests you or the given player.
-[02:56:26] [Server thread/INFO]: /restart: Restarts the server
-[02:56:26] [Server thread/INFO]: /rtoggle: Change whether the recipient of the reply is last recipient or last sender
-[02:56:26] [Server thread/INFO]: /rules: Views the server rules.
-[02:56:26] [Server thread/INFO]: /save-all: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /save-off: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /save-on: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /say: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /schedule: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /scoreboard: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /seed: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /seen: Shows the last logout time of a player.
-[02:56:26] [Server thread/INFO]: /sell: Sells the item currently in your hand.
-[02:56:26] [Server thread/INFO]: /sellall: Sells all current items in the inventory.
-[02:56:26] [Server thread/INFO]: /setblock: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /sethome: Set your home to your current location.
-[02:56:26] [Server thread/INFO]: /setidletimeout: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /setjail: Creates a jail where you specified named [jailname].
-[02:56:26] [Server thread/INFO]: /settpr: Set the random teleport location and parameters.
-[02:56:26] [Server thread/INFO]: /setwarp: Creates a new warp.
-[02:56:26] [Server thread/INFO]: /setworldspawn: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /setworth: Set the sell value of an item.
-[02:56:26] [Server thread/INFO]: /shop: Opens the server shop.
-[02:56:26] [Server thread/INFO]: /showkit: Show contents of a kit.
-[02:56:26] [Server thread/INFO]: /skull: Set the owner of a player skull
-[02:56:26] [Server thread/INFO]: /sleep: Notifies players that player wishes to sleep.
-[02:56:26] [Server thread/INFO]: /smithingtable: Opens up a smithing table.
-[02:56:26] [Server thread/INFO]: /socialspy: Toggles if you can see msg/mail commands in chat.
-[02:56:26] [Server thread/INFO]: /spawner: Change the mob type of a spawner.
-[02:56:26] [Server thread/INFO]: /spawnmob: Spawns a mob.
-[02:56:26] [Server thread/INFO]: /spawnpoint: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /spectate: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /speed: Change your speed limits.
-[02:56:26] [Server thread/INFO]: /spigot: Spigot related commands
-[02:56:26] [Server thread/INFO]: /spreadplayers: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /sps: Shows SinglePlayerSleep help.
-[02:56:26] [Server thread/INFO]: /spsbloodmoon: Disables sleep during a blood moon, console only.
-[02:56:26] [Server thread/INFO]: /spscancel: Cancels Single Player Sleep. Does not change to day.
-[02:56:26] [Server thread/INFO]: /sreload: Reloads the plugin.
-[02:56:26] [Server thread/INFO]: /stonecutter: Opens up a stonecutter.
-[02:56:26] [Server thread/INFO]: /stop: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /stopsound: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /sudo: Make another user perform a command.
-[02:56:26] [Server thread/INFO]: /suicide: Causes you to perish.
-[02:56:26] [Server thread/INFO]: /summon: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /tag: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /team: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /teammsg: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /tellraw: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /tempban: Temporary ban a user.
-[02:56:26] [Server thread/INFO]: /tempbanip: Temporarily ban an IP Address.
-[02:56:26] [Server thread/INFO]: /thunder: Enable/disable thunder.
-[02:56:26] [Server thread/INFO]: /time: Display/Change the world time. Defaults to current world.
-[02:56:26] [Server thread/INFO]: /timings: Manages Spigot Timings data to see performance of the server.
-[02:56:26] [Server thread/INFO]: /title: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /tm: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /togglejail: Jails/Unjails a player, TPs them to the jail specified.
-[02:56:26] [Server thread/INFO]: /top: Teleport to the highest block at your current position.
-[02:56:26] [Server thread/INFO]: /tp: Teleport to a player.
-[02:56:26] [Server thread/INFO]: /tpa: Request to teleport to the specified player.
-[02:56:26] [Server thread/INFO]: /tpaall: Requests all players online to teleport to you.
-[02:56:26] [Server thread/INFO]: /tpacancel: Cancel all outstanding teleport requests. Specify [player] to cancel requests with them.
-[02:56:26] [Server thread/INFO]: /tpaccept: Accepts a teleport request.
-[02:56:26] [Server thread/INFO]: /tpahere: Request that the specified player teleport to you.
-[02:56:26] [Server thread/INFO]: /tpall: Teleport all online players to another player.
-[02:56:26] [Server thread/INFO]: /tpauto: Automatically accept teleportation requests.
-[02:56:26] [Server thread/INFO]: /tpdeny: Reject a teleport request.
-[02:56:26] [Server thread/INFO]: /tphere: Teleport a player to you.
-[02:56:26] [Server thread/INFO]: /tpo: Teleport override for tptoggle.
-[02:56:26] [Server thread/INFO]: /tpoffline: Teleport to a player's last known logout location
-[02:56:26] [Server thread/INFO]: /tpohere: Teleport here override for tptoggle.
-[02:56:26] [Server thread/INFO]: /tppos: Teleport to coordinates.
-[02:56:26] [Server thread/INFO]: /tpr: Teleport randomly.
-[02:56:26] [Server thread/INFO]: /tps: Gets the current ticks per second for the server
-[02:56:26] [Server thread/INFO]: /tptoggle: Blocks all forms of teleportation.
-[02:56:26] [Server thread/INFO]: /tree: Spawn a tree where you are looking.
-[02:56:26] [Server thread/INFO]: /trigger: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /unban: Unbans the specified player.
-[02:56:26] [Server thread/INFO]: /unbanip: Unbans the specified IP address.
-[02:56:26] [Server thread/INFO]: /unlimited: Allows the unlimited placing of items.
-[02:56:26] [Server thread/INFO]: /vanish: Hide yourself from other players.
-[02:56:26] [Server thread/INFO]: /vault-convert: Converts all data in economy1 and dumps it into economy2
-[02:56:26] [Server thread/INFO]: /vault-info: Displays information about Vault
-[02:56:26] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
-[02:56:26] [Server thread/INFO]: /warp: List all warps or warp to the specified location.
-[02:56:26] [Server thread/INFO]: /weather: Sets the weather.
-[02:56:26] [Server thread/INFO]: /whitelist: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /whois: Determine the username behind a nickname.
-[02:56:26] [Server thread/INFO]: /workbench: Opens up a workbench.
-[02:56:26] [Server thread/INFO]: /world: Switch between worlds.
-[02:56:26] [Server thread/INFO]: /worldborder: A Mojang provided command.
-[02:56:26] [Server thread/INFO]: /worth: Calculates the worth of items in hand or as specified.
-[02:56:37] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[02:56:38] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
-[02:56:40] [Server thread/INFO]: CONSOLE issued server command: /help 
-[02:56:40] [Server thread/INFO]: To view help from the console, type '?'.
+[11:47:41] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:47:41] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[11:47:42] [Worker-Main-1/INFO]: Loaded 7 recipes
+[11:47:43] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[11:47:43] [Server thread/INFO]: Loading properties
+[11:47:43] [Server thread/INFO]: This server is running Paper version git-Paper-140 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 81a7559)
+[11:47:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:47:43] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:47:43] [Server thread/INFO]: Debug logging is disabled
+[11:47:43] [Server thread/INFO]: Default game type: SURVIVAL
+[11:47:43] [Server thread/INFO]: Generating keypair
+[11:47:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:47:43] [Server thread/INFO]: Using epoll channel type
+[11:47:43] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
+[11:47:43] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.47
+[11:47:46] [Server thread/INFO]: [DeadChest] Loading DeadChest v4.6.0
+[11:47:46] [Server thread/INFO]: [DeadChest] Worldguard support disabled by user
+[11:47:46] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[11:47:46] [Server thread/INFO]: [Essentials] Loading Essentials v2.18.2.0
+[11:47:46] [Server thread/INFO]: [EconomyShopGUI] Loading EconomyShopGUI v3.4.2
+[11:47:46] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.46
+[11:47:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:47:46] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.47
+[11:47:46] [Server thread/INFO]:         __    
+[11:47:46] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.47
+[11:47:46] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[11:47:46] [Server thread/INFO]: 
+[11:47:46] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[11:47:47] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[11:47:47] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[11:47:47] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[11:47:47] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1437ms)
+[11:47:47] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[11:47:47] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.18.2.0 which is not a depend, softdepend or loadbefore of this plugin.
+[11:47:47] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[11:47:48] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[11:47:48] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[11:47:48] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[11:47:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:47:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:47:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:47:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:47:48] [Server thread/INFO]: Preparing level "world"
+[11:47:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:47:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:47:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:47:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:47:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:51] [Server thread/INFO]: Time elapsed: 2800 ms
+[11:47:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:47:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:54] [Server thread/INFO]: Time elapsed: 2805 ms
+[11:47:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[11:47:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:47:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:47:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:47:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:47:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:47:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:47:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:47:58] [Worker-Main-2/INFO]: Preparing spawn area: 40%
+[11:47:58] [Server thread/INFO]: Time elapsed: 4114 ms
+[11:47:58] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[11:47:58] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[11:47:58] [Server thread/INFO]: [ClearLag] Loading modules...
+[11:47:58] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (net.minecraft.server.v1_17_R1.MinecraftServer)
+[11:47:58] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[11:47:58] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[11:47:58] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[11:47:58] [Thread-16/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.17]...
+[11:47:58] [Server thread/INFO]: [DeadChest] Enabling DeadChest v4.6.0
+[11:47:58] [Server thread/INFO]: [Essentials] Enabling Essentials v2.18.2.0
+[11:47:58] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[11:47:58] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[11:47:58] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[11:47:58] [Server thread/INFO]: [Essentials] Loaded 25599 items from items.json.
+[11:47:58] [Server thread/INFO]: [Essentials] Using locale en_US
+[11:47:58] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[11:47:58] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[11:47:58] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[11:47:58] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[11:47:58] [Server thread/INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v3.4.2
+[11:47:58] [Server thread/INFO]: [EconomyShopGUI] Shops.yml has been found!
+[11:47:58] [Server thread/INFO]: [EconomyShopGUI] Sections.yml has been found!
+[11:47:58] [Server thread/INFO]: [EconomyShopGUI] Using lang-en.yml as language file.
+[11:47:58] [Server thread/INFO]: [EconomyShopGUI] Using minecraft version 1.17.1...
+[11:47:58] [Server thread/INFO]: [EconomyShopGUI] Using plugin default spawners...
+[11:47:58] [Server thread/INFO]: [EconomyShopGUI] Debug mode is enabled.
+[11:47:58] [Server thread/INFO]: [EconomyShopGUI] Updating Shop settings...
+[11:47:58] [Server thread/INFO]: [EconomyShopGUI] Loading all items...
+[11:47:59] [Server thread/INFO]: [EconomyShopGUI] Done!
+[11:47:59] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.46
+[11:47:59] [Server thread/INFO]: **************************************
+[11:47:59] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 Loading...
+[11:47:59] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 plugins/SinglePlayerSleep/config.yml
+[11:47:59] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 config.yml has been updated
+[11:47:59] [Server thread/INFO]: Checking for updates...
+[11:47:59] [Thread-16/INFO]: [ClearLag] No updates found!
+[11:48:00] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 plugins/SinglePlayerSleep/permissions.yml
+[11:48:00] [Server thread/INFO]: **************************************
+[11:48:00] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 is ENABLED
+[11:48:00] [Server thread/INFO]: **************************************
+[11:48:00] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 This server is running Paper version git-Paper-140 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT)
+[11:48:00] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 vardebug=false debug=false in plugins/SinglePlayerSleep/config.yml
+[11:48:00] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 jarfilename=/home/opc/plugins/SinglePlayerSleep-1.13_2.13.46.jar
+[11:48:00] [Server thread/INFO]: Running delayed init tasks
+[11:48:00] [Server thread/INFO]: Done (17.252s)! For help, type "help"
+[11:48:00] [Server thread/INFO]: Timings Reset
+[11:48:00] [Craft Scheduler Thread - 1/INFO]: [Vault] Checking for Updates ... 
+[11:48:00] [User Authenticator #1/INFO]: UUID of player Zwittt is a4842811-37e4-30a7-a2ff-1f618da62456
+[11:48:00] [Craft Scheduler Thread - 1/INFO]: [Vault] No new version available
+[11:48:01] [Server thread/INFO]: Zwittt joined the game
+[11:48:01] [Server thread/INFO]: Zwittt[/202.138.250.61:52697] logged in with entity id 48 at ([world]-2322.2470706111176, 105.0, -1709.3674358694527)
+[11:48:26] [User Authenticator #1/INFO]: UUID of player Zusagi is 73ccc71b-720f-3009-8d4a-268290b27c99
+[11:48:26] [Server thread/INFO]: Zusagi joined the game
+[11:48:26] [Server thread/INFO]: Zusagi[/114.122.203.247:8649] logged in with entity id 455 at ([world]-2413.699999988079, 27.0, -3841.8966222539384)
+[11:49:26] [Server thread/INFO]: Zusagi has made the advancement [The End?]
+[11:49:27] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[11:49:27] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[11:50:00] [User Authenticator #2/INFO]: UUID of player jojojooooo is a9e460fe-6845-30e6-b32e-e257e1b49380
+[11:50:00] [Server thread/INFO]: jojojooooo joined the game
+[11:50:00] [Server thread/INFO]: jojojooooo[/103.130.131.19:51467] logged in with entity id 873 at ([world]-2624.119449121954, 54.0, -1853.2751976223562)
+[11:50:44] [Async Chat Thread - #0/INFO]: <Zusagi> a
+[11:51:43] [Server thread/INFO]: Zusagi was killed by Ender Dragon using magic
+[11:51:47] [Async Chat Thread - #1/INFO]: <jojojooooo> :kekw:
+[11:51:48] [Async Chat Thread - #1/INFO]: <Zusagi> anying saKIT
+[11:51:55] [Async Chat Thread - #1/INFO]: <Zusagi> bodo ah banzai
+[11:52:24] [Async Chat Thread - #1/INFO]: <jojojooooo> ender dragon nanti bisa spawn lagi?
+[11:52:27] [Async Chat Thread - #1/INFO]: <Zusagi> bsa
+[11:52:31] [Async Chat Thread - #1/INFO]: <jojojooooo> nice
+[11:52:35] [Async Chat Thread - #1/INFO]: <jojojooooo> belom pernah gw
+[11:53:17] [Async Chat Thread - #1/INFO]: <Zusagi> kalo seadnaya kek w ini
+[11:53:21] [Async Chat Thread - #1/INFO]: <Zusagi> susah ngancurin crystalnya
+[11:55:27] [luckperms-command-executor/INFO]: [LP] Preparing a new editor session, please wait...
+[11:55:28] [luckperms-command-executor/INFO]: [LP] Click the link below to open the editor:
+[11:55:28] [luckperms-command-executor/INFO]: https://luckperms.net/editor/s94JujT9Hr
+[11:56:46] [Server thread/INFO]: Zusagi was killed by Ender Dragon using magic
+[11:56:51] [Async Chat Thread - #2/INFO]: <Zwittt> F
+[11:57:06] [Async Chat Thread - #2/INFO]: <jojojooooo> f
+[11:57:14] [Async Chat Thread - #2/INFO]: <Zusagi> pasti win
+[11:57:36] [Async Chat Thread - #2/INFO]: <Zusagi> gara" arrow w ancur jadi susah anying
+[11:59:08] [Server thread/INFO]: Zusagi has made the advancement [Free the End]
+[11:59:11] [Async Chat Thread - #3/INFO]: <Zusagi> kan
+[11:59:59] [Server thread/INFO]: Zusagi has reached the goal [The Next Generation]
+[12:00:20] [Async Chat Thread - #4/INFO]: <Zusagi> yowes off dlu mau makan
+[12:00:30] [Server thread/INFO]: Zusagi lost connection: Disconnected
+[12:00:30] [Server thread/INFO]: Zusagi left the game
+[12:01:08] [Async Chat Thread - #4/INFO]: <Zwittt> jo
+[12:01:12] [Async Chat Thread - #4/INFO]: <jojojooooo> wat
+[12:01:14] [Async Chat Thread - #4/INFO]: <Zwittt> gw ud ampe bedrock g nemu diamond ajg
+[12:01:24] [Async Chat Thread - #4/INFO]: <jojojooooo> ya begitulag
+[12:01:30] [Async Chat Thread - #4/INFO]: <Zwittt> :(
+[12:01:49] [Async Chat Thread - #4/INFO]: <Zwittt> jo rmh gw ud jadi ni
+[12:01:55] [Async Chat Thread - #4/INFO]: <Zwittt> wanna see ?
+[12:02:01] [Async Chat Thread - #4/INFO]: <jojojooooo> mager naiknya
+[12:02:06] [Async Chat Thread - #4/INFO]: <Zwittt> lmao same
+[12:02:15] [luckperms-command-executor/INFO]: [LP] Web editor data was applied to group default successfully.
+[12:02:15] [luckperms-command-executor/INFO]: [LP] (17 additions and 0 deletions)
+[12:02:15] [luckperms-command-executor/INFO]: +  essentials.ping (true)
+[12:02:15] [luckperms-command-executor/INFO]: +  economyshopgui.sellall (true)
+[12:02:15] [luckperms-command-executor/INFO]: +  essentials.afk.auto (true)
+[12:02:15] [luckperms-command-executor/INFO]: +  economyshopgui.sellallhand (true)
+[12:02:15] [luckperms-command-executor/INFO]: +  essentials.sethome (true)
+[12:02:15] [luckperms-command-executor/INFO]: +  essentials.tpacancel (true)
+[12:02:15] [luckperms-command-executor/INFO]: +  essentials.spawn (true)
+[12:02:15] [luckperms-command-executor/INFO]: +  essentials.chat (true)
+[12:02:15] [luckperms-command-executor/INFO]: +  essentials.delhome (true)
+[12:02:15] [luckperms-command-executor/INFO]: +  essentials.tpa (true)
+[12:02:15] [luckperms-command-executor/INFO]: +  economyshopgui.sellallitem (true)
+[12:02:15] [luckperms-command-executor/INFO]: +  essentials.balance (true)
+[12:02:15] [luckperms-command-executor/INFO]: +  essentials.suicide (true)
+[12:02:15] [luckperms-command-executor/INFO]: +  economyshopgui.shop.all (true)
+[12:02:15] [luckperms-command-executor/INFO]: +  essentials.msg (true)
+[12:02:15] [luckperms-command-executor/INFO]: +  essentials.balancetop (true)
+[12:02:15] [luckperms-command-executor/INFO]: +  essentials.tpaccept (true)
+[12:02:38] [Server thread/INFO]: [Server] coba ./shop
+[12:02:40] [Server thread/INFO]: [Server] bisa ga ?
+[12:02:45] [Async Chat Thread - #4/INFO]: <Zwittt> ./shop
+[12:02:46] [Server thread/INFO]: jojojooooo issued server command: /shop
+[12:02:48] [Async Chat Thread - #4/INFO]: <Zwittt> no
+[12:02:51] [Async Chat Thread - #4/INFO]: <jojojooooo> bisa
+[12:02:57] [Server thread/INFO]: Zwittt issued server command: /shop
+[12:02:58] [Async Chat Thread - #4/INFO]: <jojojooooo> gk pake . gblk
+[12:03:02] [Async Chat Thread - #4/INFO]: <Zwittt> oh
+[12:03:07] [Async Chat Thread - #4/INFO]: <jojojooooo> kwaoakw
+[12:03:08] [Async Chat Thread - #4/INFO]: <Zwittt> hehe
+[12:03:21] [Server thread/INFO]: [Server] coba jual item ?
+[12:03:23] [Server thread/INFO]: [Server] bisa ?
+[12:03:27] [Server thread/INFO]: jojojooooo issued server command: /shop
+[12:03:52] [Server thread/INFO]: jojojooooo issued server command: /shop
+[12:04:21] [luckperms-command-executor/INFO]: [LP] Web editor data was applied to group default successfully.
+[12:04:21] [luckperms-command-executor/INFO]: [LP] (1 addition and 0 deletions)
+[12:04:21] [luckperms-command-executor/INFO]: +  essentials.nick (true)
+[12:04:30] [Server thread/INFO]: [EconomyShopGUI] jojojooooo sold 17 x Iron Ingot for $89.25 with the sell screen.
+[12:04:34] [Async Chat Thread - #5/INFO]: <jojojooooo> bisa
+[12:04:37] [Async Chat Thread - #5/INFO]: <jojojooooo> gw ada 90 dollar
+[12:04:54] [Server thread/INFO]: jojojooooo issued server command: /shop

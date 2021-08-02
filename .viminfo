@@ -9,8 +9,8 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-:Wq
 :q
+:Wq
 
 # Search String History (newest to oldest):
 
@@ -23,18 +23,27 @@
 # Registers:
 
 # File marks:
-'0  91  13  ~/plugins/SinglePlayerSleep/config.yml
-'1  86  12  ~/plugins/DeadChest/config.yml
-'2  1  0  ~/plugins/DeadChest/chestData.yml
-'3  443  0  ~/plugins/EconomyShopGUI/shops.yml
-'4  87  0  ~/plugins/EconomyShopGUI/Example items.txt
-'5  221  0  ~/plugins/EconomyShopGUI/config.yml
-'6  1  0  ~/plugins/EconomyShopGUI/config.ym
-'7  1  0  ~/plugins/Vault/config.yml
-'8  463  26  ~/plugins/ClearLag/config.yml
-'9  42  31  ~/paper.yml
+'0  1  0  ~/plugins/Essentials/motd.txt
+'1  1  0  ~/plugins/Essentials/tpr.yml
+'2  1  0  ~/plugins/Vault/config.yml
+'3  1  0  ~/plugins/Essentials/kits.yml
+'4  583  19  ~/plugins/Essentials/config.yml
+'5  42  2  ~/plugins/Essentials/items.json
+'6  1  0  ~/plugins/Essentials/items
+'7  91  13  ~/plugins/SinglePlayerSleep/config.yml
+'8  86  12  ~/plugins/DeadChest/config.yml
+'9  1  0  ~/plugins/DeadChest/chestData.yml
 
 # Jumplist (newest first):
+-'  1  0  ~/plugins/Essentials/motd.txt
+-'  1  0  ~/plugins/Essentials/tpr.yml
+-'  1  0  ~/plugins/Vault/config.yml
+-'  1  0  ~/plugins/Essentials/kits.yml
+-'  583  19  ~/plugins/Essentials/config.yml
+-'  1  0  ~/plugins/Essentials/config.yml
+-'  42  2  ~/plugins/Essentials/items.json
+-'  1  0  ~/plugins/Essentials/items.json
+-'  1  0  ~/plugins/Essentials/items
 -'  91  13  ~/plugins/SinglePlayerSleep/config.yml
 -'  1  0  ~/plugins/SinglePlayerSleep/config.yml
 -'  86  12  ~/plugins/DeadChest/config.yml
@@ -47,7 +56,6 @@
 -'  221  0  ~/plugins/EconomyShopGUI/config.yml
 -'  1  0  ~/plugins/EconomyShopGUI/config.yml
 -'  1  0  ~/plugins/EconomyShopGUI/config.ym
--'  1  0  ~/plugins/Vault/config.yml
 -'  463  26  ~/plugins/ClearLag/config.yml
 -'  1  0  ~/plugins/ClearLag/config.yml
 -'  42  31  ~/paper.yml
@@ -108,7 +116,6 @@
 -'  1  0  ~/eula.txt
 -'  4  8  ~/eula.txt
 -'  1  0  ~/eula.txt
--'  1  0  ~/plugins/Vault/config.yml
 -'  463  26  ~/plugins/ClearLag/config.yml
 -'  1  0  ~/plugins/ClearLag/config.yml
 -'  42  31  ~/paper.yml
@@ -126,16 +133,29 @@
 -'  4  8  ~/eula.txt
 -'  1  0  ~/eula.txt
 -'  42  31  ~/paper.yml
--'  1  0  ~/paper.yml
--'  18  16  ~/server.properties
--'  1  0  ~/server.properties
--'  4  8  ~/eula.txt
--'  1  0  ~/eula.txt
--'  4  8  ~/eula.txt
--'  1  0  ~/eula.txt
--'  18  16  ~/server.properties
 
 # History of marks within files (newest to oldest):
+
+> ~/plugins/Essentials/motd.txt
+	"	1	0
+
+> ~/plugins/Essentials/tpr.yml
+	"	1	0
+
+> ~/plugins/Vault/config.yml
+	"	1	0
+
+> ~/plugins/Essentials/kits.yml
+	"	1	0
+
+> ~/plugins/Essentials/config.yml
+	"	583	19
+
+> ~/plugins/Essentials/items.json
+	"	42	2
+
+> ~/plugins/Essentials/items
+	"	1	0
 
 > ~/plugins/SinglePlayerSleep/config.yml
 	"	91	13
@@ -160,9 +180,6 @@
 	"	221	0
 
 > ~/plugins/EconomyShopGUI/config.ym
-	"	1	0
-
-> ~/plugins/Vault/config.yml
 	"	1	0
 
 > ~/plugins/ClearLag/config.yml

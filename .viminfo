@@ -9,6 +9,8 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
+:Wq
+:q
 
 # Search String History (newest to oldest):
 
@@ -21,18 +23,162 @@
 # Registers:
 
 # File marks:
-'0  18  16  ~/server.properties
-'1  4  8  ~/eula.txt
+'0  91  13  ~/plugins/SinglePlayerSleep/config.yml
+'1  86  12  ~/plugins/DeadChest/config.yml
+'2  1  0  ~/plugins/DeadChest/chestData.yml
+'3  443  0  ~/plugins/EconomyShopGUI/shops.yml
+'4  87  0  ~/plugins/EconomyShopGUI/Example items.txt
+'5  221  0  ~/plugins/EconomyShopGUI/config.yml
+'6  1  0  ~/plugins/EconomyShopGUI/config.ym
+'7  1  0  ~/plugins/Vault/config.yml
+'8  463  26  ~/plugins/ClearLag/config.yml
+'9  42  31  ~/paper.yml
 
 # Jumplist (newest first):
+-'  91  13  ~/plugins/SinglePlayerSleep/config.yml
+-'  1  0  ~/plugins/SinglePlayerSleep/config.yml
+-'  86  12  ~/plugins/DeadChest/config.yml
+-'  1  0  ~/plugins/DeadChest/config.yml
+-'  1  0  ~/plugins/DeadChest/chestData.yml
+-'  443  0  ~/plugins/EconomyShopGUI/shops.yml
+-'  1  0  ~/plugins/EconomyShopGUI/shops.yml
+-'  87  0  ~/plugins/EconomyShopGUI/Example items.txt
+-'  1  0  ~/plugins/EconomyShopGUI/Example items.txt
+-'  221  0  ~/plugins/EconomyShopGUI/config.yml
+-'  1  0  ~/plugins/EconomyShopGUI/config.yml
+-'  1  0  ~/plugins/EconomyShopGUI/config.ym
+-'  1  0  ~/plugins/Vault/config.yml
+-'  463  26  ~/plugins/ClearLag/config.yml
+-'  1  0  ~/plugins/ClearLag/config.yml
+-'  42  31  ~/paper.yml
+-'  1  0  ~/paper.yml
 -'  18  16  ~/server.properties
 -'  1  0  ~/server.properties
 -'  4  8  ~/eula.txt
 -'  1  0  ~/eula.txt
 -'  4  8  ~/eula.txt
 -'  1  0  ~/eula.txt
+-'  18  16  ~/server.properties
+-'  1  0  ~/server.properties
+-'  4  8  ~/eula.txt
+-'  1  0  ~/eula.txt
+-'  4  8  ~/eula.txt
+-'  1  0  ~/eula.txt
+-'  42  31  ~/paper.yml
+-'  1  0  ~/paper.yml
+-'  18  16  ~/server.properties
+-'  1  0  ~/server.properties
+-'  4  8  ~/eula.txt
+-'  1  0  ~/eula.txt
+-'  4  8  ~/eula.txt
+-'  1  0  ~/eula.txt
+-'  18  16  ~/server.properties
+-'  1  0  ~/server.properties
+-'  4  8  ~/eula.txt
+-'  1  0  ~/eula.txt
+-'  4  8  ~/eula.txt
+-'  1  0  ~/eula.txt
+-'  463  26  ~/plugins/ClearLag/config.yml
+-'  1  0  ~/plugins/ClearLag/config.yml
+-'  42  31  ~/paper.yml
+-'  1  0  ~/paper.yml
+-'  18  16  ~/server.properties
+-'  1  0  ~/server.properties
+-'  4  8  ~/eula.txt
+-'  1  0  ~/eula.txt
+-'  4  8  ~/eula.txt
+-'  1  0  ~/eula.txt
+-'  18  16  ~/server.properties
+-'  1  0  ~/server.properties
+-'  4  8  ~/eula.txt
+-'  1  0  ~/eula.txt
+-'  4  8  ~/eula.txt
+-'  1  0  ~/eula.txt
+-'  42  31  ~/paper.yml
+-'  1  0  ~/paper.yml
+-'  18  16  ~/server.properties
+-'  1  0  ~/server.properties
+-'  4  8  ~/eula.txt
+-'  1  0  ~/eula.txt
+-'  4  8  ~/eula.txt
+-'  1  0  ~/eula.txt
+-'  18  16  ~/server.properties
+-'  1  0  ~/server.properties
+-'  4  8  ~/eula.txt
+-'  1  0  ~/eula.txt
+-'  4  8  ~/eula.txt
+-'  1  0  ~/eula.txt
+-'  1  0  ~/plugins/Vault/config.yml
+-'  463  26  ~/plugins/ClearLag/config.yml
+-'  1  0  ~/plugins/ClearLag/config.yml
+-'  42  31  ~/paper.yml
+-'  1  0  ~/paper.yml
+-'  18  16  ~/server.properties
+-'  1  0  ~/server.properties
+-'  4  8  ~/eula.txt
+-'  1  0  ~/eula.txt
+-'  4  8  ~/eula.txt
+-'  1  0  ~/eula.txt
+-'  18  16  ~/server.properties
+-'  1  0  ~/server.properties
+-'  4  8  ~/eula.txt
+-'  1  0  ~/eula.txt
+-'  4  8  ~/eula.txt
+-'  1  0  ~/eula.txt
+-'  42  31  ~/paper.yml
+-'  1  0  ~/paper.yml
+-'  18  16  ~/server.properties
+-'  1  0  ~/server.properties
+-'  4  8  ~/eula.txt
+-'  1  0  ~/eula.txt
+-'  4  8  ~/eula.txt
+-'  1  0  ~/eula.txt
+-'  18  16  ~/server.properties
 
 # History of marks within files (newest to oldest):
+
+> ~/plugins/SinglePlayerSleep/config.yml
+	"	91	13
+
+> ~/plugins/DeadChest/config.yml
+	"	86	12
+	^	86	13
+	.	19	23
+	+	12	19
+	+	19	23
+
+> ~/plugins/DeadChest/chestData.yml
+	"	1	0
+
+> ~/plugins/EconomyShopGUI/shops.yml
+	"	443	0
+
+> ~/plugins/EconomyShopGUI/Example items.txt
+	"	87	0
+
+> ~/plugins/EconomyShopGUI/config.yml
+	"	221	0
+
+> ~/plugins/EconomyShopGUI/config.ym
+	"	1	0
+
+> ~/plugins/Vault/config.yml
+	"	1	0
+
+> ~/plugins/ClearLag/config.yml
+	"	463	26
+	^	360	27
+	.	360	26
+	+	297	14
+	+	360	26
+
+> ~/paper.yml
+	"	42	31
+	^	42	32
+	.	42	31
+	+	40	45
+	+	41	33
+	+	42	31
 
 > ~/server.properties
 	"	18	16

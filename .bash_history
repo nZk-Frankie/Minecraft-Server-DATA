@@ -71,3 +71,55 @@ git commit -m "first commit"
 git push origin master
 git branch
 screen -r
+git add --all
+git commit -m "2/08/2021 Morning Backup"
+git push origin master
+screen -r
+ls
+cd plugins/
+ls
+cd ClearLag/
+ls
+vim config.yml 
+cd ../../..
+ls
+cd opc/
+ls
+screen -r
+ls
+cd plugins/
+ls
+cd Vault
+ls
+vim config.yml 
+cd ..
+cd EconomyShopGUI/
+ls
+vim config.ym
+vim config.yml
+cd ..
+cd EconomyShopGUI/
+ls
+vim Example\ items.txt 
+vim shops.yml
+screen -r
+cd ..
+ls
+rmdir EconomyPlus/
+cd EconomyPlus/
+ls
+rm -f *
+ls
+cd ..
+rmdir EconomyPlus/
+ls
+cd DeadChest/
+ls
+vim chestData.yml 
+vim config.yml 
+cd ..
+ls
+cd SinglePlayerSleep/
+ls
+vim config.yml 
+screen -r

@@ -9,8 +9,8 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-:q
 :Wq
+:q
 
 # Search String History (newest to oldest):
 
@@ -23,18 +23,27 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/plugins/Essentials/motd.txt
-'1  1  0  ~/plugins/Essentials/tpr.yml
-'2  1  0  ~/plugins/Vault/config.yml
-'3  1  0  ~/plugins/Essentials/kits.yml
-'4  583  19  ~/plugins/Essentials/config.yml
-'5  42  2  ~/plugins/Essentials/items.json
-'6  1  0  ~/plugins/Essentials/items
-'7  91  13  ~/plugins/SinglePlayerSleep/config.yml
-'8  86  12  ~/plugins/DeadChest/config.yml
-'9  1  0  ~/plugins/DeadChest/chestData.yml
+'0  236  4  ~/plugins/EconomyShopGUI/shops.yml
+'1  208  0  ~/plugins/EconomyShopGUI/config.yml
+'2  211  37  ~/plugins/EconomyShopGUI/config.yml
+'3  55  24  ~/paper.yml
+'4  163  0  ~/spigot.yml
+'5  1  0  ~/plugins/Essentials/motd.txt
+'6  1  0  ~/plugins/Essentials/tpr.yml
+'7  1  0  ~/plugins/Vault/config.yml
+'8  1  0  ~/plugins/Essentials/kits.yml
+'9  583  19  ~/plugins/Essentials/config.yml
 
 # Jumplist (newest first):
+-'  236  4  ~/plugins/EconomyShopGUI/shops.yml
+-'  443  4  ~/plugins/EconomyShopGUI/shops.yml
+-'  208  0  ~/plugins/EconomyShopGUI/config.yml
+-'  211  0  ~/plugins/EconomyShopGUI/config.yml
+-'  221  0  ~/plugins/EconomyShopGUI/config.yml
+-'  55  24  ~/paper.yml
+-'  42  4  ~/paper.yml
+-'  163  0  ~/spigot.yml
+-'  1  0  ~/spigot.yml
 -'  1  0  ~/plugins/Essentials/motd.txt
 -'  1  0  ~/plugins/Essentials/tpr.yml
 -'  1  0  ~/plugins/Vault/config.yml
@@ -49,16 +58,13 @@
 -'  86  12  ~/plugins/DeadChest/config.yml
 -'  1  0  ~/plugins/DeadChest/config.yml
 -'  1  0  ~/plugins/DeadChest/chestData.yml
--'  443  0  ~/plugins/EconomyShopGUI/shops.yml
 -'  1  0  ~/plugins/EconomyShopGUI/shops.yml
 -'  87  0  ~/plugins/EconomyShopGUI/Example items.txt
 -'  1  0  ~/plugins/EconomyShopGUI/Example items.txt
--'  221  0  ~/plugins/EconomyShopGUI/config.yml
 -'  1  0  ~/plugins/EconomyShopGUI/config.yml
 -'  1  0  ~/plugins/EconomyShopGUI/config.ym
 -'  463  26  ~/plugins/ClearLag/config.yml
 -'  1  0  ~/plugins/ClearLag/config.yml
--'  42  31  ~/paper.yml
 -'  1  0  ~/paper.yml
 -'  18  16  ~/server.properties
 -'  1  0  ~/server.properties
@@ -72,8 +78,6 @@
 -'  1  0  ~/eula.txt
 -'  4  8  ~/eula.txt
 -'  1  0  ~/eula.txt
--'  42  31  ~/paper.yml
--'  1  0  ~/paper.yml
 -'  18  16  ~/server.properties
 -'  1  0  ~/server.properties
 -'  4  8  ~/eula.txt
@@ -88,8 +92,6 @@
 -'  1  0  ~/eula.txt
 -'  463  26  ~/plugins/ClearLag/config.yml
 -'  1  0  ~/plugins/ClearLag/config.yml
--'  42  31  ~/paper.yml
--'  1  0  ~/paper.yml
 -'  18  16  ~/server.properties
 -'  1  0  ~/server.properties
 -'  4  8  ~/eula.txt
@@ -102,8 +104,6 @@
 -'  1  0  ~/eula.txt
 -'  4  8  ~/eula.txt
 -'  1  0  ~/eula.txt
--'  42  31  ~/paper.yml
--'  1  0  ~/paper.yml
 -'  18  16  ~/server.properties
 -'  1  0  ~/server.properties
 -'  4  8  ~/eula.txt
@@ -118,8 +118,6 @@
 -'  1  0  ~/eula.txt
 -'  463  26  ~/plugins/ClearLag/config.yml
 -'  1  0  ~/plugins/ClearLag/config.yml
--'  42  31  ~/paper.yml
--'  1  0  ~/paper.yml
 -'  18  16  ~/server.properties
 -'  1  0  ~/server.properties
 -'  4  8  ~/eula.txt
@@ -130,11 +128,36 @@
 -'  1  0  ~/server.properties
 -'  4  8  ~/eula.txt
 -'  1  0  ~/eula.txt
--'  4  8  ~/eula.txt
--'  1  0  ~/eula.txt
--'  42  31  ~/paper.yml
+-'  55  24  ~/paper.yml
+-'  42  4  ~/paper.yml
+-'  163  0  ~/spigot.yml
+-'  1  0  ~/spigot.yml
+-'  1  0  ~/plugins/Essentials/motd.txt
 
 # History of marks within files (newest to oldest):
+
+> ~/plugins/EconomyShopGUI/shops.yml
+	"	236	4
+
+> ~/plugins/EconomyShopGUI/config.yml
+	"	208	0
+	^	211	38
+	.	211	37
+	+	205	25
+	+	208	25
+	+	211	37
+
+> ~/paper.yml
+	"	55	24
+	^	55	25
+	.	40	46
+	+	40	45
+	+	41	33
+	+	42	31
+	+	40	46
+
+> ~/spigot.yml
+	"	163	0
 
 > ~/plugins/Essentials/motd.txt
 	"	1	0
@@ -170,14 +193,8 @@
 > ~/plugins/DeadChest/chestData.yml
 	"	1	0
 
-> ~/plugins/EconomyShopGUI/shops.yml
-	"	443	0
-
 > ~/plugins/EconomyShopGUI/Example items.txt
 	"	87	0
-
-> ~/plugins/EconomyShopGUI/config.yml
-	"	221	0
 
 > ~/plugins/EconomyShopGUI/config.ym
 	"	1	0
@@ -188,14 +205,6 @@
 	.	360	26
 	+	297	14
 	+	360	26
-
-> ~/paper.yml
-	"	42	31
-	^	42	32
-	.	42	31
-	+	40	45
-	+	41	33
-	+	42	31
 
 > ~/server.properties
 	"	18	16

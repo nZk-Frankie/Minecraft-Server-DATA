@@ -1190,7 +1190,7 @@ Enchanting:
 
   1:
     material: "ENCHANTED_BOOK"
-    buy: 160
+    buy: 1600.1
     sell: 40
     enchantments:
       - "WATER_WORKER:1"
@@ -1202,181 +1202,181 @@ Enchanting:
       - "DAMAGE_ARTHROPODS:5"
   3:
     material: "ENCHANTED_BOOK"
-    buy: 200
+    buy: 2000.3
     sell: 50
     enchantments:
       - "BINDING_CURSE:1"
   4:
     material: "ENCHANTED_BOOK"
-    buy: 1481.76
+    buy: 4481.76
     sell: 370.44
     enchantments:
       - "PROTECTION_EXPLOSIONS:4"
   5:
     material: "ENCHANTED_BOOK"
-    buy: 200
+    buy: 3200
     sell: 50
     enchantments:
       - "CHANNELING:1"
   6:
     material: "ENCHANTED_BOOK"
-    buy: 705.6
+    buy: 2705.6
     sell: 176.4
     enchantments:
       - "DEPTH_STRIDER:3"
   7:
     material: "ENCHANTED_BOOK"
-    buy: 972.41
+    buy: 2972.41
     sell: 243.11
     enchantments:
       - "DIG_SPEED:5"
   8:
     material: "ENCHANTED_BOOK"
-    buy: 926.1
+    buy: 2926.1
     sell: 231.53
     enchantments:
       - "PROTECTION_FALL:4"
   9:
     material: "ENCHANTED_BOOK"
-    buy: 336
+    buy: 2336
     sell: 84
     enchantments:
       - "FIRE_ASPECT:2"
   10:
     material: "ENCHANTED_BOOK"
-    buy: 926.1
+    buy: 2926.1
     sell: 231.53
     enchantments:
       - "PROTECTION_FIRE:4"
   11:
     material: "ENCHANTED_BOOK"
-    buy: 160
+    buy: 2160
     sell: 40
     enchantments:
       - "ARROW_FIRE:1"
   12:
     material: "ENCHANTED_BOOK"
-    buy: 705.6
+    buy: 2705.6
     sell: 176.4
     enchantments:
       - "LOOT_BONUS_BLOCKS:3"
   13:
     material: "ENCHANTED_BOOK"
-    buy: 336
+    buy: 2336
     sell: 84
     enchantments:
       - "FROST_WALKER:2"
   14:
     material: "ENCHANTED_BOOK"
-    buy: 3111.7
+    buy: 8111.7
     sell: 777.93
     enchantments:
       - "IMPALING:5"
   15:
     material: "ENCHANTED_BOOK"
-    buy: 200
+    buy: 2008
     sell: 50
     enchantments:
       - "ARROW_INFINITE:1"
   16:
     material: "ENCHANTED_BOOK"
-    buy: 210
+    buy: 2310
     sell: 52.5
     enchantments:
       - "KNOCKBACK:2"
   17:
     material: "ENCHANTED_BOOK"
-    buy: 705.6
+    buy: 7105.6
     sell: 176.4
     enchantments:
       - "LOOT_BONUS_MOBS:3"
   18:
     material: "ENCHANTED_BOOK"
-    buy: 441
+    buy: 3441
     sell: 110.25
     enchantments:
       - "LOYALTY:3"
   19:
     material: "ENCHANTED_BOOK"
-    buy: 705.6
+    buy: 7405.6
     sell: 176.4
     enchantments:
       - "LUCK:3"
   20:
     material: "ENCHANTED_BOOK"
-    buy: 705.6
+    buy: 7045.6
     sell: 176.4
     enchantments:
       - "LURE:3"
   21:
     material: "ENCHANTED_BOOK"
-    buy: 160
+    buy: 1160
     sell: 40
     enchantments:
       - "MENDING:1"
   22:
     material: "ENCHANTED_BOOK"
-    buy: 160
+    buy: 1640
     sell: 40
     enchantments:
       - "MULTISHOT:1"
   23:
     material: "ENCHANTED_BOOK"
-    buy: 463.05
+    buy: 4643.05
     sell: 115.77
     enchantments:
       - "PIERCING:4"
   24:
     material: "ENCHANTED_BOOK"
-    buy: 972.41
+    buy: 9572.41
     sell: 243.11
     enchantments:
       - "ARROW_DAMAGE:5"
   25:
     material: "ENCHANTED_BOOK"
-    buy: 926.1
+    buy: 9226.1
     sell: 231.53
     enchantments:
       - "PROTECTION_PROJECTILE:4"
   26:
     material: "ENCHANTED_BOOK"
-    buy: 463.05
+    buy: 4633.05
     sell: 115.77
     enchantments:
       - "PROTECTION_ENVIRONMENTAL:4"
   27:
     material: "ENCHANTED_BOOK"
-    buy: 336
+    buy: 3436
     sell: 84
     enchantments:
       - "ARROW_KNOCKBACK:2"
   28:
     material: "ENCHANTED_BOOK"
-    buy: 441
+    buy: 4411
     sell: 110.25
     enchantments:
       - "QUICK_CHARGE:3"
   29:
     material: "ENCHANTED_BOOK"
-    buy: 705.6
+    buy: 7035.6
     sell: 176.4
     enchantments:
       - "OXYGEN:3"
   30:
     material: "ENCHANTED_BOOK"
-    buy: 705.6
+    buy: 7405.6
     sell: 176.4
     enchantments:
       - "RIPTIDE:3"
   31:
     material: "ENCHANTED_BOOK"
-    buy: 972.41
+    buy: 9172.41
     sell: 243.11
     enchantments:
       - "DAMAGE_ALL:5"
   32:
     material: "ENCHANTED_BOOK"
-    buy: 200
+    buy: 4300
     sell: 50
     enchantments:
       - "SILK_TOUCH:1"
@@ -1400,19 +1400,19 @@ Enchanting:
       - "SWEEPING_EDGE:3"
   36:
     material: "ENCHANTED_BOOK"
-    buy: 882
+    buy: 8182
     sell: 220.5
     enchantments:
       - "THORNS:3"
   37:
     material: "ENCHANTED_BOOK"
-    buy: 441
+    buy: 4411
     sell: 110.25
     enchantments:
       - "DURABILITY:3"
   38:
     material: "ENCHANTED_BOOK"
-    buy: 200
+    buy: 2010
     sell: 50
     enchantments:
       - "VANISHING_CURSE:1"
@@ -1423,7 +1423,7 @@ Farming:
 
   1:
     material: "BAMBOO"
-    buy: 0.1
+    buy: 0.05
     sell: 0.03
   2:
     material: "BEE_NEST"
@@ -1747,7 +1747,7 @@ Ores:
     sell: 0.33
   3:
     material: "ANCIENT_DEBRIS"
-    buy: 529
+    buy: 132.25
     sell: 132.25
   4:
     material: "COAL"
@@ -1759,7 +1759,7 @@ Ores:
     sell: 49.62
   6:
     material: "COPPER_BLOCK"
-    buy: 66.15
+    buy: 40.48
     sell: 16.54
   7:
     material: "COPPER_INGOT"
@@ -1864,8 +1864,8 @@ Others:
     sell: 19.89
   7:
     material: "ELYTRA"
-    buy: 2415.2
-    sell: -1
+    buy: 5015.2
+    sell: 500.1
   8:
     material: "ENDER_CHEST"
     buy: 273.12

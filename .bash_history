@@ -130,3 +130,43 @@ git push origin master
 screen -r
 ls
 screen -r
+ls
+cd plugins/
+ls
+cd Essentials/
+ls
+vim items
+vim items.json 
+vim config.yml 
+vim kits.yml 
+cd ..
+cd Vault/
+ls
+vim config.yml 
+cd ..
+cd Essentials/
+ls
+vim tpr.yml 
+cd userdata/
+ls
+cd ..
+vim motd.txt 
+screen -r
+cd ..
+cd Essentials/
+ls
+screen -r
+git add --all
+cd ..
+ls
+git add -A
+git commit -m "Night"
+git push -u origin master
+screen -r
+cd ..
+ls
+cd opc
+ls
+screen -r
+ls
+screen -r

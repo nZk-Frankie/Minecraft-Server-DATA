@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2021-08-02 15:05:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2021-08-01 11:13:57 +0000"
@@ -242,6 +248,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2021-08-01 11:16:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2021-08-02 16:54:47 +0000"
     },
     "done": true
   },
@@ -526,6 +538,7 @@
       "minecraft:skeleton": "2021-08-01 11:43:28 +0000",
       "minecraft:spider": "2021-08-01 11:13:57 +0000",
       "minecraft:creeper": "2021-08-01 11:17:00 +0000",
+      "minecraft:cave_spider": "2021-08-02 14:40:44 +0000",
       "minecraft:enderman": "2021-08-02 07:35:00 +0000",
       "minecraft:zombie": "2021-08-01 12:07:29 +0000",
       "minecraft:zombie_villager": "2021-08-02 10:49:10 +0000"
@@ -535,6 +548,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2021-08-01 11:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2021-08-02 16:22:58 +0000"
     },
     "done": true
   },
@@ -652,6 +671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2021-08-02 15:11:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2021-08-02 08:54:34 +0000"
@@ -727,6 +752,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2021-08-02 08:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2021-08-02 15:11:21 +0000"
     },
     "done": true
   },
@@ -1230,9 +1261,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2021-08-02 16:34:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2021-08-02 07:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2021-08-02 15:11:21 +0000"
     },
     "done": true
   },
@@ -1257,6 +1300,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-08-01 14:25:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2021-08-02 15:11:52 +0000"
     },
     "done": true
   },
@@ -1407,6 +1456,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-08-01 11:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2021-08-02 16:10:19 +0000"
     },
     "done": true
   },
@@ -1598,6 +1653,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2021-08-01 11:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2021-08-02 15:11:52 +0000"
     },
     "done": true
   },
@@ -1933,6 +1994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2021-08-02 15:11:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2021-08-01 11:14:05 +0000"
@@ -1981,6 +2048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2021-08-02 17:00:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-08-01 11:37:12 +0000"
@@ -2008,6 +2081,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-08-01 11:09:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2021-08-02 17:00:52 +0000"
     },
     "done": true
   },
@@ -2203,6 +2282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2021-08-02 15:54:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2021-08-01 11:13:43 +0000"
@@ -2335,9 +2420,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2021-08-02 17:12:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2021-08-01 11:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2021-08-02 15:11:21 +0000"
     },
     "done": true
   },

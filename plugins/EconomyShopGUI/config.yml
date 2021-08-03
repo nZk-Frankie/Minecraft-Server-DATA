@@ -202,10 +202,10 @@ leveleventmoney20/25/30: 50
 #-----------------------------------------------SpawnerSettings---------------------------------------
 
 # If you set this to 'false' you can only place spawners that are bought, you won't be able to get them back with an (Silk Touch) pickaxe.
-enable-spawnerbreak: true
+enable-spawnerbreak: false
 
 # When this option is set to false, you will no longer be able to place spawners bought from the shop with the EconomyShopGUI spawner system.
-enable-spawnerplace: true
+enable-spawnerplace: false
 
 # This option will disable/enable the XP dropped when a spawner is broken.
 player-placed-spawners-drop-exp: false

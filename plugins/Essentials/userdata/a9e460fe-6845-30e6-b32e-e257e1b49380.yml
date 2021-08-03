@@ -1,20 +1,22 @@
 lastAccountName: jojojooooo
 timestamps:
-  login: 1627905000377
-  logout: 1627904852235
+  login: 1627918452170
+  logout: 1627940695675
+  lastteleport: 1627937385342
 ipAddress: 103.130.131.19
 logoutlocation:
   world: world
-  x: -2328.418530237278
+  x: -2328.613025949776
   y: 83.0
-  z: -1708.0027962558415
-  yaw: -7.970703
-  pitch: 18.04466
+  z: -1708.4695021464647
+  yaw: 15.453735
+  pitch: 6.093806
 lastlocation:
   world: world
-  x: -2624.119449121954
-  y: 54.0
-  z: -1853.2751976223562
-  yaw: 41.330994
-  pitch: 25.307606
-money: '89.25'
+  x: -2640.0563263226145
+  y: 12.0
+  z: -1571.699999988079
+  yaw: -77.97241
+  pitch: 13.453135
+money: '1651.3300000000000025'
+afk: false

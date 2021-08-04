@@ -100,7 +100,7 @@ disabled-worlds-per-command:
 # DEFAULT = The default spawner provider inside ESGUI
 # SILKSPAWNERS = An external spawner provider
 # WILDSTACKER = An external spawner provider
-spawner-provider: DEFAULT
+spawner-provider: SILKSPAWNERS
 # NOTE: When there is no spawner provider set, the default will be used
 
 
@@ -205,7 +205,7 @@ leveleventmoney20/25/30: 50
 enable-spawnerbreak: false
 
 # When this option is set to false, you will no longer be able to place spawners bought from the shop with the EconomyShopGUI spawner system.
-enable-spawnerplace: false
+enable-spawnerplace: true
 
 # This option will disable/enable the XP dropped when a spawner is broken.
 player-placed-spawners-drop-exp: false

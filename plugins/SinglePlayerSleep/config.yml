@@ -26,7 +26,7 @@ clearrain_enabled: false
 unrestrictedsleep: false
 
 # If true this will disable all broadcast messages and allow anyone to sleep.
-waketime: NORMAL
+waketime: TRUE
 
 # Set wake time, Early (23000) or Normal (24000)
 sleepdelay: 10

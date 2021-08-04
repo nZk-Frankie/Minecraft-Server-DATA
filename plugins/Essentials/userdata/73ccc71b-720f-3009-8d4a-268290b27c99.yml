@@ -1,29 +1,31 @@
 lastAccountName: Zusagi
 timestamps:
-  login: 1627918276321
-  logout: 1627922119444
-  lastteleport: 1627911935408
-ipAddress: 114.122.203.247
+  login: 1628014307789
+  logout: 1628014315024
+  lastteleport: 1628012395827
+ipAddress: 114.122.232.1
 logoutlocation:
   world: world
-  x: -2276.609913442586
-  y: 126.0
-  z: -1593.3136602375669
-  yaw: 95.079926
-  pitch: 1.0498607
+  x: 119.42988593581006
+  y: 64.0
+  z: 794.0539845253982
+  yaw: 71.40001
+  pitch: 9.300073
 lastlocation:
-  world: world_nether
-  x: 79.28850939477125
-  y: 41.0
-  z: -351.69999998807907
-  yaw: -169.9749
-  pitch: 19.94985
-money: '2172.0599999999999999'
+  world: world
+  x: -2279.300000011921
+  y: 130.22159965276717
+  z: -1594.6384772779238
+  yaw: -113.54988
+  pitch: 17.250048
+money: '3285.0700000000001653'
 homes:
   home:
     world: world_the_end
-    x: 26.231331886472134
-    y: 61.0
-    z: 78.8530240379406
-    yaw: 176.09772
-    pitch: 19.650011
+    x: 3.680266875539809
+    y: 2.0
+    z: -268.0387626938886
+    yaw: 1.800415
+    pitch: 55.49999
+afk: false
+nickname: Zusagi

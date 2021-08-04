@@ -1,0 +1,29 @@
+lastAccountName: dsgx
+timestamps:
+  login: 1628009365446
+  logout: 1628013304270
+  lastteleport: 1628012033074
+ipAddress: 202.80.213.202
+logoutlocation:
+  world: world
+  x: -2389.8755803992767
+  y: 80.5
+  z: -1916.6406704850672
+  yaw: 132.02222
+  pitch: -85.35084
+homes:
+  home:
+    world: world
+    x: -2326.5811935283537
+    y: 81.0
+    z: -1691.9466430126724
+    yaw: -20.699677
+    pitch: -1.5000036
+lastlocation:
+  world: world
+  x: -2389.648636048637
+  y: 80.0
+  z: -1911.047149932788
+  yaw: 2.3682861
+  pitch: -0.89933866
+money: '20.88'

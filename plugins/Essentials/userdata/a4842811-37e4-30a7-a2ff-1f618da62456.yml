@@ -1,21 +1,23 @@
 lastAccountName: Zwittt
 timestamps:
-  login: 1627918342976
-  logout: 1627937057080
-  lastteleport: 1627937024444
+  login: 1627995648350
+  logout: 1628030648561
+  lastteleport: 1628027222824
 ipAddress: 202.138.250.61
 logoutlocation:
   world: world
-  x: -2546.1184781125476
-  y: 36.0
-  z: -1605.9600098090386
-  yaw: 36.388107
-  pitch: 7.3674726
+  x: -2307.364375733479
+  y: 98.0625
+  z: -1732.1729726180206
+  yaw: -178.97949
+  pitch: 32.144367
 lastlocation:
   world: world
-  x: -2328.137499988079
-  y: 105.0
-  z: -1713.931125343501
-  yaw: -116.36433
-  pitch: 4.0279365
-money: '4370.589999999999965'
+  x: -2367.0580617853057
+  y: 78.0
+  z: -1822.9541325796947
+  yaw: 12.2009
+  pitch: 23.52454
+money: '14577.5699999999997073'
+afk: false
+nickname: zwittt

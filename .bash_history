@@ -170,3 +170,20 @@ ls
 screen -r
 ls
 screen -r
+git add -A
+git commit -c "3/08/2021 morning backup"
+git commit -m "3/08/2021 morning backup"
+git push -u origin master
+screen -r
+cd plugins/
+ls
+cd Essentials/
+ls
+vim config.yml
+screen -r
+vim config.yml
+screen -r
+ls
+cd plugins
+ls
+screen -r

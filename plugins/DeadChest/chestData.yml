@@ -188,38 +188,29 @@ chestData:
   chestLocation: world_nether;-61.0;39.0;40.0
 - ==: ChestData
   playerUUID: ad58d7c6-78e0-366b-895a-fe22c8a3c5ed
-  holographicTimer: world;-887.5;38.799999952316284;970.5
+  holographicTimer: world;-1778.5;71.79999995231628;-1360.5
   worldName: world
-  as_timer_id: 0ff44371-c566-4818-9fbc-f1d7e7697fc5
+  as_timer_id: ff30008e-a56f-4f5b-817a-c28d86b3a006
   playerName: Tumbal Project
   isInfinity: false
-  as_owner_id: 876b5392-bc4c-49a5-adcb-8904e7856473
-  chestDate: 2021-08-02T16:07:12.343Z
+  as_owner_id: 5028ac53-4356-4c79-8a2a-784e5a842269
+  chestDate: 2021-08-03T09:30:42.193Z
   inventory:
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
   - ==: org.bukkit.inventory.ItemStack
     v: 2730
-    type: ROTTEN_FLESH
-    amount: 4
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: ARROW
-    amount: 6
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: BONE
-    amount: 3
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: DIRT
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: GUNPOWDER
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: DIORITE
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: TORCH
+    type: WOODEN_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 22
   - null
   - null
   - null
@@ -252,254 +243,127 @@ chestData:
   - null
   - null
   - null
-  - null
-  - null
-  chestLocation: world;-888.0;38.0;970.0
+  chestLocation: world;-1779.0;71.0;-1361.0
 - ==: ChestData
   playerUUID: ad58d7c6-78e0-366b-895a-fe22c8a3c5ed
-  holographicTimer: world;-2351.5;63.799999952316284;-1701.5
+  holographicTimer: world;-2025.5;12.799999952316284;-1102.5
   worldName: world
-  as_timer_id: 64415cfb-f5d2-4f98-8b54-cd0fc2bba621
+  as_timer_id: 2f5eea80-db70-44cf-80f4-ac91d7b5e745
   playerName: Tumbal Project
   isInfinity: false
-  as_owner_id: bd9ed40c-8747-46ed-9a03-ec797e86e355
-  chestDate: 2021-08-02T16:10:32.144Z
+  as_owner_id: a77720e7-819a-4bd4-9805-6dd42b70ede1
+  chestDate: 2021-08-03T09:59:04.156Z
   inventory:
   - ==: org.bukkit.inventory.ItemStack
     v: 2730
-    type: DIRT
+    type: COBBLED_DEEPSLATE
   - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  chestLocation: world;-2352.0;63.0;-1702.0
-- ==: ChestData
-  playerUUID: a4842811-37e4-30a7-a2ff-1f618da62456
-  holographicTimer: world;-2537.5;36.799999952316284;-1601.5
-  worldName: world
-  as_timer_id: 6ba7b70b-fcb8-4266-87dc-bdaea506bf8a
-  playerName: Zwittt
-  isInfinity: false
-  as_owner_id: 5039e078-6f2c-4aa2-b093-2abce07315e4
-  chestDate: 2021-08-02T20:43:09.825Z
-  inventory:
   - ==: org.bukkit.inventory.ItemStack
     v: 2730
-    type: WATER_BUCKET
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: IRON_SWORD
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      Damage: 68
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: BREAD
+    type: RAW_COPPER
     amount: 2
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: SHEARS
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      Damage: 90
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: MINECART
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: GOLDEN_HORSE_ARMOR
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: OAK_LOG
-    amount: 12
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: DARK_OAK_LOG
-    amount: 2
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: GUNPOWDER
-    amount: 7
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: BLUE_DYE
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: ENCHANTED_BOOK
-    meta:
-      ==: ItemMeta
-      meta-type: ENCHANTED
-      stored-enchants:
-        LOOT_BONUS_MOBS: 3
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: WHITE_WOOL
-    amount: 12
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: DETECTOR_RAIL
-    amount: 4
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: STICK
-    amount: 14
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: MELON_SEEDS
-    amount: 7
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: IRON_INGOT
-    amount: 62
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: COBWEB
-    amount: 8
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: RED_WOOL
-    amount: 4
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: ARROW
-    amount: 8
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: RAW_IRON
-    amount: 6
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: FLINT
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: ACTIVATOR_RAIL
-    amount: 6
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: ANDESITE
-    amount: 2
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: BIRCH_LOG
-    amount: 15
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: NAME_TAG
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: CHEST
-    amount: 2
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: STRING
-    amount: 32
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: SADDLE
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: RAIL
-    amount: 54
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: BONE
-    amount: 4
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: COAL
-    amount: 10
-  - null
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: MINECART
   - ==: org.bukkit.inventory.ItemStack
     v: 2730
     type: COBBLESTONE
-    amount: 14
+    amount: 17
+  - null
+  - null
+  - null
   - ==: org.bukkit.inventory.ItemStack
     v: 2730
-    type: AXOLOTL_BUCKET
-    meta:
-      ==: ItemMeta
-      meta-type: AXOLOTL_BUCKET
-      internal: H4sIAAAAAAAA/+NiYGBmYHZMT2UAAlYGNo/UxJySDMcEIA8AQRpJyhsAAAA=
-      axolotl-variant: 0
+    type: SNOWBALL
+    amount: 16
+  - null
+  - null
+  - null
+  - null
   - ==: org.bukkit.inventory.ItemStack
     v: 2730
-    type: DIAMOND
-    amount: 8
+    type: OAK_PLANKS
+    amount: 13
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: world;-2026.0;12.0;-1103.0
+- ==: ChestData
+  playerUUID: b9c547c9-c178-38ca-b4cf-f892f44cf146
+  holographicTimer: world;-300.5;53.799999952316284;158.5
+  worldName: world
+  as_timer_id: e5094d29-9dc3-4850-a3b6-e6f1ec6ace03
+  playerName: Boba
+  isInfinity: false
+  as_owner_id: 92d13d6f-185b-47e5-aeb7-b8e4a2157d2a
+  chestDate: 2021-08-04T05:21:48.908Z
+  inventory:
   - ==: org.bukkit.inventory.ItemStack
     v: 2730
-    type: IRON_BOOTS
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      Damage: 59
+    type: OAK_LOG
+    amount: 2
   - ==: org.bukkit.inventory.ItemStack
     v: 2730
-    type: IRON_LEGGINGS
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      Damage: 65
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: IRON_CHESTPLATE
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      Damage: 65
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: IRON_HELMET
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      Damage: 87
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: SHIELD
-    meta:
-      ==: ItemMeta
-      meta-type: TILE_ENTITY
-      Damage: 81
-      blockMaterial: SHIELD
-  chestLocation: world;-2538.0;36.0;-1602.0
+    type: PUMPKIN
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: world;-301.0;53.0;158.0

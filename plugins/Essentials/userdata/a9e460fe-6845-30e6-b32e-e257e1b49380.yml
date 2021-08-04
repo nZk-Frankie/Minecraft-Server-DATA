@@ -1,22 +1,31 @@
 lastAccountName: jojojooooo
 timestamps:
-  login: 1627918452170
-  logout: 1627940695675
-  lastteleport: 1627937385342
+  login: 1628023336546
+  logout: 1628030105509
+  lastteleport: 1628027840869
 ipAddress: 103.130.131.19
 logoutlocation:
   world: world
-  x: -2328.613025949776
-  y: 83.0
-  z: -1708.4695021464647
-  yaw: 15.453735
-  pitch: 6.093806
+  x: -2328.300000011921
+  y: 77.0
+  z: -1710.317402223438
+  yaw: 138.99365
+  pitch: 23.777958
 lastlocation:
   world: world
-  x: -2640.0563263226145
-  y: 12.0
-  z: -1571.699999988079
-  yaw: -77.97241
-  pitch: 13.453135
-money: '1651.3300000000000025'
+  x: -2453.3897506739236
+  y: 14.0
+  z: -1938.0811397852624
+  yaw: 101.9978
+  pitch: 16.626165
+money: '10728.9400000000000030'
 afk: false
+homes:
+  home:
+    world: world
+    x: -2328.141889837806
+    y: 83.0
+    z: -1707.7319727572515
+    yaw: -143.24243
+    pitch: 45.495487
+nickname: bertani

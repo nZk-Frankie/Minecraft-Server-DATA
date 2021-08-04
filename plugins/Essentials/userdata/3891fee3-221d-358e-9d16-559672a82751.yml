@@ -1,8 +1,8 @@
 lastAccountName: NakAlip
 timestamps:
-  login: 1627926070273
+  login: 1628018812296
   lastteleport: 1627929068112
-  logout: 1627929373876
+  logout: 1628020664668
 ipAddress: 180.244.168.107
 lastlocation:
   world: world
@@ -11,11 +11,11 @@ lastlocation:
   z: -1678.936045861458
   yaw: -85.03851
   pitch: 13.950564
-money: '351.75'
+money: '5329.4400000000000034'
 logoutlocation:
   world: world
-  x: -2328.137499988079
-  y: 105.0
-  z: -1718.137499988079
-  yaw: -45.687073
-  pitch: 7.9497867
+  x: -2306.1478184587854
+  y: 98.0625
+  z: -1732.4422521804897
+  yaw: 14.323425
+  pitch: 13.650277

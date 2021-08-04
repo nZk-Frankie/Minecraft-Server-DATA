@@ -1617,11 +1617,11 @@ Mobs:
     sell: 0.57
   2:
     material: "BLAZE_POWDER"
-    buy: 2.63
+    buy: 24.63
     sell: 0.66
   3:
     material: "BLAZE_ROD"
-    buy: 5
+    buy: 56
     sell: 1.25
   4:
     material: "BONE"
@@ -1637,7 +1637,7 @@ Mobs:
     sell: 2.4
   7:
     material: "GHAST_TEAR"
-    buy: 40
+    buy: 403
     sell: 10
   8:
     material: "GUNPOWDER"
@@ -1868,11 +1868,11 @@ Others:
     sell: 500.1
   8:
     material: "ENDER_CHEST"
-    buy: 273.12
+    buy: 2373.12
     sell: 68.28
   9:
     material: "ENDER_EYE"
-    buy: 10.11
+    buy: 101.11
     sell: 2.53
   10:
     material: "EXPERIENCE_BOTTLE"
@@ -1944,11 +1944,11 @@ Others:
     sell: 19.89
   27:
     material: "SCAFFOLDING"
-    buy: 1.33
+    buy: 2.33
     sell: 0.34
   28:
     material: "SHULKER_SHELL"
-    buy: 7
+    buy: 100
     sell: 1.75
   29:
     material: "SLIME_BALL"
@@ -3633,7 +3633,7 @@ Z_EverythingElse:
     sell: 6.25
   30:
     material: "BLACK_SHULKER_BOX"
-    buy: 31.16
+    buy: 315.16
     sell: 7.79
   31:
     material: "BLACK_STAINED_GLASS"
@@ -3685,7 +3685,7 @@ Z_EverythingElse:
     sell: 15.19
   43:
     material: "BLUE_SHULKER_BOX"
-    buy: 26.75
+    buy: 263.75
     sell: 6.69
   44:
     material: "BLUE_STAINED_GLASS"
@@ -3753,7 +3753,7 @@ Z_EverythingElse:
     sell: 0.02
   60:
     material: "BROWN_SHULKER_BOX"
-    buy: 32.27
+    buy: 323.27
     sell: 8.07
   61:
     material: "BROWN_STAINED_GLASS"
@@ -3997,7 +3997,7 @@ Z_EverythingElse:
     sell: 6.1
   121:
     material: "CYAN_SHULKER_BOX"
-    buy: 26.29
+    buy: 236.29
     sell: 6.58
   122:
     material: "CYAN_STAINED_GLASS"
@@ -4205,7 +4205,7 @@ Z_EverythingElse:
     sell: 1.32
   173:
     material: "ENDER_PEARL"
-    buy: 7
+    buy: 71
     sell: 1.75
   174:
     material: "EXPOSED_COPPER"
@@ -4369,7 +4369,7 @@ Z_EverythingElse:
     sell: 6.21
   214:
     material: "GRAY_SHULKER_BOX"
-    buy: 29.44
+    buy: 219.44
     sell: 7.36
   215:
     material: "GRAY_STAINED_GLASS"
@@ -4405,7 +4405,7 @@ Z_EverythingElse:
     sell: 6.09
   223:
     material: "GREEN_SHULKER_BOX"
-    buy: 25.76
+    buy: 215.76
     sell: 6.44
   224:
     material: "GREEN_STAINED_GLASS"
@@ -4581,7 +4581,7 @@ Z_EverythingElse:
     sell: 6.12
   267:
     material: "LIGHT_BLUE_SHULKER_BOX"
-    buy: 26.75
+    buy: 261.75
     sell: 6.69
   268:
     material: "LIGHT_BLUE_STAINED_GLASS"
@@ -4617,7 +4617,7 @@ Z_EverythingElse:
     sell: 6.12
   276:
     material: "LIGHT_GRAY_SHULKER_BOX"
-    buy: 26.75
+    buy: 236.75
     sell: 6.69
   277:
     material: "LIGHT_GRAY_STAINED_GLASS"
@@ -4661,7 +4661,7 @@ Z_EverythingElse:
     sell: 6.3
   287:
     material: "LIME_SHULKER_BOX"
-    buy: 32.27
+    buy: 323.27
     sell: 8.07
   288:
     material: "LIME_STAINED_GLASS"
@@ -4697,7 +4697,7 @@ Z_EverythingElse:
     sell: 6.12
   296:
     material: "MAGENTA_SHULKER_BOX"
-    buy: 26.75
+    buy: 236.75
     sell: 6.69
   297:
     material: "MAGENTA_STAINED_GLASS"
@@ -4861,7 +4861,7 @@ Z_EverythingElse:
     sell: 7.72
   337:
     material: "ORANGE_SHULKER_BOX"
-    buy: 26.75
+    buy: 236.75
     sell: 6.69
   338:
     material: "ORANGE_STAINED_GLASS"
@@ -4929,7 +4929,7 @@ Z_EverythingElse:
     sell: 6.12
   354:
     material: "PINK_SHULKER_BOX"
-    buy: 26.75
+    buy: 261.75
     sell: 6.69
   355:
     material: "PINK_STAINED_GLASS"
@@ -5049,7 +5049,7 @@ Z_EverythingElse:
     sell: 6.12
   384:
     material: "PURPLE_SHULKER_BOX"
-    buy: 26.81
+    buy: 236.81
     sell: 6.71
   385:
     material: "PURPLE_STAINED_GLASS"
@@ -5133,7 +5133,7 @@ Z_EverythingElse:
     sell: 8.82
   405:
     material: "RED_SHULKER_BOX"
-    buy: 26.75
+    buy: 266.75
     sell: 6.69
   406:
     material: "RED_STAINED_GLASS"
@@ -5189,7 +5189,7 @@ Z_EverythingElse:
     sell: 7.25
   419:
     material: "SHULKER_BOX"
-    buy: 24.43
+    buy: 244.43
     sell: 6.11
   420:
     material: "SKELETON_SKULL"
@@ -5473,7 +5473,7 @@ Z_EverythingElse:
     sell: 6.15
   490:
     material: "WHITE_SHULKER_BOX"
-    buy: 27.36
+    buy: 274.36
     sell: 6.84
   491:
     material: "WHITE_STAINED_GLASS"
@@ -5541,7 +5541,7 @@ Z_EverythingElse:
     sell: 6.11
   507:
     material: "YELLOW_SHULKER_BOX"
-    buy: 26.39
+    buy: 246.39
     sell: 6.6
   508:
     material: "YELLOW_STAINED_GLASS"

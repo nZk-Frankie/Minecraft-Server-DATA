@@ -23,18 +23,20 @@
 # Registers:
 
 # File marks:
-'0  236  4  ~/plugins/EconomyShopGUI/shops.yml
-'1  208  0  ~/plugins/EconomyShopGUI/config.yml
-'2  211  37  ~/plugins/EconomyShopGUI/config.yml
-'3  55  24  ~/paper.yml
-'4  163  0  ~/spigot.yml
-'5  1  0  ~/plugins/Essentials/motd.txt
-'6  1  0  ~/plugins/Essentials/tpr.yml
-'7  1  0  ~/plugins/Vault/config.yml
-'8  1  0  ~/plugins/Essentials/kits.yml
-'9  583  19  ~/plugins/Essentials/config.yml
+'0  721  18  ~/plugins/Essentials/config.yml
+'1  236  4  ~/plugins/EconomyShopGUI/shops.yml
+'2  208  0  ~/plugins/EconomyShopGUI/config.yml
+'3  211  37  ~/plugins/EconomyShopGUI/config.yml
+'4  55  24  ~/paper.yml
+'5  163  0  ~/spigot.yml
+'6  1  0  ~/plugins/Essentials/motd.txt
+'7  1  0  ~/plugins/Essentials/tpr.yml
+'8  1  0  ~/plugins/Vault/config.yml
+'9  1  0  ~/plugins/Essentials/kits.yml
 
 # Jumplist (newest first):
+-'  721  18  ~/plugins/Essentials/config.yml
+-'  583  0  ~/plugins/Essentials/config.yml
 -'  236  4  ~/plugins/EconomyShopGUI/shops.yml
 -'  443  4  ~/plugins/EconomyShopGUI/shops.yml
 -'  208  0  ~/plugins/EconomyShopGUI/config.yml
@@ -48,7 +50,6 @@
 -'  1  0  ~/plugins/Essentials/tpr.yml
 -'  1  0  ~/plugins/Vault/config.yml
 -'  1  0  ~/plugins/Essentials/kits.yml
--'  583  19  ~/plugins/Essentials/config.yml
 -'  1  0  ~/plugins/Essentials/config.yml
 -'  42  2  ~/plugins/Essentials/items.json
 -'  1  0  ~/plugins/Essentials/items.json
@@ -131,10 +132,14 @@
 -'  55  24  ~/paper.yml
 -'  42  4  ~/paper.yml
 -'  163  0  ~/spigot.yml
--'  1  0  ~/spigot.yml
--'  1  0  ~/plugins/Essentials/motd.txt
 
 # History of marks within files (newest to oldest):
+
+> ~/plugins/Essentials/config.yml
+	"	721	18
+	^	721	19
+	.	721	18
+	+	721	18
 
 > ~/plugins/EconomyShopGUI/shops.yml
 	"	236	4
@@ -170,9 +175,6 @@
 
 > ~/plugins/Essentials/kits.yml
 	"	1	0
-
-> ~/plugins/Essentials/config.yml
-	"	583	19
 
 > ~/plugins/Essentials/items.json
 	"	42	2

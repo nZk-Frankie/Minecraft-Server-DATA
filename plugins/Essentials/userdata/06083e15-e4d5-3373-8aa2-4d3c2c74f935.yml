@@ -1,31 +1,45 @@
 lastAccountName: Blue2NetWork
 timestamps:
-  login: 1628052351876
-  logout: 1628047069204
-  lastteleport: 1628058320560
+  login: 1628122999506
+  logout: 1628126140201
+  lastteleport: 1628124189106
 ipAddress: 139.255.161.241
 afk: false
 logoutlocation:
   world: world
-  x: -829.8369280714709
-  y: 65.875
-  z: 933.6999999880791
-  yaw: -70.024414
-  pitch: 18.504337
+  x: -2298.192358915614
+  y: 28.0
+  z: -1680.1446224570993
+  yaw: -115.907104
+  pitch: 17.432217
 lastlocation:
   world: world
-  x: -811.086240744199
+  x: -812.7167280578296
   y: 32.0
-  z: 923.9169610228668
-  yaw: 66.58862
-  pitch: 9.956739
+  z: 926.6128359645327
+  yaw: 163.94348
+  pitch: 21.344397
 homes:
   home:
     world: world
-    x: -828.9666924379918
-    y: 65.0
-    z: 930.5798002329211
-    yaw: 177.4585
-    pitch: 4.7477636
-money: '512.239999999999987'
+    x: -809.1855948734927
+    y: 68.0
+    z: 928.5340000760524
+    yaw: -102.806885
+    pitch: 21.281185
+  spawn:
+    world: world
+    x: -2298.152662947686
+    y: 28.0
+    z: -1678.4828102756414
+    yaw: -155.35254
+    pitch: -5.653268
+  base:
+    world: world
+    x: -2367.116361799096
+    y: 75.0
+    z: -1845.9613878177288
+    yaw: -135.88164
+    pitch: 9.481469
+money: '6110.199999999999956'
 nickname: hafizfsfsfsfsf

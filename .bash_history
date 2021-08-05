@@ -187,3 +187,7 @@ ls
 cd plugins
 ls
 screen -r
+git add -A
+git commit -m "4/08/2021 Backup"
+git push -u origin master
+screen -r

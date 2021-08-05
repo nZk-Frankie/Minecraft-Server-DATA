@@ -1,433 +1,137 @@
-[04:26:01] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04:26:01] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[04:26:02] [Worker-Main-2/INFO]: Loaded 7 recipes
-[04:26:03] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[04:26:03] [Server thread/INFO]: Loading properties
-[04:26:03] [Server thread/INFO]: This server is running Paper version git-Paper-140 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 81a7559)
-[04:26:03] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[04:26:03] [Server thread/INFO]: Using 4 threads for Netty based IO
-[04:26:03] [Server thread/INFO]: Debug logging is disabled
-[04:26:03] [Server thread/INFO]: Default game type: SURVIVAL
-[04:26:03] [Server thread/INFO]: Generating keypair
-[04:26:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:26:03] [Server thread/INFO]: Using epoll channel type
-[04:26:04] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
-[04:26:04] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.47
-[04:26:04] [Server thread/INFO]: [DeadChest] Loading DeadChest v4.6.0
-[04:26:04] [Server thread/INFO]: [DeadChest] Worldguard support disabled by user
-[04:26:04] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
-[04:26:04] [Server thread/INFO]: [Essentials] Loading Essentials v2.18.2.0
-[04:26:04] [Server thread/INFO]: [SilkSpawners] Loading SilkSpawners v7.1.0
-[04:26:04] [Server thread/INFO]: [EconomyShopGUI] Loading EconomyShopGUI v3.4.2
-[04:26:04] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.46
-[04:26:04] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[04:26:04] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.47
-[04:26:04] [Server thread/INFO]:         __    
-[04:26:04] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.47
-[04:26:04] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[04:26:04] [Server thread/INFO]: 
-[04:26:04] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[04:26:04] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[04:26:04] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[04:26:05] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[04:26:05] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 968ms)
-[04:26:05] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[04:26:05] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.18.2.0 which is not a depend, softdepend or loadbefore of this plugin.
-[04:26:05] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[04:26:05] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[04:26:05] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[04:26:05] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[04:26:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:26:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:26:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:26:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:26:05] [Server thread/INFO]: Preparing level "world"
-[04:26:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:26:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:26:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:26:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:26:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:26:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:26:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:26:08] [Server thread/INFO]: Time elapsed: 2933 ms
-[04:26:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[04:26:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:26:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:26:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:26:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:26:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:26:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:26:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:26:11] [Server thread/INFO]: Time elapsed: 3375 ms
-[04:26:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[04:26:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:26:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:26:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:26:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:26:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:26:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:26:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:26:15] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[04:26:15] [Server thread/INFO]: Preparing spawn area: 76%
-[04:26:15] [Server thread/INFO]: Time elapsed: 4013 ms
-[04:26:15] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
-[04:26:15] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
-[04:26:16] [Server thread/INFO]: [ClearLag] Loading modules...
-[04:26:16] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (net.minecraft.server.v1_17_R1.MinecraftServer)
-[04:26:16] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
-[04:26:16] [Server thread/INFO]: [ClearLag] Modules have been loaded!
-[04:26:16] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
-[04:26:16] [Thread-18/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.17]...
-[04:26:16] [Server thread/INFO]: [DeadChest] Enabling DeadChest v4.6.0
-[04:26:16] [Server thread/INFO]: [Essentials] Enabling Essentials v2.18.2.0
-[04:26:16] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
-[04:26:16] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[04:26:16] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[04:26:16] [Server thread/INFO]: [Essentials] Loaded 25599 items from items.json.
-[04:26:16] [Server thread/INFO]: [Essentials] Using locale en_US
-[04:26:16] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[04:26:16] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[04:26:16] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[04:26:16] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[04:26:16] [Server thread/INFO]: [SilkSpawners] Enabling SilkSpawners v7.1.0
-[04:26:16] [Server thread/INFO]: [SilkSpawners] WorldGuard was not found and support is disabled
-[04:26:16] [Server thread/INFO]: [SilkSpawners] Loading support for v1_17_R1
-[04:26:16] [Server thread/INFO]: [SilkSpawners] AutoUpdater is enabled and now running.
-[04:26:16] [Server thread/INFO]: [SilkSpawners] BarAPI is disabled due to config setting.
-[04:26:16] [Server thread/INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v3.4.2
-[04:26:16] [Server thread/INFO]: [EconomyShopGUI] Shops.yml has been found!
-[04:26:16] [Server thread/INFO]: [EconomyShopGUI] Sections.yml has been found!
-[04:26:16] [Server thread/INFO]: [EconomyShopGUI] Using lang-en.yml as language file.
-[04:26:16] [Server thread/INFO]: [EconomyShopGUI] Using minecraft version 1.17.1...
-[04:26:16] [Server thread/INFO]: [EconomyShopGUI] SilkSpawners compatibility has been enabled in config.
-[04:26:16] [Server thread/INFO]: [EconomyShopGUI] SilkSpawners found, integrating...
-[04:26:16] [Server thread/INFO]: [SilkSpawners] WorldGuard was not found and support is disabled
-[04:26:16] [Server thread/INFO]: [SilkSpawners] Loading support for v1_17_R1
-[04:26:16] [Server thread/INFO]: [EconomyShopGUI] Using SilkSpawners spawners...
-[04:26:16] [Server thread/INFO]: [EconomyShopGUI] Debug mode is enabled.
-[04:26:16] [Server thread/INFO]: [EconomyShopGUI] Updating Shop settings...
-[04:26:16] [Server thread/INFO]: [EconomyShopGUI] Loading all items...
-[04:26:16] [Server thread/INFO]: [EconomyShopGUI] Done!
-[04:26:17] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.46
-[04:26:17] [Server thread/INFO]: **************************************
-[04:26:17] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 Loading...
-[04:26:17] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 plugins/SinglePlayerSleep/config.yml
-[04:26:17] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 config.yml has been updated
-[04:26:17] [Server thread/INFO]: Checking for updates...
-[04:26:17] [Thread-18/INFO]: [ClearLag] No updates found!
-[04:26:17] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 plugins/SinglePlayerSleep/permissions.yml
-[04:26:17] [Server thread/INFO]: **************************************
-[04:26:17] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 is ENABLED
-[04:26:17] [Server thread/INFO]: **************************************
-[04:26:17] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 This server is running Paper version git-Paper-140 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT)
-[04:26:17] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 vardebug=false debug=false in plugins/SinglePlayerSleep/config.yml
-[04:26:17] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 jarfilename=/home/opc/plugins/SinglePlayerSleep-1.13_2.13.46.jar
-[04:26:17] [Server thread/INFO]: Running delayed init tasks
-[04:26:17] [Server thread/INFO]: [SilkSpawners] Result from AutoUpdater is: NO_UPDATE
-[04:26:17] [Server thread/INFO]: Done (14.554s)! For help, type "help"
-[04:26:17] [Craft Scheduler Thread - 0/INFO]: [Vault] Checking for Updates ... 
-[04:26:17] [Server thread/INFO]: Timings Reset
-[04:26:18] [Craft Scheduler Thread - 0/INFO]: [Vault] No new version available
-[04:30:58] [Server thread/INFO]: Successfully reloaded the configs!
-[04:31:15] [luckperms-command-executor/INFO]: [LP] Preparing a new editor session, please wait...
-[04:31:16] [luckperms-command-executor/INFO]: [LP] Click the link below to open the editor:
-[04:31:16] [luckperms-command-executor/INFO]: https://luckperms.net/editor/ZrDvV5ALVn
-[04:32:44] [User Authenticator #1/INFO]: UUID of player milkshakes09 is 018ad441-99bf-395e-93a4-fee62289c537
-[04:32:44] [Server thread/INFO]: milkshakes09 joined the game
-[04:32:44] [Server thread/INFO]: milkshakes09[/180.244.169.194:4241] logged in with entity id 205 at ([world]-2291.7248096169856, 117.0, -1704.1214811061323)
-[04:34:03] [luckperms-command-executor/INFO]: [LP] Web editor data was applied to group default successfully.
-[04:34:03] [luckperms-command-executor/INFO]: [LP] (4 additions and 0 deletions)
-[04:34:03] [luckperms-command-executor/INFO]: +  silkspawners.destroydrop.* (true)
-[04:34:03] [luckperms-command-executor/INFO]: +  silkspawners.changetype.* (true)
-[04:34:03] [luckperms-command-executor/INFO]: +  silkspawners.place.* (true)
-[04:34:03] [luckperms-command-executor/INFO]: +  silkspawners.silkdrop.* (true)
-[04:37:39] [Server thread/INFO]: milkshakes09 issued server command: /shop
-[04:37:50] [Server thread/INFO]: [EconomyShopGUI] milkshakes09 sold 64 x White Wool for $470.40 with the sell screen.
-[04:37:51] [Server thread/INFO]: [EconomyShopGUI] milkshakes09 sold 64 x White Wool for $470.40 with the sell screen.
-[04:37:51] [Server thread/INFO]: [EconomyShopGUI] milkshakes09 sold 64 x White Wool for $470.40 with the sell screen.
-[04:37:55] [Server thread/INFO]: [EconomyShopGUI] milkshakes09 sold 32 x White Wool for $235.20 with the sell screen.
-[04:37:59] [Server thread/INFO]: milkshakes09 issued server command: /shop
-[04:38:12] [Server thread/INFO]: [EconomyShopGUI] milkshakes09 sold 64 x Light Gray Wool for $470.40 with the sell screen.
-[04:38:13] [Server thread/INFO]: [EconomyShopGUI] milkshakes09 sold 64 x Light Gray Wool for $470.40 with the sell screen.
-[04:38:16] [Server thread/INFO]: [EconomyShopGUI] milkshakes09 sold 32 x Light Gray Wool for $235.20 with the sell screen.
-[04:39:24] [Server thread/INFO]: milkshakes09 issued server command: /shop
-[04:39:40] [Server thread/INFO]: [EconomyShopGUI] ~menggokil bought 2 x Black Dye for $10.50 with the buy screen.
-[04:39:52] [Server thread/INFO]: milkshakes09 issued server command: /shop
-[04:40:03] [Server thread/INFO]: [EconomyShopGUI] ~menggokil bought 17 x Black Dye for $89.25 with the buy screen.
-[04:41:06] [Server thread/INFO]: milkshakes09 issued server command: /sethome
-[04:42:12] [Server thread/INFO]: CONSOLE issued server command: /baltop 
-[04:42:13] [Craft Scheduler Thread - 7/INFO]: Top balances (8/4/21, 4:42 AM)
-[04:42:13] [Craft Scheduler Thread - 7/INFO]:  ---- Balancetop -- Page 1/2 ----
-[04:42:13] [Craft Scheduler Thread - 7/INFO]: Server Total: $94,747.32
-[04:42:13] [Craft Scheduler Thread - 7/INFO]: 1. ~menggokil, $43,047.24
-[04:42:13] [Craft Scheduler Thread - 7/INFO]: 2. Zwittt, $14,577.56
-[04:42:13] [Craft Scheduler Thread - 7/INFO]: 3. jojojooooo, $10,728.94
-[04:42:13] [Craft Scheduler Thread - 7/INFO]: 4. Cupang5, $10,463.71
-[04:42:13] [Craft Scheduler Thread - 7/INFO]: 5. NakAlip, $5,329.44
-[04:42:13] [Craft Scheduler Thread - 7/INFO]: 6. Zusagi, $3,285.07
-[04:42:13] [Craft Scheduler Thread - 7/INFO]: 7. JuniorGamingPro, $3,127.54
-[04:42:13] [Craft Scheduler Thread - 7/INFO]: 8. chokoVanill, $2,997.16
-[04:42:13] [Craft Scheduler Thread - 7/INFO]: Type /balancetop 2 to read the next page.
-[04:44:55] [Server thread/INFO]: milkshakes09 issued server command: /shop
-[04:45:08] [Server thread/INFO]: [EconomyShopGUI] ~menggokil bought 4 x Bookshelf for $476.48 with the buy screen.
-[04:45:29] [Server thread/INFO]: milkshakes09 issued server command: /shop
-[04:45:51] [User Authenticator #2/INFO]: UUID of player Blue2NetWork is 06083e15-e4d5-3373-8aa2-4d3c2c74f935
-[04:45:51] [Server thread/INFO]: Blue2NetWork joined the game
-[04:45:51] [Server thread/INFO]: Blue2NetWork[/139.255.161.241:55905] logged in with entity id 2442 at ([world]-829.8369280714709, 65.875, 933.6999999880791)
-[04:51:10] [Server thread/INFO]: milkshakes09 issued server command: /shop
-[04:51:15] [Server thread/INFO]: [EconomyShopGUI] ~menggokil bought 3 x Leather for $100.80 with the buy screen.
-[04:51:25] [Server thread/INFO]: milkshakes09 issued server command: /balance
-[04:56:12] [Server thread/INFO]: milkshakes09 issued server command: /tpa Blue2NetWork
-[04:56:17] [Server thread/INFO]: Blue2NetWork issued server command: /tpaccepta
-[04:56:20] [Server thread/INFO]: Blue2NetWork issued server command: /tpaccept
-[04:56:20] [Server thread/INFO]: milkshakes09 issued server command: /balance
-[05:03:13] [User Authenticator #3/INFO]: UUID of player anginhihi is 0ccf5474-cf19-30e8-8ef8-391769e8826f
-[05:03:14] [Server thread/INFO]: anginhihi joined the game
-[05:03:14] [Server thread/INFO]: anginhihi[/118.137.216.238:56437] logged in with entity id 5810 at ([world]-2287.9021935427572, 116.0, -1694.8731967195104)
-[05:05:39] [Server thread/INFO]: Blue2NetWork issued server command: /home
-[05:06:36] [Async Chat Thread - #0/INFO]: <anginhihi> gus gw bikin rumah disini ya
-[05:06:41] [Async Chat Thread - #0/INFO]: <~menggokil> di mana ngin
-[05:06:46] [Async Chat Thread - #0/INFO]: <anginhihi> come to me
-[05:06:53] [Server thread/INFO]: milkshakes09 issued server command: /tpa anginhihi
-[05:06:55] [Server thread/INFO]: anginhihi issued server command: /tpaccept
-[05:07:20] [Async Chat Thread - #0/INFO]: <anginhihi> mo bikin rumah off the ledge
-[05:07:25] [Server thread/INFO]: Blue2NetWork issued server command: /sethome
-[05:07:29] [Async Chat Thread - #0/INFO]: <anginhihi> yes
-[05:07:29] [Server thread/INFO]: Blue2NetWork issued server command: /tpa milkshakes09
-[05:07:31] [Async Chat Thread - #0/INFO]: <anginhihi> otay
-[05:07:36] [Server thread/INFO]: milkshakes09 issued server command: /tpaccept
-[05:07:39] [Async Chat Thread - #0/INFO]: <anginhihi> plus bisa slide disin
-[05:09:11] [Server thread/INFO]: anginhihi issued server command: /sethome
-[05:10:08] [Server thread/INFO]: anginhihi issued server command: /home
-[05:10:40] [Server thread/INFO]: Blue2NetWork issued server command: /home
-[05:11:05] [Server thread/INFO]: milkshakes09 issued server command: /balancetop
-[05:11:13] [Server thread/INFO]: milkshakes09 issued server command: /balancetop 2
-[05:11:49] [Server thread/INFO]: milkshakes09 issued server command: /s
-[05:11:49] [Server thread/INFO]: [Essentials] milkshakes09 was denied access to command.
-[05:11:53] [Server thread/INFO]: milkshakes09 issued server command: /shop
-[05:12:27] [Server thread/INFO]: Blue2NetWork issued server command: /tpa milkshakes09
-[05:12:33] [Server thread/INFO]: milkshakes09 issued server command: /tpaccept
-[05:14:22] [Async Chat Thread - #1/INFO]: <anginhihi> cara bikin rumah gmn
-[05:14:32] [Async Chat Thread - #1/INFO]: <anginhihi> otay
-[05:15:47] [Async Chat Thread - #2/INFO]: <anginhihi> eh sethome bisa lebih dari satu?
-[05:15:57] [Async Chat Thread - #2/INFO]: <anginhihi> otay
-[05:15:59] [Server thread/INFO]: anginhihi issued server command: /home
-[05:18:13] [Server thread/INFO]: anginhihi issued server command: /afk
-[05:18:13] [Server thread/INFO]: [Essentials] anginhihi was denied access to command.
-[05:18:20] [User Authenticator #4/INFO]: UUID of player Boba is b9c547c9-c178-38ca-b4cf-f892f44cf146
-[05:18:20] [Server thread/INFO]: Boba joined the game
-[05:18:20] [Server thread/INFO]: Boba[/180.252.127.20:61168] logged in with entity id 10045 at ([world]-133.5, 69.0, 218.5)
-[05:18:20] [pool-12-thread-1/INFO]: [Essentials] Creating empty config: /home/opc/plugins/Essentials/userdata/b9c547c9-c178-38ca-b4cf-f892f44cf146.yml
-[05:18:33] [Async Chat Thread - #3/INFO]: <~menggokil> welkam
-[05:19:49] [Server thread/INFO]: anginhihi issued server command: /spscancel
-[05:19:57] [Server thread/INFO]: anginhihi has made the advancement [Sweet Dreams]
-[05:21:26] [Server thread/INFO]: Blue2NetWork issued server command: /shop
-[05:21:35] [Server thread/INFO]: [EconomyShopGUI] Blue2NetWork sold 64 x Stone for $11.52 with the sell screen.
-[05:21:36] [Server thread/INFO]: [EconomyShopGUI] Blue2NetWork sold 64 x Stone for $11.52 with the sell screen.
-[05:21:36] [Server thread/INFO]: [EconomyShopGUI] Blue2NetWork sold 64 x Stone for $11.52 with the sell screen.
-[05:21:37] [Server thread/INFO]: [EconomyShopGUI] Blue2NetWork sold 64 x Stone for $11.52 with the sell screen.
-[05:21:37] [Server thread/INFO]: [EconomyShopGUI] Blue2NetWork sold 64 x Stone for $11.52 with the sell screen.
-[05:21:47] [Server thread/INFO]: [EconomyShopGUI] Blue2NetWork sold 19 x Stone for $3.42 with the sell screen.
-[05:21:48] [Server thread/INFO]: Boba fell from a high place
-[05:21:52] [Async Chat Thread - #4/INFO]: <anginhihi> gw ada bedrock
-[05:21:57] [Async Chat Thread - #4/INFO]: <~menggokil> :>
-[05:22:05] [Async Chat Thread - #4/INFO]: <~hafizfsfsfsfsf> lo nge chit ngin
-[05:22:11] [Async Chat Thread - #4/INFO]: <anginhihi> gk tau
-[05:23:15] [Server thread/INFO]: milkshakes09 lost connection: Disconnected
-[05:23:15] [Server thread/INFO]: milkshakes09 left the game
-[05:23:52] [Server thread/INFO]: Blue2NetWork issued server command: /shop
-[05:24:04] [Server thread/INFO]: Blue2NetWork issued server command: /shop
-[05:24:18] [Server thread/INFO]: [EconomyShopGUI] ~hafizfsfsfsfsf bought 1 x Bookshelf for $119.12 with the buy screen.
-[05:24:20] [Server thread/INFO]: [EconomyShopGUI] ~hafizfsfsfsfsf bought 1 x Bookshelf for $119.12 with the buy screen.
-[05:24:42] [User Authenticator #5/INFO]: UUID of player milkshakes09 is 018ad441-99bf-395e-93a4-fee62289c537
-[05:24:42] [Server thread/INFO]: milkshakes09 joined the game
-[05:24:42] [Server thread/INFO]: milkshakes09[/180.244.169.194:22523] logged in with entity id 12408 at ([world]-2293.995349666201, 111.0, -1704.7683858437263)
-[05:24:49] [Server thread/INFO]: milkshakes09 issued server command: /tpa Blue2NetWork
-[05:24:59] [Server thread/INFO]: Blue2NetWork issued server command: /tpaccept
-[05:26:16] [Async Chat Thread - #5/INFO]: <anginhihi> bikinin stick
-[05:26:21] [Async Chat Thread - #5/INFO]: <~menggokil> dat stick
-[05:26:24] [Server thread/INFO]: milkshakes09 lost connection: Disconnected
-[05:26:24] [Server thread/INFO]: milkshakes09 left the game
-[05:26:25] [Async Chat Thread - #5/INFO]: <anginhihi> dat dick
-[05:26:41] [Server thread/INFO]: Blue2NetWork issued server command: /shop
-[05:26:45] [Server thread/INFO]: [EconomyShopGUI] ~hafizfsfsfsfsf bought 3 x Bookshelf for $357.36 with the buy screen.
-[05:26:52] [Async Chat Thread - #5/INFO]: <anginhihi> anjir horror bgt maen minecraft
-[05:27:03] [Async Chat Thread - #5/INFO]: <anginhihi> gw lgi nebang pohon kek denger2 footstep sialan :D
-[05:27:14] [User Authenticator #6/INFO]: UUID of player milkshakes09 is 018ad441-99bf-395e-93a4-fee62289c537
-[05:27:14] [Server thread/INFO]: milkshakes09 joined the game
-[05:27:14] [Server thread/INFO]: milkshakes09[/180.244.169.194:28947] logged in with entity id 13131 at ([world]-2282.412147360371, 117.0, -1704.9252435498965)
-[05:27:15] [Async Chat Thread - #5/INFO]: <anginhihi> xD
-[05:27:25] [Server thread/INFO]: Blue2NetWork issued server command: /tpaccept
-[05:27:30] [Server thread/INFO]: milkshakes09 issued server command: /tpa Blue2NetWork
-[05:27:31] [Server thread/INFO]: Blue2NetWork issued server command: /tpaccept
-[05:27:40] [Server thread/INFO]: anginhihi issued server command: /home
-[05:27:54] [Async Chat Thread - #5/INFO]: <anginhihi> anyone has food?
-[05:28:01] [Async Chat Thread - #5/INFO]: <~menggokil> beli
-[05:28:05] [Async Chat Thread - #5/INFO]: <anginhihi> were
-[05:28:11] [Async Chat Thread - #5/INFO]: <~menggokil> ./shop
-[05:28:13] [Server thread/INFO]: anginhihi issued server command: /shop
-[05:28:24] [Async Chat Thread - #5/INFO]: <anginhihi> im broke
-[05:28:27] [Async Chat Thread - #5/INFO]: <~menggokil> xd
-[05:28:28] [Async Chat Thread - #5/INFO]: <anginhihi> how do i sell
-[05:28:36] [Server thread/INFO]: anginhihi issued server command: /shop
-[05:28:39] [Async Chat Thread - #5/INFO]: <~hafizfsfsfsfsf> ? /shop
-[05:28:59] [Server thread/INFO]: Blue2NetWork issued server command: /shop
-[05:29:01] [Server thread/INFO]: Boba issued server command: /tpa
-[05:29:02] [Async Chat Thread - #5/INFO]: <anginhihi> whoa baked potato banyak juga ya nambahnya
-[05:29:21] [Server thread/INFO]: Boba issued server command: /tpa anginhihi
-[05:29:25] [Server thread/INFO]: anginhihi issued server command: /tpaccept
-[05:29:32] [Server thread/INFO]: [EconomyShopGUI] Blue2NetWork sold 62 x Andesite for $11.16 with the sell screen.
-[05:29:55] [Server thread/INFO]: milkshakes09 lost connection: Disconnected
-[05:29:55] [Server thread/INFO]: milkshakes09 left the game
-[05:30:19] [User Authenticator #7/INFO]: UUID of player JuniorGamingPro is 2e363873-f661-36c5-8ce3-1cbe56ac9f47
-[05:30:20] [Server thread/INFO]: JuniorGamingPro joined the game
-[05:30:20] [Server thread/INFO]: JuniorGamingPro[/182.253.250.172:1196] logged in with entity id 14051 at ([world]-627.7335458522095, 89.0, 900.4980609855899)
-[05:30:32] [Async Chat Thread - #6/INFO]: <anginhihi> itu ivan?
-[05:30:36] [Async Chat Thread - #6/INFO]: <~hafizfsfsfsfsf> uya
-[05:30:37] [Async Chat Thread - #6/INFO]: <~hafizfsfsfsfsf> iya
-[05:30:38] [Async Chat Thread - #6/INFO]: <~Junior> yo
-[05:30:39] [Async Chat Thread - #6/INFO]: <anginhihi> uye
-[05:30:42] [Async Chat Thread - #6/INFO]: <~hafizfsfsfsfsf> gay ivan
-[05:30:49] [Async Chat Thread - #6/INFO]: <anginhihi> gay = happy
-[05:31:00] [Async Chat Thread - #6/INFO]: <~hafizfsfsfsfsf> true
-[05:31:26] [Async Chat Thread - #6/INFO]: <anginhihi> i gotchu boba
-[05:31:48] [Server thread/INFO]: anginhihi issued server command: /tpa Blue2NetWork
-[05:31:56] [Server thread/INFO]: Blue2NetWork issued server command: /tpaccept
-[05:32:07] [Async Chat Thread - #6/INFO]: <~hafizfsfsfsfsf> ayop
-[05:32:09] [Server thread/INFO]: anginhihi issued server command: /home
-[05:34:40] [Server thread/INFO]: Boba has made the advancement [Stone Age]
-[05:35:17] [Server thread/INFO]: Boba has made the advancement [Getting an Upgrade]
-[05:35:43] [Server thread/INFO]: Boba has made the advancement [Acquire Hardware]
-[05:35:54] [Async Chat Thread - #7/INFO]: <anginhihi> use to make armor and tools
-[05:35:56] [Server thread/INFO]: Boba has made the advancement [Suit Up]
-[05:35:57] [Async Chat Thread - #7/INFO]: <anginhihi> kuntools
-[05:36:16] [Async Chat Thread - #7/INFO]: <anginhihi> achievement :D
-[05:36:33] [Server thread/INFO]: Boba has made the advancement [Isn't It Iron Pick]
-[05:36:59] [User Authenticator #8/INFO]: UUID of player Asep Penyu is 0d48e23b-9eec-3525-a284-6808ea3d3da3
-[05:36:59] [Server thread/INFO]: Asep Penyu joined the game
-[05:36:59] [Server thread/INFO]: Asep Penyu[/182.30.34.51:58241] logged in with entity id 16509 at ([world]-814.4797795668871, 65.0, 930.6999999880791)
-[05:37:05] [Async Chat Thread - #7/INFO]: <anginhihi> asap penyu siapa
-[05:37:20] [Async Chat Thread - #7/INFO]: <Asep Penyu> assalamualaikum
-[05:37:25] [Async Chat Thread - #7/INFO]: <anginhihi> waalaikumsalam
-[05:37:37] [Async Chat Thread - #7/INFO]: <anginhihi> is u smokey bbq porq?
-[05:38:00] [Async Chat Thread - #7/INFO]: <anginhihi> bob mo kamar yg kanan apa yg kiri
-[05:38:19] [Async Chat Thread - #7/INFO]: <anginhihi> konsep doang
-[05:38:34] [Async Chat Thread - #7/INFO]: <anginhihi> lu mau yg ada jendela or nah
-[05:39:12] [Async Chat Thread - #7/INFO]: <anginhihi> imma build the balconshit first
-[05:39:44] [Async Chat Thread - #7/INFO]: <anginhihi> kill me
-[05:39:46] [Async Chat Thread - #7/INFO]: <anginhihi> pls
-[05:40:35] [Async Chat Thread - #7/INFO]: <anginhihi> hmm..
-[05:40:46] [Async Chat Thread - #7/INFO]: <anginhihi> gk tau :/
-[05:40:46] [Server thread/INFO]: JuniorGamingPro has made the advancement [Bring Home the Beacon]
-[05:41:00] [Async Chat Thread - #7/INFO]: <anginhihi> ok
-[05:41:03] [Async Chat Thread - #7/INFO]: <anginhihi> ntar aja kalo gitu
-[05:41:05] [Async Chat Thread - #7/INFO]: <anginhihi> ribet
-[05:41:13] [Async Chat Thread - #7/INFO]: <anginhihi> yes
-[05:41:43] [Server thread/INFO]: Asep Penyu has made the advancement [The Parrots and the Bats]
-[05:43:31] [Server thread/INFO]: anginhihi issued server command: /home
-[05:43:45] [Async Chat Thread - #8/INFO]: <anginhihi> i want to make a big window on the front
-[05:43:56] [Server thread/INFO]: anginhihi fell from a high place
-[05:44:03] [Server thread/INFO]: Asep Penyu issued server command: /tpa JuniorGamingPro
-[05:44:15] [Async Chat Thread - #8/INFO]: <anginhihi> :D
-[05:44:23] [Async Chat Thread - #8/INFO]: <anginhihi> fk u
-[05:44:42] [Server thread/INFO]: JuniorGamingPro issued server command: /tpaccept
-[05:44:51] [Async Chat Thread - #8/INFO]: <Asep Penyu> hapis mana
-[05:44:54] [Async Chat Thread - #8/INFO]: <~Junior> au
-[05:45:02] [Async Chat Thread - #8/INFO]: <Asep Penyu> penjahat emang
-[05:45:02] [Async Chat Thread - #8/INFO]: <~hafizfsfsfsfsf> lagi grind xp farm to
-[05:45:03] [Async Chat Thread - #8/INFO]: <~Junior> gua lagi mining
-[05:45:04] [Async Chat Thread - #8/INFO]: <~hafizfsfsfsfsf> bntr
-[05:45:14] [Async Chat Thread - #8/INFO]: <Asep Penyu> gaperna ngajak lu pis
-[05:45:19] [Async Chat Thread - #8/INFO]: <Asep Penyu> emang selek kita
-[05:45:26] [Async Chat Thread - #8/INFO]: <~hafizfsfsfsfsf> baru join anjim
-[05:45:27] [Async Chat Thread - #8/INFO]: <Asep Penyu> friendship with hapis ended
-[05:45:28] [Async Chat Thread - #8/INFO]: <~hafizfsfsfsfsf> wkowkowk
-[05:47:02] [Server thread/INFO]: JuniorGamingPro issued server command: /shop
-[05:47:35] [Server thread/INFO]: anginhihi issued server command: /home
-[05:47:38] [Server thread/INFO]: [EconomyShopGUI] ~Junior bought 16 x Dark Oak Sapling for $48 with the buy screen.
-[05:47:42] [Server thread/INFO]: anginhihi issued server command: /sethome
-[05:47:44] [Server thread/INFO]: [EconomyShopGUI] ~Junior bought 16 x Spruce Sapling for $48 with the buy screen.
-[05:50:01] [Async Chat Thread - #9/INFO]: <Asep Penyu> bruh feather falling
-[05:57:57] [Server thread/INFO]: anginhihi issued server command: /home
-[06:00:09] [Server thread/INFO]: anginhihi fell from a high place
-[06:04:05] [Server thread/INFO]: Blue2NetWork issued server command: /tpa Asep Penyu
-[06:04:15] [User Authenticator #9/INFO]: UUID of player Legnum is f628ac0b-99d3-3ce8-9ca6-514bb3cf8a79
-[06:04:15] [Server thread/INFO]: Legnum joined the game
-[06:04:15] [Server thread/INFO]: Legnum[/180.244.161.1:29152] logged in with entity id 28193 at ([world]-141.5, 69.0, 199.5)
-[06:04:15] [pool-12-thread-1/INFO]: [Essentials] Creating empty config: /home/opc/plugins/Essentials/userdata/f628ac0b-99d3-3ce8-9ca6-514bb3cf8a79.yml
-[06:04:21] [Async Chat Thread - #10/INFO]: <~hafizfsfsfsfsf> acc to
-[06:04:22] [Server thread/INFO]: Asep Penyu issued server command: /tpaccept
-[06:04:25] [Server thread/INFO]: anginhihi issued server command: /home
-[06:04:26] [Async Chat Thread - #10/INFO]: <~hafizfsfsfsfsf> Wtf
-[06:04:36] [Server thread/INFO]: Legnum lost connection: Disconnected
-[06:04:36] [Server thread/INFO]: Legnum left the game
-[06:04:38] [Async Chat Thread - #10/INFO]: <~hafizfsfsfsfsf> wWAIT TOTO
-[06:04:39] [Async Chat Thread - #10/INFO]: <~hafizfsfsfsfsf> AaDASD
-[06:04:46] [Async Chat Thread - #10/INFO]: <Asep Penyu> lu ada fortune
-[06:04:47] [Async Chat Thread - #10/INFO]: <~hafizfsfsfsfsf> gw ada pickaxe bagus
-[06:04:49] [Async Chat Thread - #10/INFO]: <~hafizfsfsfsfsf> iya wkw
-[06:04:51] [Async Chat Thread - #10/INFO]: <Asep Penyu> bilang ajg
-[06:05:18] [Async Chat Thread - #10/INFO]: <Asep Penyu> njir mending
-[06:05:20] [Async Chat Thread - #10/INFO]: <~hafizfsfsfsfsf> triple langsung
-[06:05:21] [Async Chat Thread - #10/INFO]: <~hafizfsfsfsfsf> wkwkwkw
-[06:05:29] [Async Chat Thread - #10/INFO]: <Asep Penyu> gabakal ancur kan ini
-[06:05:33] [Server thread/INFO]: Blue2NetWork issued server command: /msg Asep Penyudah pakek aja to
-[06:05:46] [Async Chat Thread - #10/INFO]: <Asep Penyu> penyudah apaan
-[06:05:49] [Server thread/INFO]: Blue2NetWork issued server command: /msg Asep Penyu nanti kalau gw butuh w ambil lagi
-[06:05:57] [Server thread/INFO]: Blue2NetWork issued server command: /msg Asep udah pakek aja*
-[06:06:04] [Server thread/INFO]: Blue2NetWork issued server command: /msg Asep Penyu WKWKWK
-[06:06:22] [Async Chat Thread - #10/INFO]: <~hafizfsfsfsfsf> to
-[06:06:24] [Async Chat Thread - #10/INFO]: <~hafizfsfsfsfsf> ini ada diamond
-[06:06:26] [Async Chat Thread - #10/INFO]: <Asep Penyu> ko lu bisa pc
-[06:06:27] [Async Chat Thread - #10/INFO]: <~hafizfsfsfsfsf> lo tinggalin?
-[06:06:33] [Async Chat Thread - #10/INFO]: <~hafizfsfsfsfsf> type ./msg
-[06:06:37] [Async Chat Thread - #10/INFO]: <~hafizfsfsfsfsf> terus nama
-[06:06:38] [Server thread/INFO]: anginhihi fell from a high place
-[06:06:39] [Async Chat Thread - #10/INFO]: <Asep Penyu> njir galiat w
-[06:06:49] [Async Chat Thread - #10/INFO]: <Asep Penyu> ini lu mending dpt dr mana dah
-[06:06:55] [Async Chat Thread - #10/INFO]: <~hafizfsfsfsfsf> trading
-[06:06:58] [Async Chat Thread - #10/INFO]: <~hafizfsfsfsfsf> villager
-[06:07:06] [Async Chat Thread - #10/INFO]: <~hafizfsfsfsfsf> di tempat jojo dan teman teman ada to
-[06:11:30] [User Authenticator #10/INFO]: UUID of player Legnum is f628ac0b-99d3-3ce8-9ca6-514bb3cf8a79
-[06:11:30] [Server thread/INFO]: Legnum joined the game
-[06:11:30] [Server thread/INFO]: Legnum[/180.244.161.1:24525] logged in with entity id 31690 at ([world]-187.0336783349377, 71.0, 190.07541526883315)
-[06:12:33] [Server thread/INFO]: Blue2NetWork issued server command: /home
-[06:13:30] [Server thread/INFO]: anginhihi issued server command: /home
-[06:13:31] [Server thread/INFO]: Legnum issued server command: /tpa anginhihi
-[06:13:38] [Server thread/INFO]: anginhihi issued server command: /tpaccept
-[06:14:42] [User Authenticator #11/INFO]: UUID of player rexstrawberryy is cddf22ab-ad3c-3a52-8880-23a2e12fd6dc
-[06:14:42] [Server thread/INFO]: rexstrawberryy joined the game
-[06:14:42] [Server thread/INFO]: rexstrawberryy[/182.253.124.30:6702] logged in with entity id 33999 at ([world]-678.3048223303225, 72.0, 924.2623914504453)
-[06:15:16] [Server thread/INFO]: rexstrawberryy issued server command: /tpa Asep Penyu
-[06:15:21] [Server thread/INFO]: Asep Penyu issued server command: /tpaccept
-[06:16:14] [Server thread/INFO]: rexstrawberryy has made the advancement [Diamonds!]
-[06:17:10] [Server thread/INFO]: Legnum has made the advancement [A Seedy Place]
-[06:18:12] [Server thread/INFO]: Legnum has made the advancement [The Parrots and the Bats]
-[06:18:43] [Server thread/INFO]: anginhihi issued server command: /home
-[06:22:10] [User Authenticator #12/INFO]: UUID of player chokoVanill is 5ad9dce8-a748-3e85-81c2-314c7efae9d0
-[06:22:10] [Server thread/INFO]: chokoVanill joined the game
-[06:22:10] [Server thread/INFO]: chokoVanill[/106.69.44.229:61933] logged in with entity id 38139 at ([world]-2339.0629887734103, 64.0, -1740.1941252028691)
-[06:22:11] [Server thread/INFO]: anginhihi fell from a high place
-[06:22:27] [Server thread/INFO]: chokoVanill issued server command: /fly
-[06:23:28] [Server thread/INFO]: chokoVanill issued server command: /tp anginhihi
-[06:23:29] [Server thread/INFO]: Legnum has made the advancement [Stone Age]
-[06:23:30] [Server thread/INFO]: chokoVanill issued server command: /vanish
-[06:23:38] [Server thread/INFO]: chokoVanill issued server command: /fly
-[06:23:47] [Server thread/INFO]: Legnum has made the advancement [Getting an Upgrade]
-[06:23:58] [Server thread/INFO]: anginhihi issued server command: /home
-[06:24:25] [User Authenticator #13/INFO]: UUID of player Tumbal Project is ad58d7c6-78e0-366b-895a-fe22c8a3c5ed
-[06:24:26] [Server thread/INFO]: Tumbal Project joined the game
-[06:24:26] [Server thread/INFO]: Tumbal Project[/111.94.38.20:57091] logged in with entity id 39585 at ([world]-828.4173836016523, 65.0, 928.4819233401943)
-[06:24:58] [Server thread/INFO]: Legnum issued server command: /bal
-[06:25:01] [Server thread/INFO]: Legnum issued server command: /bal
-[06:25:05] [Server thread/INFO]: Legnum issued server command: /balancetop
-[06:25:14] [Server thread/INFO]: chokoVanill issued server command: /shop
-[06:25:20] [Server thread/INFO]: Blue2NetWork issued server command: /home
-[06:25:23] [Server thread/INFO]: chokoVanill issued server command: /shop
-[06:25:37] [Server thread/INFO]: Legnum issued server command: /sell
-[06:25:37] [Server thread/INFO]: [Essentials] Legnum was denied access to command.
-[06:25:48] [Server thread/INFO]: anginhihi issued server command: /shop
-[06:25:50] [Server thread/INFO]: Tumbal Project issued server command: /tpa Asep Penyu
-[06:25:55] [Server thread/INFO]: Asep Penyu issued server command: /tpaccept
-[06:26:14] [Server thread/INFO]: Tumbal Project issued server command: /teammsg
-[06:26:25] [Server thread/INFO]: Legnum issued server command: /shop
+[02:42:53] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:42:54] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[02:42:54] [Worker-Main-2/INFO]: Loaded 7 recipes
+[02:42:55] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[02:42:55] [Server thread/INFO]: Loading properties
+[02:42:55] [Server thread/INFO]: This server is running Paper version git-Paper-140 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 81a7559)
+[02:42:55] [Server thread/INFO]: Debug logging is disabled
+[02:42:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:42:55] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:42:56] [Server thread/INFO]: Default game type: SURVIVAL
+[02:42:56] [Server thread/INFO]: Generating keypair
+[02:42:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:42:56] [Server thread/INFO]: Using epoll channel type
+[02:42:56] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
+[02:42:56] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.47
+[02:42:56] [Server thread/INFO]: [StackMob] Loading StackMob v5.6.2
+[02:42:56] [Server thread/INFO]: [DeadChest] Loading DeadChest v4.6.0
+[02:42:56] [Server thread/INFO]: [DeadChest] Worldguard support disabled by user
+[02:42:56] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[02:42:56] [Server thread/INFO]: [Essentials] Loading Essentials v2.18.2.0
+[02:42:56] [Server thread/INFO]: [SilkSpawners] Loading SilkSpawners v7.1.0
+[02:42:56] [Server thread/INFO]: [EconomyShopGUI] Loading EconomyShopGUI v3.4.2
+[02:42:56] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.46
+[02:42:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:42:56] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.47
+[02:42:57] [Server thread/INFO]:         __    
+[02:42:57] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.47
+[02:42:57] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[02:42:57] [Server thread/INFO]: 
+[02:42:57] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[02:42:57] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[02:42:57] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[02:42:57] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[02:42:57] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 938ms)
+[02:42:57] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[02:42:57] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.18.2.0 which is not a depend, softdepend or loadbefore of this plugin.
+[02:42:57] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[02:42:57] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[02:42:57] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[02:42:57] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[02:42:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:42:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:42:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:42:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:42:57] [Server thread/INFO]: Preparing level "world"
+[02:42:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:43:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:43:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:43:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:43:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:43:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:43:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:43:01] [Server thread/INFO]: Time elapsed: 2831 ms
+[02:43:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:43:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:43:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:43:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:43:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:43:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:43:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:43:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:43:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:43:05] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[02:43:05] [Server thread/INFO]: Preparing spawn area: 2%
+[02:43:05] [Server thread/INFO]: Time elapsed: 4940 ms
+[02:43:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:43:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:43:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:43:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:43:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:43:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:43:08] [Server thread/INFO]: Time elapsed: 2024 ms
+[02:43:08] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[02:43:08] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[02:43:08] [Server thread/INFO]: [ClearLag] Loading modules...
+[02:43:08] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (net.minecraft.server.v1_17_R1.MinecraftServer)
+[02:43:08] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[02:43:08] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[02:43:08] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[02:43:08] [Server thread/INFO]: [StackMob] Enabling StackMob v5.6.2
+[02:43:08] [Server thread/INFO]: [StackMob] StackMob v5.6.2 by antiPerson and contributors.
+[02:43:08] [Server thread/INFO]: [StackMob] GitHub: https://github.com/Nathat23/StackMob-5 Discord: https://discord.gg/fz9xzuB
+[02:43:08] [Server thread/INFO]: [StackMob] Loading config files...
+[02:43:08] [Thread-15/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.17]...
+[02:43:08] [Server thread/INFO]: [StackMob] Registering hooks and trait checks...
+[02:43:08] [Server thread/INFO]: [StackMob] Registering events, commands and tasks...
+[02:43:08] [Server thread/INFO]: [DeadChest] Enabling DeadChest v4.6.0
+[02:43:08] [Server thread/INFO]: [Essentials] Enabling Essentials v2.18.2.0
+[02:43:08] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[02:43:08] [ForkJoinPool.commonPool-worker-3/INFO]: [StackMob] No update is currently available.
+[02:43:08] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[02:43:08] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[02:43:08] [Server thread/INFO]: [Essentials] Loaded 25599 items from items.json.
+[02:43:08] [Server thread/INFO]: [Essentials] Using locale en_US
+[02:43:08] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[02:43:08] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[02:43:09] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[02:43:09] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[02:43:09] [Server thread/INFO]: [SilkSpawners] Enabling SilkSpawners v7.1.0
+[02:43:09] [Server thread/INFO]: [SilkSpawners] WorldGuard was not found and support is disabled
+[02:43:09] [Server thread/INFO]: [SilkSpawners] Loading support for v1_17_R1
+[02:43:09] [Server thread/INFO]: [SilkSpawners] AutoUpdater is enabled and now running.
+[02:43:09] [Server thread/INFO]: [SilkSpawners] BarAPI is disabled due to config setting.
+[02:43:09] [Server thread/INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v3.4.2
+[02:43:09] [Server thread/INFO]: [EconomyShopGUI] Shops.yml has been found!
+[02:43:09] [Server thread/INFO]: [EconomyShopGUI] Sections.yml has been found!
+[02:43:09] [Server thread/INFO]: [EconomyShopGUI] Using lang-en.yml as language file.
+[02:43:09] [Server thread/INFO]: [EconomyShopGUI] Using minecraft version 1.17.1...
+[02:43:09] [Server thread/INFO]: [EconomyShopGUI] SilkSpawners compatibility has been enabled in config.
+[02:43:09] [Server thread/INFO]: [EconomyShopGUI] SilkSpawners found, integrating...
+[02:43:09] [Server thread/INFO]: [SilkSpawners] WorldGuard was not found and support is disabled
+[02:43:09] [Server thread/INFO]: [SilkSpawners] Loading support for v1_17_R1
+[02:43:09] [Server thread/INFO]: [EconomyShopGUI] Using SilkSpawners spawners...
+[02:43:09] [Server thread/INFO]: [EconomyShopGUI] Debug mode is enabled.
+[02:43:09] [Server thread/INFO]: [EconomyShopGUI] Updating Shop settings...
+[02:43:09] [Server thread/INFO]: [EconomyShopGUI] Loading all items...
+[02:43:09] [Server thread/INFO]: [EconomyShopGUI] Done!
+[02:43:09] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.46
+[02:43:09] [Server thread/INFO]: **************************************
+[02:43:09] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 Loading...
+[02:43:09] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 plugins/SinglePlayerSleep/config.yml
+[02:43:09] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 config.yml has been updated
+[02:43:09] [Server thread/INFO]: Checking for updates...
+[02:43:09] [Thread-15/INFO]: [ClearLag] No updates found!
+[02:43:10] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 plugins/SinglePlayerSleep/permissions.yml
+[02:43:10] [Server thread/INFO]: **************************************
+[02:43:10] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 is ENABLED
+[02:43:10] [Server thread/INFO]: **************************************
+[02:43:10] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 This server is running Paper version git-Paper-140 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT)
+[02:43:10] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 vardebug=false debug=false in plugins/SinglePlayerSleep/config.yml
+[02:43:10] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 jarfilename=/home/opc/plugins/SinglePlayerSleep-1.13_2.13.46.jar
+[02:43:10] [Server thread/INFO]: Running delayed init tasks
+[02:43:10] [Server thread/INFO]: [SilkSpawners] Result from AutoUpdater is: NO_UPDATE
+[02:43:10] [Server thread/INFO]: Done (14.718s)! For help, type "help"
+[02:43:10] [Server thread/INFO]: Timings Reset
+[02:43:10] [Craft Scheduler Thread - 0/INFO]: [Vault] Checking for Updates ... 
+[02:43:10] [Craft Scheduler Thread - 0/INFO]: [Vault] No new version available

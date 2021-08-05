@@ -1,0 +1,21 @@
+lastAccountName: fardian10
+timestamps:
+  login: 1628090853193
+  lastteleport: 1628090040182
+  logout: 1628090956294
+ipAddress: 180.244.175.84
+lastlocation:
+  world: world_nether
+  x: -677.0924788684864
+  y: 26.0
+  z: -526.9890056475658
+  yaw: 67.84891
+  pitch: 37.270107
+logoutlocation:
+  world: world
+  x: -2294.783796071971
+  y: 114.5
+  z: -1701.300000011921
+  yaw: -136.66321
+  pitch: 34.799572
+afk: false

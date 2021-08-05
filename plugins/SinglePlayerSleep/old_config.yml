@@ -26,7 +26,7 @@ clearrain_enabled: false
 unrestrictedsleep: false
 
 # If true this will disable all broadcast messages and allow anyone to sleep.
-waketime: NORMAL
+waketime: true
 
 # Set wake time, Early (23000) or Normal (24000)
 sleepdelay: 10
@@ -55,9 +55,9 @@ playernamecolor: WHITE
 exitbedcancel: false
 
 # Set to true to have SPS cancel sleep if the player exits their bed.
-display_cancel: true
+display_cancel: false
 # Set if cancel is shown or not.
-cancelbroadcast: true
+cancelbroadcast: false
 # Set to true to broadcast "<player> canceled sleep."
 # Set to false not to broadcast that message.
 sleeplimit: 60

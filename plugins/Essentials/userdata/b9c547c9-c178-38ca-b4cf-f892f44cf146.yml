@@ -1,13 +1,29 @@
 lastAccountName: Boba
 timestamps:
   login: 1628054300157
-  lastteleport: 1628054965255
+  lastteleport: 1628062381191
+  logout: 1628064066620
 ipAddress: 180.252.127.20
 lastlocation:
   world: world
-  x: -207.44217800320925
-  y: 63.0
-  z: 136.0710532780977
-  yaw: -57.72927
-  pitch: 32.399788
-afk: true
+  x: -2216.2979709770116
+  y: 70.6037636546968
+  z: -1761.5615014152506
+  yaw: 103.48169
+  pitch: -1.2001274
+afk: false
+homes:
+  home:
+    world: world
+    x: -2271.3555637571976
+    y: 88.0
+    z: -1667.6384921963654
+    yaw: -84.13159
+    pitch: 5.2499776
+logoutlocation:
+  world: world
+  x: -2279.1239653536486
+  y: 87.0
+  z: -1663.923818663276
+  yaw: 19.627563
+  pitch: 2.6986322

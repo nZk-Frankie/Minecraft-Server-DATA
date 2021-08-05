@@ -1747,7 +1747,7 @@ Ores:
     sell: 0.33
   3:
     material: "ANCIENT_DEBRIS"
-    buy: 132.25
+    buy: 1332.25
     sell: 132.25
   4:
     material: "COAL"

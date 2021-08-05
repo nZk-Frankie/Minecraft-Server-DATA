@@ -1,25 +1,25 @@
 lastAccountName: milkshakes09
 timestamps:
-  login: 1628105218696
-  logout: 1628105303851
-  lastteleport: 1628102778357
-ipAddress: 180.244.169.194
+  login: 1628150978369
+  logout: 1628151947010
+  lastteleport: 1628149098168
+ipAddress: 180.244.168.84
 logoutlocation:
   world: world
-  x: -2281.6378213060425
-  y: 117.0
-  z: -1702.4220911372367
-  yaw: 169.65121
-  pitch: 28.799953
+  x: -2149.045554483413
+  y: 83.8500000178814
+  z: -3713.6273650115336
+  yaw: -56.003204
+  pitch: 37.049995
 lastlocation:
-  world: world_nether
-  x: -693.4187907842787
-  y: 22.0
-  z: -503.4932470240115
-  yaw: -175.26343
-  pitch: 10.844632
+  world: world
+  x: -2350.918141351804
+  y: 58.0
+  z: -1711.477622716573
+  yaw: 108.63991
+  pitch: 6.1494746
 nickname: menggokil
-money: '141436.499999999999197'
+money: '153381.069999999999182'
 homes:
   home:
     world: world
@@ -30,9 +30,9 @@ homes:
     pitch: 19.799599
   basalt:
     world: world_nether
-    x: -691.520925874776
-    y: 17.0
-    z: -506.51380568520335
-    yaw: 83.26927
-    pitch: 22.302246
+    x: -781.842945938949
+    y: 10.0
+    z: -502.9213954723688
+    yaw: 90.9881
+    pitch: 0.5234232
 afk: false

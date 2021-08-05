@@ -1,23 +1,23 @@
 lastAccountName: Zwittt
 timestamps:
-  login: 1628090174817
-  logout: 1628105404037
-  lastteleport: 1628105365266
+  login: 1628159494739
+  logout: 1628159739300
+  lastteleport: 1628159691849
 ipAddress: 202.138.250.61
 logoutlocation:
   world: world
-  x: -2314.4774470160805
-  y: 102.0
-  z: -1717.4773867120487
-  yaw: -119.01962
-  pitch: 10.9417095
+  x: -2308.5
+  y: 98.5
+  z: -1734.5
+  yaw: -90.0
+  pitch: -0.36617607
 lastlocation:
-  world: world_nether
-  x: -713.2359664641012
-  y: 16.0
-  z: -481.30000001192093
-  yaw: 174.84613
-  pitch: 28.482418
+  world: world
+  x: -2278.4431543967617
+  y: 77.0
+  z: -1608.1134567767917
+  yaw: -120.740036
+  pitch: 14.869274
 money: '128281.8999999999994153'
 afk: false
 nickname: berternak

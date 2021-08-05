@@ -1,16 +1,16 @@
 lastAccountName: Zusagi
 timestamps:
-  login: 1628078720939
-  logout: 1628080969259
+  login: 1628156452293
+  logout: 1628157426102
   lastteleport: 1628077868352
-ipAddress: 182.1.184.246
+ipAddress: 114.122.199.175
 logoutlocation:
   world: world
-  x: -2268.593939320964
-  y: 121.0
-  z: -1583.5867502759913
-  yaw: 152.98047
-  pitch: 43.200447
+  x: -2247.814754469375
+  y: 77.0
+  z: -1597.931881363528
+  yaw: -32.267456
+  pitch: 1.800122
 lastlocation:
   world: world
   x: -1600.3656904303941
@@ -18,7 +18,7 @@ lastlocation:
   z: -1364.1417655883663
   yaw: 174.6792
   pitch: 39.44995
-money: '5857.0100000000001653'
+money: '6158.3600000000001353'
 homes:
   home:
     world: world_the_end

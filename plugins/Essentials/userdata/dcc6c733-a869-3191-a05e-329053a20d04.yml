@@ -1,25 +1,25 @@
 lastAccountName: Cupang5
 timestamps:
-  login: 1628152340039
-  logout: 1628152471407
-  lastteleport: 1628150891226
+  login: 1628240028789
+  logout: 1628241443807
+  lastteleport: 1628241014921
   jail: 0
 ipAddress: 139.192.238.117
 logoutlocation:
   world: world
-  x: -2341.298599941908
-  y: 82.0
-  z: -1686.9972380738245
-  yaw: -146.73761
-  pitch: 35.254147
+  x: -2330.562807348411
+  y: 76.0
+  z: -1663.8448627432178
+  yaw: -58.911987
+  pitch: 33.83686
 lastlocation:
-  world: world_nether
-  x: -444.6520392994419
-  y: 15.0
-  z: 66.69871833741236
-  yaw: -153.23871
-  pitch: 7.357118
-money: '94192.189999999999487'
+  world: world
+  x: -2334.0125013090965
+  y: 79.5
+  z: -1667.4758197904403
+  yaw: 140.93433
+  pitch: -8.872387
+money: '93180.049999999999487'
 afk: false
 jailed: false
 homes:

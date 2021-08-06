@@ -1,24 +1,24 @@
 lastAccountName: chokoVanill
 timestamps:
-  login: 1628156776239
-  logout: 1628159384499
-  lastteleport: 1628159272308
+  login: 1628241295189
+  logout: 1628242496654
+  lastteleport: 1628175555923
 ipAddress: 106.69.44.229
-money: '22222.7700000000000714'
+money: '8012.3800000000000718'
 logoutlocation:
   world: world
-  x: -2290.907350247962
-  y: 69.0
-  z: -1739.0895180504137
-  yaw: 170.53375
-  pitch: 58.65006
+  x: -2370.621455976044
+  y: 82.0
+  z: -1687.3873716722128
+  yaw: -145.56133
+  pitch: -4.179102
 lastlocation:
   world: world
-  x: -2302.300000011921
-  y: 63.0
-  z: -1746.045033219921
-  yaw: -89.15318
-  pitch: -12.749976
+  x: -2277.3684488556473
+  y: 79.0
+  z: -3747.1615028488054
+  yaw: 141.23439
+  pitch: 10.199991
 afk: false
 homes:
   jail:
@@ -49,4 +49,11 @@ homes:
     z: -1719.0814976222587
     yaw: -98.0791
     pitch: 26.257856
-nickname: §aTaki
+  nether:
+    world: world_nether
+    x: -1109.5291597846795
+    y: 79.0
+    z: -1190.7429513069892
+    yaw: -174.94598
+    pitch: 11.343449
+nickname: §6MasAdm00n

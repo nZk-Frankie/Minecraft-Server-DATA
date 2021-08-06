@@ -1,24 +1,24 @@
 lastAccountName: Legnum
 timestamps:
   login: 1628158925889
-  logout: 1628158453352
-  lastteleport: 1628159323506
+  logout: 1628183394848
+  lastteleport: 1628181028585
 ipAddress: 180.244.161.1
 logoutlocation:
   world: world
-  x: -2338.137499988079
-  y: 85.0
-  z: -1669.137499988079
-  yaw: -76.391884
-  pitch: 18.38353
+  x: -2340.512499988079
+  y: 84.0
+  z: -1663.046556426217
+  yaw: -89.72131
+  pitch: 10.280123
 lastlocation:
   world: world
-  x: -2283.6136055129314
-  y: 90.0
-  z: -1645.2766810741973
-  yaw: -85.414474
-  pitch: 36.365543
-money: '101076.2600000000000356'
+  x: -2295.738462172021
+  y: 78.0
+  z: -1612.639527163056
+  yaw: -123.00073
+  pitch: 22.484291
+money: '173337.8500000000000356'
 homes:
   home:
     world: world
@@ -29,11 +29,11 @@ homes:
     pitch: 10.330448
   xpz:
     world: world_nether
-    x: -691.1062538656466
-    y: 9.0
-    z: -632.886582182929
-    yaw: -14.136108
-    pitch: 26.31887
+    x: -730.9902541252944
+    y: 12.0
+    z: -622.6999999880791
+    yaw: 6.4754505
+    pitch: 18.068367
   mine0:
     world: world
     x: -3106.303457557817
@@ -41,4 +41,4 @@ homes:
     z: -1467.539265603138
     yaw: 0.4975586
     pitch: 10.690858
-afk: true
+afk: false

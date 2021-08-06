@@ -1,22 +1,38 @@
 lastAccountName: Yanto Kopling
 timestamps:
-  login: 1627919775550
-  lastteleport: 1627923407186
-  logout: 1627926392795
+  login: 1628245723489
+  lastteleport: 1628188376811
+  logout: 1628249480951
 ipAddress: 180.254.251.173
 lastlocation:
   world: world
-  x: -2327.941666418043
-  y: 83.0
-  z: -1709.5234082419024
-  yaw: -38.549774
-  pitch: 11.250017
+  x: -2327.058441704436
+  y: 84.0
+  z: -1703.20356001896
+  yaw: -161.51523
+  pitch: 59.7005
 afk: false
-money: '73.1599999999999997'
+money: '16741.9799999999999999'
 logoutlocation:
   world: world
-  x: -2328.4416146539543
+  x: -2338.8071382462726
   y: 83.0
-  z: -1698.18422673066
-  yaw: -95.393555
-  pitch: 67.79964
+  z: -1696.4185944386386
+  yaw: -166.17664
+  pitch: -17.699625
+nickname: budaktambang
+homes:
+  tambang:
+    world: world_nether
+    x: -675.7602443650986
+    y: 10.0
+    z: -539.7795760938191
+    yaw: -78.27969
+    pitch: 16.35035
+  rumah:
+    world: world
+    x: -2330.837282874579
+    y: 90.0
+    z: -1703.7491689413864
+    yaw: 3.4848351
+    pitch: 35.400448

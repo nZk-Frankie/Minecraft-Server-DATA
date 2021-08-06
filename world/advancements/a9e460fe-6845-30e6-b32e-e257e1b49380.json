@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2021-08-05 15:26:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2021-08-01 17:28:07 +0000"
@@ -539,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2021-08-05 15:26:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-08-01 16:38:37 +0000"
@@ -566,6 +578,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-08-01 20:41:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2021-08-05 14:57:03 +0000"
     },
     "done": true
   },
@@ -649,6 +667,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2021-08-05 15:32:08 +0000",
       "minecraft:skeleton": "2021-08-01 21:03:54 +0000",
       "minecraft:ghast": "2021-08-04 12:30:45 +0000",
       "minecraft:hoglin": "2021-08-04 10:24:53 +0000",
@@ -746,6 +765,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-08-05 14:42:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2021-08-02 13:17:13 +0000"
@@ -839,6 +864,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-08-04 10:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2021-08-05 17:05:42 +0000"
     },
     "done": true
   },
@@ -968,6 +999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2021-08-05 15:28:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-08-01 18:41:12 +0000"
@@ -1013,6 +1050,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2021-08-04 10:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2021-08-05 15:09:18 +0000"
     },
     "done": true
   },
@@ -1115,6 +1158,12 @@
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2021-08-04 11:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2021-08-05 14:57:03 +0000"
     },
     "done": true
   },
@@ -1968,7 +2017,8 @@
       "mutton": "2021-08-01 16:45:50 +0000",
       "rotten_flesh": "2021-08-01 15:51:05 +0000",
       "cooked_chicken": "2021-08-01 17:01:00 +0000",
-      "cooked_salmon": "2021-08-02 19:11:20 +0000"
+      "cooked_salmon": "2021-08-02 19:11:20 +0000",
+      "carrot": "2021-08-05 13:29:38 +0000"
     },
     "done": false
   },
@@ -2910,6 +2960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2021-08-05 15:26:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/quartz_from_blasting": {
     "criteria": {
       "has_nether_quartz_ore": "2021-08-04 10:34:22 +0000"
@@ -2919,6 +2975,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-08-01 16:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2021-08-05 15:09:18 +0000"
     },
     "done": true
   },
@@ -2991,6 +3053,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-08-04 10:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2021-08-05 14:57:03 +0000"
     },
     "done": true
   },

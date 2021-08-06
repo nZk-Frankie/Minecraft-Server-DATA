@@ -1,16 +1,16 @@
 lastAccountName: anginhihi
 timestamps:
-  login: 1628117910126
-  logout: 1628118601195
+  login: 1628182065089
+  logout: 1628182365811
   lastteleport: 1628118354969
 ipAddress: 118.137.216.238
 logoutlocation:
   world: world
-  x: -2271.499759788306
-  y: 96.0
-  z: -1679.0312967630098
-  yaw: 92.46808
-  pitch: 14.701849
+  x: -2256.4223349347503
+  y: 88.0
+  z: -1673.9767237739566
+  yaw: -73.99719
+  pitch: 41.057552
 lastlocation:
   world: world
   x: -2255.7730711593235

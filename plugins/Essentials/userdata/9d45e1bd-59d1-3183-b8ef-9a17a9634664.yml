@@ -1,16 +1,16 @@
 lastAccountName: TsugMyDuck
 timestamps:
-  login: 1628146325058
-  lastteleport: 1628095130459
-  logout: 1628149326062
+  login: 1628180733589
+  lastteleport: 1628180753355
+  logout: 1628182407110
 ipAddress: 139.255.161.241
 lastlocation:
   world: world
-  x: -816.1360922435734
-  y: 52.5
-  z: 930.2750308756714
-  yaw: -11.306544
-  pitch: 30.494545
+  x: -2297.7573505878304
+  y: 28.0
+  z: -1681.762499988079
+  yaw: -133.2196
+  pitch: 8.924403
 homes:
   spawner:
     world: world
@@ -29,8 +29,8 @@ homes:
 afk: false
 logoutlocation:
   world: world
-  x: -2297.786889958111
-  y: 28.0
-  z: -1681.7224472594398
-  yaw: 10.146423
-  pitch: -5.841738
+  x: -816.9708830618398
+  y: 54.0
+  z: 925.3000000119209
+  yaw: -9.918688
+  pitch: 29.54805

@@ -1,17 +1,17 @@
 lastAccountName: Cupang5
 timestamps:
-  login: 1628240028789
-  logout: 1628241443807
+  login: 1628262665689
+  logout: 1628262754307
   lastteleport: 1628241014921
   jail: 0
 ipAddress: 139.192.238.117
 logoutlocation:
   world: world
-  x: -2330.562807348411
-  y: 76.0
-  z: -1663.8448627432178
-  yaw: -58.911987
-  pitch: 33.83686
+  x: -2307.300000011921
+  y: 110.39407418107488
+  z: -1693.7241457049022
+  yaw: -124.38689
+  pitch: -12.442943
 lastlocation:
   world: world
   x: -2334.0125013090965
@@ -19,7 +19,7 @@ lastlocation:
   z: -1667.4758197904403
   yaw: 140.93433
   pitch: -8.872387
-money: '93180.049999999999487'
+money: '86494.649999999999487'
 afk: false
 jailed: false
 homes:
@@ -37,3 +37,5 @@ homes:
     z: 87.70002500033043
     yaw: -120.171074
     pitch: 14.824667
+mail:
+- §6[§rchokoVanill§6] §rpls send me nudes

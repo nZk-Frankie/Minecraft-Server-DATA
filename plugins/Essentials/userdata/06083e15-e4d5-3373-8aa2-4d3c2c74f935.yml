@@ -1,24 +1,24 @@
 lastAccountName: Blue2NetWork
 timestamps:
-  login: 1628230674689
-  logout: 1628236830359
-  lastteleport: 1628236674725
-ipAddress: 180.244.163.73
+  login: 1628267698741
+  logout: 1628270367999
+  lastteleport: 1628270270956
+ipAddress: 139.255.161.241
 afk: false
 logoutlocation:
   world: world
-  x: -2326.1711729145086
-  y: 24.0
-  z: -1844.300000011921
-  yaw: 85.420654
-  pitch: 21.786331
+  x: -2354.525979366048
+  y: 76.0
+  z: -1839.1062216658113
+  yaw: -138.78293
+  pitch: 15.791769
 lastlocation:
   world: world
-  x: -2328.537959257624
-  y: 55.0
-  z: -1848.9671864289885
-  yaw: -6.5546875
-  pitch: -0.42671445
+  x: -2318.362944690435
+  y: 10.0
+  z: -1858.2801356576106
+  yaw: -154.80481
+  pitch: 38.88659
 homes:
   home:
     world: world
@@ -41,5 +41,7 @@ homes:
     z: 668.5887517126158
     yaw: 26.933094
     pitch: -29.168404
-money: '7540.5099999999996121'
+money: '605.4399999999996121'
 nickname: hafizfsfsfsfsf
+mail:
+- §6[§rchokoVanill§6] §rpls send me nudes

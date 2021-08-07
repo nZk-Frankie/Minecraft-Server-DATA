@@ -1,24 +1,24 @@
 lastAccountName: rexstrawberryy
 timestamps:
-  login: 1628230462489
-  lastteleport: 1628240618183
-  logout: 1628240623355
+  login: 1628256178639
+  lastteleport: 1628258225579
+  logout: 1628258285212
 ipAddress: 182.253.250.137
 lastlocation:
   world: world
-  x: -2336.49731001042
-  y: 62.0
-  z: -1730.083686898442
-  yaw: -163.20491
-  pitch: 2.850141
+  x: -468.30000001192093
+  y: 64.0
+  z: 1097.699999988079
+  yaw: -84.5011
+  pitch: 12.749165
 logoutlocation:
   world: world
-  x: -2366.2646184713585
-  y: 93.0625
-  z: -1822.6054555447224
-  yaw: 26.399975
-  pitch: 19.949974
-money: '5221.329999999999750'
+  x: -636.6572179241535
+  y: 85.0
+  z: 866.0271641827301
+  yaw: 140.52171
+  pitch: 46.35003
+money: '676.529999999999750'
 homes:
   a:
     world: world
@@ -41,3 +41,5 @@ homes:
     z: -1823.5
     yaw: -90.0
     pitch: 0.0
+mail:
+- §6[§rchokoVanill§6] §rpls send me nudes

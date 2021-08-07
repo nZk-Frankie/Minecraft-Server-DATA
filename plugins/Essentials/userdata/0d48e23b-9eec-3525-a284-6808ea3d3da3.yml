@@ -1,7 +1,7 @@
 lastAccountName: Asep Penyu
 timestamps:
-  login: 1628223563710
-  logout: 1628241823705
+  login: 1628267975972
+  logout: 1628270376897
   lastteleport: 1628240292877
 ipAddress: 182.30.34.51
 lastlocation:
@@ -13,12 +13,12 @@ lastlocation:
   pitch: 38.835285
 logoutlocation:
   world: world
-  x: -2366.1817663874454
-  y: 76.0
-  z: -1865.0262326087095
-  yaw: 85.19299
-  pitch: -14.20062
-money: '5734.8099999999998'
+  x: -2388.3517639955394
+  y: 85.0
+  z: -1868.8725000001386
+  yaw: 1.2998047
+  pitch: 10.976547
+money: '4272.6999999999998'
 afk: false
 homes:
   a:
@@ -42,3 +42,5 @@ homes:
     z: -1834.177587769887
     yaw: 83.707275
     pitch: 29.94405
+mail:
+- §6[§rchokoVanill§6] §rpls send me nudes

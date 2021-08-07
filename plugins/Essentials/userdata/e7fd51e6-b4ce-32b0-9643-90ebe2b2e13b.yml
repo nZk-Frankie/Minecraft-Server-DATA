@@ -1,8 +1,8 @@
 lastAccountName: Yanto Kopling
 timestamps:
-  login: 1628245723489
+  login: 1628263697639
   lastteleport: 1628188376811
-  logout: 1628249480951
+  logout: 1628265725004
 ipAddress: 180.254.251.173
 lastlocation:
   world: world
@@ -12,14 +12,14 @@ lastlocation:
   yaw: -161.51523
   pitch: 59.7005
 afk: false
-money: '16741.9799999999999999'
+money: '14578.4499999999999999'
 logoutlocation:
   world: world
-  x: -2338.8071382462726
-  y: 83.0
-  z: -1696.4185944386386
-  yaw: -166.17664
-  pitch: -17.699625
+  x: -2329.2489234179075
+  y: 97.0
+  z: -1701.892982417396
+  yaw: 51.740387
+  pitch: 33.14997
 nickname: budaktambang
 homes:
   tambang:
@@ -36,3 +36,5 @@ homes:
     z: -1703.7491689413864
     yaw: 3.4848351
     pitch: 35.400448
+mail:
+- §6[§rchokoVanill§6] §rpls send me nudes

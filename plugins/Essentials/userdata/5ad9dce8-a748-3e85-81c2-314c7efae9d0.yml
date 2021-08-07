@@ -1,24 +1,24 @@
 lastAccountName: chokoVanill
 timestamps:
-  login: 1628241295189
-  logout: 1628242496654
-  lastteleport: 1628175555923
+  login: 1628255607289
+  logout: 1628259142707
+  lastteleport: 1628258659457
 ipAddress: 106.69.44.229
-money: '8012.3800000000000718'
+money: '8279.8800000000000718'
 logoutlocation:
   world: world
-  x: -2370.621455976044
-  y: 82.0
-  z: -1687.3873716722128
-  yaw: -145.56133
-  pitch: -4.179102
+  x: -2385.572181227159
+  y: 64.0
+  z: -1727.7853619582652
+  yaw: 91.799805
+  pitch: 32.2502
 lastlocation:
   world: world
-  x: -2277.3684488556473
-  y: 79.0
-  z: -3747.1615028488054
-  yaw: 141.23439
-  pitch: 10.199991
+  x: -3430.687329612878
+  y: 61.0
+  z: -1003.902318114949
+  yaw: 58.270103
+  pitch: 20.41351
 afk: false
 homes:
   jail:
@@ -57,3 +57,5 @@ homes:
     yaw: -174.94598
     pitch: 11.343449
 nickname: §6MasAdm00n
+mail:
+- §6[§rchokoVanill§6] §rpls send me nudes

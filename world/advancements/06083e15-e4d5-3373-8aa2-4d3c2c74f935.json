@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2021-08-06 16:43:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2021-08-05 06:56:22 +0000"
@@ -200,6 +206,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2021-08-03 11:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2021-08-06 13:45:03 +0000"
     },
     "done": true
   },
@@ -431,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2021-08-06 15:31:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2021-08-01 13:07:15 +0000"
@@ -557,6 +575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2021-08-06 16:43:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2021-08-04 03:13:12 +0000"
@@ -665,6 +689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2021-08-06 14:55:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2021-08-01 10:18:49 +0000"
@@ -748,6 +778,7 @@
       "minecraft:cave_spider": "2021-08-04 06:10:35 +0000",
       "minecraft:piglin": "2021-08-05 07:28:39 +0000",
       "minecraft:enderman": "2021-08-04 06:24:01 +0000",
+      "minecraft:silverfish": "2021-08-06 14:47:37 +0000",
       "minecraft:zombie": "2021-08-01 16:20:45 +0000",
       "minecraft:drowned": "2021-08-01 16:42:25 +0000"
     },
@@ -756,6 +787,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2021-08-01 12:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2021-08-06 17:16:32 +0000"
     },
     "done": true
   },
@@ -1029,6 +1066,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2021-08-06 14:55:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2021-08-01 13:07:00 +0000"
@@ -1038,6 +1081,12 @@
   "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
     "criteria": {
       "has_lapis_ore": "2021-08-04 09:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2021-08-06 15:31:56 +0000"
     },
     "done": true
   },
@@ -1533,6 +1582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2021-08-06 17:16:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-08-03 09:53:51 +0000"
@@ -1576,6 +1631,7 @@
       "minecraft:birch_forest_hills": "2021-08-01 10:12:41 +0000",
       "minecraft:wooded_hills": "2021-08-01 10:12:19 +0000",
       "minecraft:swamp": "2021-08-01 13:12:51 +0000",
+      "minecraft:snowy_taiga_hills": "2021-08-06 17:15:56 +0000",
       "minecraft:savanna": "2021-08-01 10:27:45 +0000",
       "minecraft:plains": "2021-08-01 10:15:45 +0000"
     },
@@ -1644,6 +1700,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2021-08-01 10:18:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2021-08-06 16:43:00 +0000"
     },
     "done": true
   },
@@ -1939,6 +2001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2021-08-06 17:16:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2021-08-04 06:37:46 +0000"
@@ -1954,6 +2022,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
     "criteria": {
       "has_nether_gold_ore": "2021-08-04 11:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2021-08-06 15:34:44 +0000"
     },
     "done": true
   },
@@ -2188,6 +2262,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2021-08-01 10:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2021-08-06 16:43:00 +0000"
     },
     "done": true
   },
@@ -2583,6 +2663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-08-06 15:34:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2021-08-01 10:13:09 +0000"
@@ -2628,6 +2714,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2021-08-01 12:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2021-08-06 16:43:00 +0000"
     },
     "done": true
   },
@@ -2793,6 +2885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2021-08-06 17:16:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-08-05 00:48:57 +0000"
@@ -2820,6 +2918,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-08-01 10:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2021-08-06 17:16:35 +0000"
     },
     "done": true
   },
@@ -3087,6 +3191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2021-08-06 16:43:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2021-08-04 14:07:09 +0000"
@@ -3222,6 +3332,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2021-08-02 16:05:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2021-08-06 15:31:56 +0000"
     },
     "done": true
   },
@@ -3666,6 +3782,12 @@
   "minecraft:recipes/misc/quartz": {
     "criteria": {
       "has_nether_quartz_ore": "2021-08-04 13:57:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-08-06 15:34:57 +0000"
     },
     "done": true
   },

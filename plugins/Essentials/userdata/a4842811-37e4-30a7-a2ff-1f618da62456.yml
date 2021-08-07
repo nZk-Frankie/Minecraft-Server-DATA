@@ -1,16 +1,16 @@
 lastAccountName: Zwittt
 timestamps:
-  login: 1628240644239
-  logout: 1628242104853
+  login: 1628265683189
+  logout: 1628265688703
   lastteleport: 1628175201886
 ipAddress: 202.138.250.61
 logoutlocation:
   world: world
-  x: -2322.654623323419
-  y: 104.0
-  z: -1715.501513890828
-  yaw: -84.6142
-  pitch: 15.017627
+  x: -2326.300000011921
+  y: 84.0
+  z: -1701.7139188544224
+  yaw: 61.644638
+  pitch: 15.745679
 lastlocation:
   world: world
   x: -2294.9907485720573
@@ -43,3 +43,5 @@ homes:
     z: -1711.4542150079797
     yaw: 47.59134
     pitch: 29.580488
+mail:
+- §6[§rchokoVanill§6] §rpls send me nudes

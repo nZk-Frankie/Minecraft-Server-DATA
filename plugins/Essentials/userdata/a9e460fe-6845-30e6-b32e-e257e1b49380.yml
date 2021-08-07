@@ -1,24 +1,24 @@
 lastAccountName: jojojooooo
 timestamps:
-  login: 1628167905189
-  logout: 1628183363901
-  lastteleport: 1628177719534
+  login: 1628255258907
+  logout: 1628259366850
+  lastteleport: 1628258582064
 ipAddress: 103.130.131.19
 logoutlocation:
   world: world
-  x: -2349.300000011921
-  y: 80.0
-  z: -1685.405987087039
-  yaw: 167.66211
-  pitch: 13.506446
+  x: -2334.2183505154753
+  y: 90.0
+  z: -1706.771627107829
+  yaw: -0.5507202
+  pitch: 12.522905
 lastlocation:
   world: world
-  x: -1883.300000011921
-  y: 39.0
-  z: -1410.699999988079
-  yaw: 13.953339
-  pitch: 21.467077
-money: '114825.3499999999997690'
+  x: -2287.699999988079
+  y: 85.0
+  z: -1636.699999988079
+  yaw: -176.84473
+  pitch: 41.55651
+money: '114273.8299999999997690'
 afk: false
 homes:
   home:
@@ -36,3 +36,5 @@ homes:
     yaw: 96.410095
     pitch: 3.0567837
 nickname: bertani
+mail:
+- §6[§rchokoVanill§6] §rpls send me nudes

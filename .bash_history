@@ -203,3 +203,7 @@ git add -A
 git commit -m "6/08/2021 Evening Backup"
 git push -u origin master
 screen -r
+git add -A
+git commit -m "7/08/2021 Evening Backup"
+git push -u origin master
+screen -r

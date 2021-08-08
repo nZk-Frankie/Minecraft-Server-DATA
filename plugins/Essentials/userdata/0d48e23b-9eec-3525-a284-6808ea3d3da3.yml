@@ -1,24 +1,24 @@
 lastAccountName: Asep Penyu
 timestamps:
-  login: 1628267975972
-  logout: 1628270376897
-  lastteleport: 1628240292877
+  login: 1628354602289
+  logout: 1628355242645
+  lastteleport: 1628350561821
 ipAddress: 182.30.34.51
 lastlocation:
   world: world
-  x: -2389.6035613299796
-  y: 85.0
-  z: -1870.0112777847817
-  yaw: 70.91138
-  pitch: 38.835285
+  x: -2367.7381013641725
+  y: 77.0
+  z: -1832.7760586882705
+  yaw: -1.6311612
+  pitch: 18.227686
 logoutlocation:
   world: world
-  x: -2388.3517639955394
-  y: 85.0
-  z: -1868.8725000001386
-  yaw: 1.2998047
-  pitch: 10.976547
-money: '4272.6999999999998'
+  x: -2330.4819480464457
+  y: 78.5
+  z: -1843.2488645190278
+  yaw: -156.22949
+  pitch: 20.1174
+money: '281.87999999999982'
 afk: false
 homes:
   a:

@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2021-08-07 14:26:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2021-08-01 11:09:22 +0000"
@@ -188,6 +194,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2021-08-03 13:17:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2021-08-07 12:25:51 +0000"
     },
     "done": true
   },
@@ -362,6 +374,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-08-02 07:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2021-08-07 06:51:32 +0000"
     },
     "done": true
   },
@@ -679,6 +697,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2021-08-07 12:23:24 +0000",
       "minecraft:skeleton": "2021-08-01 11:43:28 +0000",
       "minecraft:spider": "2021-08-01 11:13:57 +0000",
       "minecraft:creeper": "2021-08-01 11:17:00 +0000",
@@ -812,6 +831,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2021-08-07 06:51:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2021-08-01 11:34:06 +0000"
@@ -920,6 +945,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2021-08-07 14:39:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
     "criteria": {
       "has_deepslate_redstone_ore": "2021-08-03 11:23:44 +0000"
@@ -959,6 +990,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_green_dye": "2021-08-04 09:40:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2021-08-07 12:23:32 +0000"
     },
     "done": true
   },
@@ -1432,16 +1469,30 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_mountains": "2021-08-07 16:14:26 +0000",
       "minecraft:forest": "2021-08-01 11:25:27 +0000",
       "minecraft:mountains": "2021-08-04 13:48:02 +0000",
       "minecraft:taiga": "2021-08-04 14:31:49 +0000",
       "minecraft:desert_hills": "2021-08-01 11:45:31 +0000",
+      "minecraft:snowy_tundra": "2021-08-07 13:38:32 +0000",
       "minecraft:desert": "2021-08-01 11:10:10 +0000",
+      "minecraft:frozen_river": "2021-08-07 13:38:02 +0000",
       "minecraft:birch_forest": "2021-08-01 11:08:12 +0000",
+      "minecraft:snowy_beach": "2021-08-07 16:13:35 +0000",
+      "minecraft:warm_ocean": "2021-08-07 16:12:31 +0000",
+      "minecraft:deep_lukewarm_ocean": "2021-08-07 15:47:34 +0000",
       "minecraft:savanna_plateau": "2021-08-01 11:39:53 +0000",
+      "minecraft:beach": "2021-08-07 14:48:58 +0000",
+      "minecraft:dark_forest": "2021-08-07 14:55:12 +0000",
       "minecraft:river": "2021-08-01 11:10:16 +0000",
+      "minecraft:lukewarm_ocean": "2021-08-07 15:03:39 +0000",
       "minecraft:snowy_taiga": "2021-08-05 13:08:11 +0000",
+      "minecraft:birch_forest_hills": "2021-08-07 14:46:21 +0000",
+      "minecraft:wooded_mountains": "2021-08-07 14:25:37 +0000",
       "minecraft:wooded_hills": "2021-08-01 11:08:19 +0000",
+      "minecraft:stone_shore": "2021-08-07 15:48:57 +0000",
+      "minecraft:swamp": "2021-08-07 14:47:41 +0000",
+      "minecraft:snowy_taiga_hills": "2021-08-07 06:37:48 +0000",
       "minecraft:savanna": "2021-08-01 11:13:03 +0000",
       "minecraft:plains": "2021-08-01 11:10:36 +0000"
     },
@@ -1573,6 +1624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2021-08-07 14:32:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2021-08-01 11:11:35 +0000"
@@ -1674,6 +1731,12 @@
       "has_bamboo": "2021-08-05 14:44:51 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2021-08-07 13:11:45 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
@@ -1846,6 +1909,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2021-08-04 15:06:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-08-07 13:11:45 +0000"
     },
     "done": true
   },
@@ -2287,6 +2356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2021-08-07 14:32:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2021-08-06 04:24:25 +0000"
@@ -2352,6 +2427,12 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2021-08-05 13:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2021-08-07 14:32:29 +0000"
     },
     "done": true
   },
@@ -2577,6 +2658,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-08-07 13:11:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-08-01 11:37:12 +0000"
@@ -2700,6 +2787,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2021-08-02 07:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2021-08-07 16:16:13 +0000"
     },
     "done": true
   },
@@ -2892,6 +2985,12 @@
   "minecraft:recipes/misc/coal_from_blasting_deepslate_coal_ore": {
     "criteria": {
       "has_deepslate_coal_ore": "2021-08-03 11:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2021-08-07 14:40:34 +0000"
     },
     "done": true
   },
@@ -3117,6 +3216,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2021-08-07 12:23:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-08-01 11:14:05 +0000"
@@ -3144,6 +3249,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-08-01 15:59:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2021-08-07 12:23:32 +0000"
     },
     "done": true
   },
@@ -3204,6 +3315,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2021-08-02 08:49:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2021-08-07 16:16:13 +0000"
     },
     "done": true
   },
@@ -3270,6 +3387,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2021-08-02 09:59:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2021-08-07 14:26:30 +0000"
     },
     "done": true
   },

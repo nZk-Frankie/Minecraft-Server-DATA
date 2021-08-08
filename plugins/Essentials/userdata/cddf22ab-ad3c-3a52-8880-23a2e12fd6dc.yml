@@ -1,24 +1,24 @@
 lastAccountName: rexstrawberryy
 timestamps:
-  login: 1628256178639
-  lastteleport: 1628258225579
-  logout: 1628258285212
-ipAddress: 182.253.250.137
+  login: 1628349527389
+  lastteleport: 1628353549547
+  logout: 1628354059398
+ipAddress: 182.253.250.143
 lastlocation:
   world: world
-  x: -468.30000001192093
-  y: 64.0
-  z: 1097.699999988079
-  yaw: -84.5011
-  pitch: 12.749165
+  x: -2354.713980845096
+  y: 77.0
+  z: -1832.1694725943605
+  yaw: 1.0448303
+  pitch: 15.749182
 logoutlocation:
   world: world
-  x: -636.6572179241535
-  y: 85.0
-  z: 866.0271641827301
-  yaw: 140.52171
-  pitch: 46.35003
-money: '676.529999999999750'
+  x: -2369.5206792398994
+  y: 77.0
+  z: -1823.4405159103806
+  yaw: -157.32056
+  pitch: 6.1499486
+money: '4868.999999999999737'
 homes:
   a:
     world: world

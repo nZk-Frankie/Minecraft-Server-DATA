@@ -1,2 +1,109 @@
-[01:48:58] [Server thread/INFO]: CONSOLE issued server command: /list 
-[01:48:58] [Server thread/INFO]: There are 0 out of maximum 20 players online.
+[02:43:29] [Craft Scheduler Thread - 851/INFO]: [Vault] Checking for Updates ... 
+[02:43:30] [Craft Scheduler Thread - 851/INFO]: [Vault] No new version available
+[04:18:21] [User Authenticator #159/INFO]: UUID of player Yanto Kopling is e7fd51e6-b4ce-32b0-9643-90ebe2b2e13b
+[04:18:21] [Server thread/INFO]: Yanto Kopling joined the game
+[04:18:21] [Server thread/INFO]: Yanto Kopling[/36.73.9.52:54592] logged in with entity id 908661 at ([world]-2338.341760894226, 77.0, -1704.3565635708844)
+[04:21:58] [Server thread/INFO]: Yanto Kopling lost connection: Disconnected
+[04:21:58] [Server thread/INFO]: Yanto Kopling left the game
+[04:40:54] [User Authenticator #160/INFO]: UUID of player anginhihi is 0ccf5474-cf19-30e8-8ef8-391769e8826f
+[04:40:54] [Server thread/INFO]: anginhihi joined the game
+[04:40:54] [Server thread/INFO]: anginhihi[/118.137.216.238:59001] logged in with entity id 909377 at ([world]-2271.539864014384, 88.0, -1673.052441013169)
+[04:43:00] [Server thread/INFO]: anginhihi issued server command: /home
+[04:43:03] [Server thread/INFO]: anginhihi issued server command: /home j
+[04:49:26] [Server thread/INFO]: anginhihi issued server command: /shop
+[04:54:15] [Server thread/INFO]: anginhihi issued server command: /delhome j
+[04:54:17] [Server thread/INFO]: anginhihi issued server command: /sethome j
+[04:54:18] [Server thread/INFO]: anginhihi issued server command: /home home
+[04:57:07] [Server thread/INFO]: anginhihi issued server command: /home j
+[04:57:48] [Server thread/INFO]: anginhihi was slain by Zombie
+[04:57:55] [Server thread/INFO]: anginhihi issued server command: /home j
+[04:58:41] [Server thread/INFO]: anginhihi issued server command: /delhome j
+[04:58:44] [Server thread/INFO]: anginhihi issued server command: /sethome j
+[04:58:45] [Server thread/INFO]: anginhihi issued server command: /home home
+[04:59:07] [Server thread/INFO]: anginhihi issued server command: /home j
+[05:04:28] [Server thread/INFO]: anginhihi issued server command: /delhome j
+[05:04:32] [Server thread/INFO]: anginhihi issued server command: /sethome pm
+[05:09:32] [Server thread/INFO]: anginhihi issued server command: /sethome j
+[05:09:33] [Server thread/INFO]: anginhihi issued server command: /home
+[05:09:35] [Server thread/INFO]: anginhihi issued server command: /home home
+[05:11:55] [Server thread/INFO]: anginhihi issued server command: /shop
+[05:12:10] [Server thread/INFO]: anginhihi issued server command: /bal
+[05:13:38] [Server thread/INFO]: anginhihi issued server command: /home j
+[05:13:52] [Server thread/INFO]: anginhihi issued server command: /home home
+[05:15:54] [Server thread/INFO]: anginhihi issued server command: /home
+[05:15:57] [Server thread/INFO]: anginhihi issued server command: /home home
+[05:17:10] [Server thread/INFO]: anginhihi lost connection: Disconnected
+[05:17:10] [Server thread/INFO]: anginhihi left the game
+[05:29:49] [User Authenticator #161/INFO]: UUID of player jojojooooo is a9e460fe-6845-30e6-b32e-e257e1b49380
+[05:29:49] [Server thread/INFO]: jojojooooo joined the game
+[05:29:49] [Server thread/INFO]: jojojooooo[/103.130.131.19:64265] logged in with entity id 918399 at ([world]-2316.2259013264134, 112.0, -1683.8312503655186)
+[05:32:42] [User Authenticator #162/INFO]: UUID of player Yanto Kopling is e7fd51e6-b4ce-32b0-9643-90ebe2b2e13b
+[05:32:42] [Server thread/INFO]: Yanto Kopling joined the game
+[05:32:42] [Server thread/INFO]: Yanto Kopling[/36.73.9.52:63706] logged in with entity id 919013 at ([world]-2335.622174152574, 83.0, -1704.0860855825567)
+[05:35:54] [Server thread/INFO]: jojojooooo has made the advancement [Fishy Business]
+[05:39:34] [Server thread/INFO]: jojojooooo issued server command: /bal
+[05:39:37] [Server thread/INFO]: jojojooooo issued server command: /baltop
+[05:39:50] [Server thread/INFO]: jojojooooo issued server command: /shop
+[05:44:54] [Server thread/INFO]: Yanto Kopling issued server command: /shop
+[05:45:00] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 64 x White Concrete for $512.64 with the buy stacks screen.
+[05:45:00] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 64 x White Concrete for $512.64 with the buy stacks screen.
+[05:45:39] [Server thread/INFO]: Yanto Kopling issued server command: /shop
+[05:45:57] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Quartz Stairs for $145.87 with the buy screen.
+[05:45:58] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Quartz Stairs for $145.87 with the buy screen.
+[05:45:58] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Quartz Stairs for $145.87 with the buy screen.
+[05:45:59] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Quartz Stairs for $145.87 with the buy screen.
+[05:45:59] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Quartz Stairs for $145.87 with the buy screen.
+[05:45:59] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Quartz Stairs for $145.87 with the buy screen.
+[05:46:00] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Quartz Stairs for $145.87 with the buy screen.
+[05:46:00] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Quartz Stairs for $145.87 with the buy screen.
+[05:47:58] [Server thread/INFO]: Yanto Kopling lost connection: Timed out
+[05:47:58] [Server thread/INFO]: Yanto Kopling left the game
+[05:49:24] [User Authenticator #163/INFO]: UUID of player Yanto Kopling is e7fd51e6-b4ce-32b0-9643-90ebe2b2e13b
+[05:49:25] [Server thread/INFO]: Yanto Kopling joined the game
+[05:49:25] [Server thread/INFO]: Yanto Kopling[/36.72.216.96:24581] logged in with entity id 921295 at ([world]-2313.1690438638925, 77.0, -1709.9139643441333)
+[05:53:12] [Server thread/INFO]: Yanto Kopling issued server command: /shop
+[05:53:17] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Hopper for $119.98 with the buy screen.
+[05:53:24] [Server thread/INFO]: Yanto Kopling issued server command: /shop
+[05:55:15] [Server thread/INFO]: Yanto Kopling issued server command: /shop
+[05:55:23] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Tripwire Hook for $11.91 with the buy screen.
+[05:56:15] [Server thread/INFO]: Yanto Kopling issued server command: /shop
+[05:56:20] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Campfire for $33.33 with the buy screen.
+[05:56:20] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Campfire for $33.33 with the buy screen.
+[05:56:56] [Server thread/INFO]: Yanto Kopling issued server command: /shop
+[05:57:28] [Server thread/INFO]: Yanto Kopling issued server command: /shop
+[05:57:33] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Calcite for $10 with the buy screen.
+[05:57:33] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Calcite for $10 with the buy screen.
+[05:57:33] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Calcite for $10 with the buy screen.
+[05:57:33] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Calcite for $10 with the buy screen.
+[05:57:34] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Calcite for $10 with the buy screen.
+[05:57:34] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Calcite for $10 with the buy screen.
+[05:57:34] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Calcite for $10 with the buy screen.
+[05:57:34] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Calcite for $10 with the buy screen.
+[05:57:34] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Calcite for $10 with the buy screen.
+[05:57:34] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Calcite for $10 with the buy screen.
+[05:57:57] [Server thread/INFO]: Yanto Kopling issued server command: /shop
+[05:58:04] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Diorite for $0.72 with the buy screen.
+[05:58:04] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Diorite for $0.72 with the buy screen.
+[05:58:05] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Diorite for $0.72 with the buy screen.
+[05:58:05] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Diorite for $0.72 with the buy screen.
+[05:58:05] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Diorite for $0.72 with the buy screen.
+[05:58:05] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Diorite for $0.72 with the buy screen.
+[05:58:06] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Diorite for $0.72 with the buy screen.
+[05:58:06] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Diorite for $0.72 with the buy screen.
+[05:58:06] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Diorite for $0.72 with the buy screen.
+[05:58:06] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Diorite for $0.72 with the buy screen.
+[05:58:34] [User Authenticator #164/INFO]: UUID of player anginhihi is 0ccf5474-cf19-30e8-8ef8-391769e8826f
+[05:58:34] [Server thread/INFO]: anginhihi joined the game
+[05:58:34] [Server thread/INFO]: anginhihi[/118.137.216.238:57331] logged in with entity id 922281 at ([world]-2254.314880862478, 93.0, -1673.5744982860263)
+[06:00:05] [Server thread/INFO]: Yanto Kopling issued server command: /shop
+[06:00:12] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Cake for $240.68 with the buy screen.
+[06:00:22] [Server thread/INFO]: Yanto Kopling issued server command: /shop
+[06:00:38] [Server thread/INFO]: anginhihi issued server command: /home
+[06:00:42] [Server thread/INFO]: anginhihi issued server command: /home j
+[06:01:12] [Server thread/INFO]: Yanto Kopling issued server command: /shop
+[06:01:14] [Server thread/INFO]: jojojooooo issued server command: /shop
+[06:01:19] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Hopper for $119.98 with the buy screen.
+[06:01:19] [Server thread/INFO]: [EconomyShopGUI] ~budaktambang bought 1 x Hopper for $119.98 with the buy screen.
+[06:01:19] [Server thread/INFO]: [EconomyShopGUI] jojojooooo sold 64 x Rotten Flesh for $80 with the sell screen.
+[06:01:57] [Server thread/INFO]: Named entity EntityZombie['Zombie (22)'/918430, uuid='018b918d-4ebe-46cc-a0a0-1b877b70b04d', l='ServerLevel[world]', x=-2296.30, y=29.06, z=-1683.70, cpos=[-144, -106], tl=74725, v=true, rR=null] died: Zombie (22) was slain by jojojooooo
+[06:02:00] [Server thread/INFO]: Named entity EntityZombie['Zombie (21)'/923210, uuid='18e9c169-9732-4eae-aa14-e7a52881b335', l='ServerLevel[world]', x=-2296.30, y=29.06, z=-1683.70, cpos=[-144, -106], tl=73, v=true, rR=null] died: Zombie (21) was slain by jojojooooo

@@ -1,24 +1,24 @@
 lastAccountName: JuniorGamingPro
 timestamps:
-  login: 1628221009829
-  logout: 1628245270697
-  lastteleport: 1628243560749
+  login: 1628338692089
+  logout: 1628354179847
+  lastteleport: 1628347213068
 ipAddress: 182.253.250.172
 logoutlocation:
   world: world
-  x: -2373.9896106666047
-  y: 79.0625
-  z: -1825.9656489993592
-  yaw: -79.75256
-  pitch: 0.89935106
+  x: -2367.0119102481476
+  y: 77.0
+  z: -1821.8653266093543
+  yaw: -163.08289
+  pitch: 12.900318
 lastlocation:
   world: world
-  x: -638.861344204158
-  y: 89.0
-  z: 903.7197581491769
-  yaw: -138.53156
-  pitch: 7.9499717
-money: '3485.21000000000181'
+  x: -2367.7419159303963
+  y: 77.0
+  z: -1827.335452199324
+  yaw: -169.4491
+  pitch: 16.800552
+money: '1641.71000000000181'
 afk: false
 nickname: Junior
 homes:

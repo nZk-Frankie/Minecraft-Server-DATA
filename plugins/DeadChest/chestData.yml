@@ -367,3 +367,66 @@ chestData:
   - null
   - null
   chestLocation: world;-301.0;53.0;158.0
+- ==: ChestData
+  playerUUID: 3f5cfbac-e76c-3e62-8d9a-74e1fb39f507
+  holographicTimer: world;-2287.5;10.799999952316284;-1586.5
+  worldName: world
+  as_timer_id: e8ad7f9f-ba41-4ec3-adf1-5a75f7ecebbc
+  playerName: Axelentien
+  isInfinity: false
+  as_owner_id: 47df23cd-9318-49af-9d57-d9cbc8d64601
+  chestDate: 2021-08-07T05:25:44.205Z
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: WOODEN_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 1
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: CRAFTING_TABLE
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: STICK
+    amount: 5
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: world;-2288.0;10.0;-1587.0

@@ -1,25 +1,25 @@
 lastAccountName: Yanto Kopling
 timestamps:
-  login: 1628263697639
-  lastteleport: 1628188376811
-  logout: 1628265725004
-ipAddress: 180.254.251.173
+  login: 1628401765089
+  lastteleport: 1628326751884
+  logout: 1628401678098
+ipAddress: 36.72.216.96
 lastlocation:
-  world: world
-  x: -2327.058441704436
-  y: 84.0
-  z: -1703.20356001896
-  yaw: -161.51523
-  pitch: 59.7005
+  world: world_nether
+  x: -668.9020192546421
+  y: 22.0
+  z: -514.4562291338103
+  yaw: 28.425323
+  pitch: 21.299904
 afk: false
-money: '14578.4499999999999999'
+money: '13600.0900000000000002'
 logoutlocation:
   world: world
-  x: -2329.2489234179075
-  y: 97.0
-  z: -1701.892982417396
-  yaw: 51.740387
-  pitch: 33.14997
+  x: -2313.1690438638925
+  y: 77.0
+  z: -1709.9139643441333
+  yaw: -114.62842
+  pitch: 11.848749
 nickname: budaktambang
 homes:
   tambang:
@@ -36,5 +36,12 @@ homes:
     z: -1703.7491689413864
     yaw: 3.4848351
     pitch: 35.400448
+  sand:
+    world: world
+    x: -4246.161742651548
+    y: 63.0
+    z: -1813.300000011921
+    yaw: -5.492329
+    pitch: 24.900043
 mail:
 - §6[§rchokoVanill§6] §rpls send me nudes

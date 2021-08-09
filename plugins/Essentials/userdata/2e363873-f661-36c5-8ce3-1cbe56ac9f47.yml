@@ -1,24 +1,24 @@
 lastAccountName: JuniorGamingPro
 timestamps:
-  login: 1628338692089
-  logout: 1628354179847
-  lastteleport: 1628347213068
+  login: 1628487991860
+  logout: 1628412194648
+  lastteleport: 1628411605354
 ipAddress: 182.253.250.172
 logoutlocation:
   world: world
-  x: -2367.0119102481476
-  y: 77.0
-  z: -1821.8653266093543
-  yaw: -163.08289
-  pitch: 12.900318
+  x: -2367.110911641136
+  y: 77.0625
+  z: -1825.0848316472052
+  yaw: -26.713837
+  pitch: 16.650227
 lastlocation:
   world: world
-  x: -2367.7419159303963
-  y: 77.0
-  z: -1827.335452199324
-  yaw: -169.4491
-  pitch: 16.800552
-money: '1641.71000000000181'
+  x: 671.8633689875244
+  y: 44.0
+  z: 3338.386320626788
+  yaw: 84.372925
+  pitch: 17.699972
+money: '1808.16000000000181'
 afk: false
 nickname: Junior
 homes:
@@ -36,5 +36,12 @@ homes:
     z: -1835.3139838674174
     yaw: -118.30737
     pitch: 14.400557
+  farm:
+    world: world
+    x: 645.1761920143084
+    y: 64.0
+    z: 3384.851756860108
+    yaw: 160.00781
+    pitch: 18.149446
 mail:
 - §6[§rchokoVanill§6] §rpls send me nudes

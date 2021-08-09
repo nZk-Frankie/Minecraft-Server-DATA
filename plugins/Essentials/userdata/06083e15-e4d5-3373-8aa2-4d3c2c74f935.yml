@@ -1,24 +1,24 @@
 lastAccountName: Blue2NetWork
 timestamps:
-  login: 1628354418689
-  logout: 1628355226246
-  lastteleport: 1628337641585
+  login: 1628410691889
+  logout: 1628411390505
+  lastteleport: 1628410962225
 ipAddress: 139.255.161.241
 afk: false
 logoutlocation:
   world: world
-  x: -2331.9404935278035
-  y: 78.0
-  z: -1848.8890465441264
-  yaw: -124.875
-  pitch: 20.585196
+  x: 1147.7473503043116
+  y: 29.0
+  z: 2930.6217628044656
+  yaw: -157.63872
+  pitch: 4.053906
 lastlocation:
   world: world
-  x: -2383.5157118812494
-  y: 63.0
-  z: -1797.07307487482
-  yaw: -48.533936
-  pitch: 4.732071
+  x: -2287.4793608098016
+  y: 104.47191781987158
+  z: -1677.699999988079
+  yaw: 177.38269
+  pitch: 38.619186
 homes:
   base:
     world: world

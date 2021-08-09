@@ -1914,6 +1914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2021-08-08 06:19:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2021-08-02 10:49:09 +0000"
@@ -2155,6 +2161,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2021-08-02 10:29:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2021-08-08 06:18:15 +0000"
     },
     "done": true
   },

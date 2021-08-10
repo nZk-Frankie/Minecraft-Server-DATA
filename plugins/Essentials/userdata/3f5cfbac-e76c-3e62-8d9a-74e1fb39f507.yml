@@ -1,8 +1,8 @@
 lastAccountName: Axelentien
 timestamps:
-  login: 1628357383539
+  login: 1628518205589
   lastteleport: 1628318802462
-  logout: 1628357542649
+  logout: 1628520562410
 ipAddress: 110.138.55.75
 lastlocation:
   world: world
@@ -13,12 +13,12 @@ lastlocation:
   pitch: 21.899738
 logoutlocation:
   world: world
-  x: -2338.7540517796106
-  y: 83.0
-  z: -1707.300000011921
-  yaw: -13.30954
-  pitch: 23.100264
-money: '762.72999999999999'
+  x: -2309.5598518949614
+  y: 89.5
+  z: -1509.7803189583992
+  yaw: -169.58423
+  pitch: 28.65002
+money: '1308.1500000000000005'
 homes:
   home:
     world: world

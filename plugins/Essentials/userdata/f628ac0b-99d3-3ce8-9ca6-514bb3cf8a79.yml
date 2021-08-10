@@ -1,16 +1,16 @@
 lastAccountName: Legnum
 timestamps:
-  login: 1628433103887
-  logout: 1628434188504
+  login: 1628516134989
+  logout: 1628517026058
   lastteleport: 1628434186790
 ipAddress: 180.243.255.91
 logoutlocation:
   world: world
-  x: -2334.5
-  y: 83.0
-  z: -1659.5
-  yaw: -174.2149
-  pitch: 10.330448
+  x: -2335.9789190401098
+  y: 84.0
+  z: -1666.288980636294
+  yaw: -170.25505
+  pitch: 11.172511
 lastlocation:
   world: world
   x: -2419.5321200020635
@@ -18,7 +18,7 @@ lastlocation:
   z: -1835.8120425820007
   yaw: -31.773804
   pitch: 14.408492
-money: '173242.5700000000000356'
+money: '170536.9700000000000356'
 homes:
   home:
     world: world

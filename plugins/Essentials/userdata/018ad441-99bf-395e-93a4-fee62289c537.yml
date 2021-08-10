@@ -1,33 +1,33 @@
 lastAccountName: milkshakes09
 timestamps:
-  login: 1628485490989
-  logout: 1628453834855
-  lastteleport: 1628488259326
-ipAddress: 118.96.38.222
+  login: 1628524828589
+  logout: 1628524956495
+  lastteleport: 1628521482534
+ipAddress: 114.124.203.172
 logoutlocation:
   world: world
-  x: -2292.4868449380783
-  y: 117.5
-  z: -1703.9464874090443
-  yaw: -82.32396
-  pitch: 14.2496195
+  x: -6117.699999988079
+  y: 24.0
+  z: 1221.300000011921
+  yaw: -76.27649
+  pitch: 12.29973
 lastlocation:
   world: world
-  x: -2364.8787716192824
-  y: 65.0
-  z: -1642.4455503737308
-  yaw: -112.48755
-  pitch: 7.187587
+  x: -4538.804049423305
+  y: 63.8469499805212
+  z: 1850.5525078428236
+  yaw: 40.643684
+  pitch: 35.09957
 nickname: menggokil
-money: '218911.499999999998838'
+money: '259714.019999999998833'
 homes:
   home:
     world: world
-    x: -2282.5885048564696
-    y: 117.0
-    z: -1704.5534148561815
-    yaw: 88.07715
-    pitch: 19.799599
+    x: -2372.9701493575517
+    y: 68.0
+    z: -1615.3271464979773
+    yaw: -154.07584
+    pitch: 13.8743515
   sea:
     world: world
     x: 644.7857314596347
@@ -42,6 +42,13 @@ homes:
     z: 671.7859790406073
     yaw: 157.56604
     pitch: 19.40007
+  rumah:
+    world: world
+    x: -2293.5335433237915
+    y: 117.0
+    z: -1704.4179564540948
+    yaw: -102.15144
+    pitch: 11.339118
 afk: false
 mail:
 - §6[§rchokoVanill§6] §rpls send me nudes

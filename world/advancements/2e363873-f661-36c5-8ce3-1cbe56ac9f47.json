@@ -1542,12 +1542,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2021-08-10 08:01:25 +0000",
       "minecraft:snowy_mountains": "2021-08-07 16:14:26 +0000",
       "minecraft:forest": "2021-08-01 11:25:27 +0000",
       "minecraft:mountains": "2021-08-04 13:48:02 +0000",
       "minecraft:taiga": "2021-08-04 14:31:49 +0000",
       "minecraft:desert_hills": "2021-08-01 11:45:31 +0000",
+      "minecraft:giant_tree_taiga": "2021-08-10 07:59:41 +0000",
       "minecraft:snowy_tundra": "2021-08-07 13:38:32 +0000",
+      "minecraft:taiga_hills": "2021-08-10 07:59:39 +0000",
       "minecraft:desert": "2021-08-01 11:10:10 +0000",
       "minecraft:frozen_river": "2021-08-07 13:38:02 +0000",
       "minecraft:birch_forest": "2021-08-01 11:08:12 +0000",

@@ -1,4 +1,32 @@
-[02:43:29] [Craft Scheduler Thread - 1092/INFO]: [Vault] Checking for Updates ... 
-[02:43:30] [Craft Scheduler Thread - 1092/INFO]: [Vault] No new version available
-[03:14:33] [Server thread/INFO]: CONSOLE issued server command: /list 
-[03:14:33] [Server thread/INFO]: There are 0 out of maximum 20 players online.
+[01:39:53] [Craft Scheduler Thread - 12/INFO]: [Vault] Checking for Updates ... 
+[01:39:54] [Craft Scheduler Thread - 12/INFO]: [Vault] No new version available
+[07:02:50] [User Authenticator #3/INFO]: UUID of player anginhihi is 0ccf5474-cf19-30e8-8ef8-391769e8826f
+[07:02:51] [Server thread/INFO]: anginhihi joined the game
+[07:02:51] [Server thread/INFO]: anginhihi[/118.137.216.238:58834] logged in with entity id 1431 at ([world]-2267.04756958842, 93.0, -1674.3246509446567)
+[07:06:09] [Server thread/INFO]: anginhihi issued server command: /home pm
+[07:08:57] [Server thread/INFO]: anginhihi issued server command: /sethome pm
+[07:08:59] [Server thread/INFO]: anginhihi issued server command: /home h
+[07:10:21] [Server thread/INFO]: anginhihi issued server command: /home pm
+[07:28:28] [Server thread/INFO]: anginhihi issued server command: /sethome pm
+[07:28:42] [Server thread/INFO]: anginhihi issued server command: /home h
+[07:30:01] [Server thread/INFO]: anginhihi issued server command: /shop
+[07:30:17] [Server thread/INFO]: [EconomyShopGUI] ~yormomgey sold 29 x Redstone Block for $359.89 with the sell all screen.
+[07:31:36] [Server thread/INFO]: anginhihi issued server command: /shop
+[07:31:51] [Server thread/INFO]: anginhihi issued server command: /bal
+[07:31:56] [Server thread/INFO]: anginhihi issued server command: /shop
+[07:32:49] [Server thread/INFO]: anginhihi issued server command: /shop
+[07:32:55] [Server thread/INFO]: [EconomyShopGUI] anginhihi sold 1 x Fletching Table for $2.21 with the sell screen.
+[07:32:57] [Server thread/INFO]: [EconomyShopGUI] anginhihi sold 1 x Grindstone for $0.99 with the sell screen.
+[07:33:00] [Server thread/INFO]: [EconomyShopGUI] ~yormomgey sold 2 x Lectern for $63.76 with the sell all screen.
+[07:33:02] [Server thread/INFO]: [EconomyShopGUI] anginhihi sold 1 x Smithing Table for $12.19 with the sell screen.
+[07:33:45] [Server thread/INFO]: anginhihi issued server command: /home pm
+[07:34:17] [Server thread/INFO]: anginhihi issued server command: /home h
+[07:38:10] [Server thread/INFO]: anginhihi issued server command: /home
+[07:38:12] [Server thread/INFO]: anginhihi issued server command: /home h
+[07:39:53] [Craft Scheduler Thread - 14/INFO]: [Vault] Checking for Updates ... 
+[07:39:54] [Craft Scheduler Thread - 14/INFO]: [Vault] No new version available
+[07:40:11] [Server thread/INFO]: anginhihi issued server command: /home h
+[07:41:24] [Server thread/INFO]: anginhihi lost connection: Disconnected
+[07:41:24] [Server thread/INFO]: anginhihi left the game
+[13:08:03] [Server thread/INFO]: CONSOLE issued server command: /list 
+[13:08:03] [Server thread/INFO]: There are 0 out of maximum 20 players online.

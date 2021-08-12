@@ -1,7 +1,7 @@
 lastAccountName: chokoVanill
 timestamps:
-  login: 1628515217439
-  logout: 1628520409765
+  login: 1628667674255
+  logout: 1628667692637
   lastteleport: 1628520407917
 ipAddress: 106.69.44.229
 money: '3798.7400000000000728'
@@ -10,8 +10,8 @@ logoutlocation:
   x: -2302.5
   y: 93.0
   z: -1718.5
-  yaw: -125.379105
-  pitch: 23.107857
+  yaw: -106.929115
+  pitch: 20.257856
 lastlocation:
   world: world
   x: -2171.699999988079

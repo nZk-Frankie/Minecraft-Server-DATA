@@ -628,7 +628,8 @@
       "minecraft:enderman": "2021-08-04 17:03:11 +0000",
       "minecraft:silverfish": "2021-08-08 06:06:16 +0000",
       "minecraft:zombie": "2021-08-03 21:12:01 +0000",
-      "minecraft:drowned": "2021-08-04 17:37:00 +0000"
+      "minecraft:drowned": "2021-08-04 17:37:00 +0000",
+      "minecraft:zombie_villager": "2021-08-12 07:12:47 +0000"
     },
     "done": false
   },
@@ -1285,6 +1286,7 @@
       "minecraft:birch_forest_hills": "2021-08-03 20:52:20 +0000",
       "minecraft:wooded_mountains": "2021-08-07 21:08:02 +0000",
       "minecraft:wooded_hills": "2021-08-03 20:48:36 +0000",
+      "minecraft:stone_shore": "2021-08-10 18:01:07 +0000",
       "minecraft:wooded_badlands_plateau": "2021-08-08 07:15:18 +0000",
       "minecraft:swamp": "2021-08-03 21:08:21 +0000",
       "minecraft:snowy_taiga_hills": "2021-08-04 05:07:49 +0000",
@@ -1656,6 +1658,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2021-08-04 06:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2021-08-12 07:29:45 +0000"
     },
     "done": true
   },
